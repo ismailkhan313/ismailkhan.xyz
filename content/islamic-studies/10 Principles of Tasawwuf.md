@@ -71,7 +71,11 @@ Shaykh Faisal said the following:
 
 > This is important to recognize because if we engage in tasawwuf without adhering to fiqh we may be led astray, and if we focus on fiqh without tasawwuf there will be a dryness in your Islam; there will be an inner vacuum which will be present, and whenever there is a vacuum, something out of necessity will fill its space. And we’re seeing this manifest in the ummah today, this vacuum is being filled with extremism. The people who follow fiqh without tasawwuf have a spiritual vaccum in them, and in most cases its filled with extremism. And the nature and substance of the extremist groups attest to this.
 
-Imam Ash-Shadhili also said, 'whoever does not study deeply this discipline of tasawwuf may die persisting in major sins without being aware of it.'
+Imam Abul-Hasan ash-Shadhili said:
+
+>مَن لَم يَتَغَلْغَل فِي عِلْمِنَا هَذَا مَاتَ مُصِرًّا عَلَى الكَبَائِرِ وَهُوَ لَا يَشْعُرُ
+>
+>He who does not deeply and truly acquire this discipline will die persisting on major sins without being aware of it.
 
 Shaykh Hamza Yusuf has a lecture series on logic with one section on logic and spirituality. In that lecture he covers this quote and elaborates from it. It is worth adding that here. 
 ## Principle 6: The pioneer – الواضع
@@ -80,9 +84,9 @@ The word al-wadi means the one that sets forth this branch of knowledge. The pio
 
 ## Principle 7: The name – الاسم
 
-The word Taṣawwuf is derived from wool (souf; علم التصوف); or from purity (safa); or from the special place of a group of the sahaba in the Holy Sanctuary of the Prophet (suffa; ahlul suffaha). Taṣawwuf has been known by this name since the second century of hijra, and this is during the time of the Salaf  It has been frequently called `ilm as-Sulûk (initiatic travelling & spiritual behaviour), `ilm al-Ihsân, `ilm at-Tarbiyah (cultivation) or `ilm at-Tazkiyah (purification).
+The word Taṣawwuf, also called ʿilm al-taṣawwuf (علم التصوف), has its etmology derived from wool (ṣūf), or from purity (ṣafāʾ), or from the special place (ṣuffa; ahl al-ṣuffa) of a group of the ṣaḥāba in the Holy Sanctuary of the Prophet ﷺ. Taṣawwuf has been known by this name since the second century of hijra, and this is during the time of the Salaf. It has been frequently called initiatic travelling (ʿilm al-sulūk) and spiritual behavior (ʿilm al-iḥsān), cultivation (ʿilm al-tarbiyah), purification (ʿilm al-tazkiyah).
 
-Imam Hasan al-Basri said, and the others scholars agreed that before it’s name, it was always a reality without a name.
+Imam Hasan al-Basri said, and the others scholars agreed that before it’s name, it was always a 'reality without a name' in the time of the Prophet and the Companions.
 
 ## Principle 8: The sources – الاستمداد
 
@@ -90,35 +94,39 @@ Taṣawwuf is derived from Qurʾān and Sunnah as the sources and proofs of its 
 
 ## Principle 9: The legal ruling – حكم الشارع
 
-The legal ruling of studying tasawwuf is fard i.e. obligatory. Since all human beings are susceptible to sins except the Prophets.
+The legal ruling of studying taṣawwuf is obligatory (fard), since all human beings are susceptible to sins except the Prophets.
 
-Imam Abul-Hasan ash-Shadhili said,
+Imam Abul-Hasan ash-Shadhili said:
 
-من لم يتغلغل في علمنا هذا مات مصرا على الكبائر و هو لا يشعر
-
-man lam yataghalghal fi `ilmina hadha maata musirran `ala al-kaba´ir wa lam yash`ur
-
-He who does not deeply and truly acquire this discipline will die persisting on major sins without being aware of it.
+>مَن لَم يَتَغَلْغَل فِي عِلْمِنَا هَذَا مَاتَ مُصِرًّا عَلَى الكَبَائِرِ وَهُوَ لَا يَشْعُرُ
+>
+>He who does not deeply and truly acquire this discipline will die persisting on major sins without being aware of it.
 
 ## Principle 10: The issues discussed – مسائله
 
-Taṣawwuf tackles some of the cardinal elements of the deen such as:
-
-- sincerity (ikhlas),  
-- truthfulness (sidq),
-- religious cautiousness (wara’),
-- conscious awareness (khushu’),
+Taṣawwuf tackles some of the cardinal elements of the religion (deen) such as:
+- sincerity (ikhlāṣ),  
+- truthfulness (ṣidq),
+- religious cautiousness (waraʿ),
+- conscious awareness (khushūʿ),
 - reliance (tawakkul),
-- asceticism (zuhd)
-- love (mahabba);
+- asceticism (zuhd),
+- love (maḥabba);
 
-And similarly all their opposites, which are the diseases of the hearts such as: insincerity, hypocrisy, arrogance. greed, and so on.
+And similarly all their opposites, which are the diseases of the hearts such as: 
+- insincerity (riyāʾ), 
+- hypocrisy (nifāq), 
+- arrogance (kibr), 
+- greed (ṭamaʿ), and so on.
 
-It also tackles subtle subjects such as the passing of thoughts; the states of the heart; inspirations.
+It also tackles subtle subjects such as:
+- the passing of thoughts (khawāṭir),
+- the states of the heart (aḥwāl al-qalb),
+- inspirations (ilhāmāt).
 
-One of its most important subjects is dhikr, the remembrance (i.e. in the evocation & recitation of the name) of Allah and its virtues.
+One of its most important subjects is the remembrance i.e., in the evocation and recitation of the name of Allah and its virtues. This is known as dhikr. 
 
-Another is the shaykh and his qualifications, the disciple, murid, and his adab.
+Other issues pertain to the shaykh and his qualifications, the disciple (murīd) and his adab.
 
 ## Foundational works in Taṣawwuf
 

@@ -129,6 +129,10 @@ a {
   }
 
   & article {
+    // text font size for every note.
+    font-size: 1.2rem;
+    line-height: 1.6rem;
+
     & > h1 {
       font-size: 2rem;
     }

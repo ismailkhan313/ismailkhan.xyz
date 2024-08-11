@@ -1,12 +1,13 @@
-This post may benefit the enthusiatic or long-term reader in the approach I take to publish my notes. 
+This post might be particularly useful for dedicated readers interested in how I publish my notes.
 
-I use the Brill Arabic-English transliteration system. As a rule, I avoid using this as much as possible as it's 'busywork' that doesn't add tremendous value and takes up time.
+When necessary, I use the [Brill Arabic-English transliteration system](https://referenceworks.brillonline.com/pages/help/transliteration-islam). However, I generally avoid using transliteration whenever possible since the effort of the busywork involved doesn’t justify the value, especially given the volume of notes I produce over time.
 
-I use the M.A.S. Abdul-Haleem Quran translation in my notes. No English translation is perfect, some translations have their own intentions and use cases, and all come with their baggages and problematic issues. But by using one translation in this space it serves the vision of consistency which I deem important.
+For Quran translations, I rely on [The Qur'an translated by M.A.S. Abdel Haleem](https://global.oup.com/academic/product/the-qur-an-9780199535958). It’s accessible and coherent, making it suitable for a wide audience. Sticking to a single, well-regarded translation helps maintain the consistency I consider essential.
 
-I use the Amiri font that has a classic English typeface and is compatiblite as a traditional Arabic Naksh font. 
+The [Amiri font](https://www.amirifont.org/) is used throughout this site as sourced via [Google Fonts](https://fonts.google.com/). This typeface, inspired by the classical Naksh style, is ideal for long-form text in both English and Arabic. Its readability as a web font is the main reason for its selection.
 
-Do you see any mistakes? Submit your revisions at ismailkhan.xyz@gmail.com and I conduct a review in sha Allah.
+Finally, some may need to know where I stand regarding the 'definition of Islam' or who I 'consider a Muslim.' My views align with Ahlus Sunnah wal Jamaah or mainstream Sunni Islam, and I consider someone a Muslim based on the principles and declarations outlined in [The Amman Message](https://ammanmessage.com/the-three-points-of-the-amman-message-v-2/) issued in the early 2000s by authoritative Islamic scholars from eighty-four countries.
 
+If you spot any errors or have suggestions feel free to submit your revisions to ismailkhan.dev[at]gmail.com whereupon I will take a look, in sha Allah.
 
 

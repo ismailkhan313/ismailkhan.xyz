@@ -39,7 +39,6 @@ In this sense the definition of reality (ḥaqīqah) is:
 - Every reality is a singular state of being.
 - To acquire a reality necessitates its realization and manifestation of it.
 - Each reality has degrees of realization and manifestation.
-
 The true reality of Taṣawwuf is to _be something_; in other words, to *be* with Allāh (SWT). As Allāh is the Ultimate Reality. Therefore, to *be* something in the truest sense of reality is to *be* with Allāh.
 
 The ḥaqīqah of dhikr: to be something; in other words, to *be* with Allāh *in* the dhikr. The role of the Shaykh shows the murid how to be with Allāh until he attain multiple realities.
@@ -57,11 +56,13 @@ Therefore, maintain tawakkul in Allāh until that time comes. Do not be upset ab
 
 Take care of the things that Allāh says for you to take care of. Namely, take care of your nafs, and get your nafs to Paradise.
 
-# Why Take the Path if the Awwam are Saved?
+# Why the Path if the Awwam are Saved?
 
-Question: why should the murid struggle on the spiritual Path if it suffices the believer to follow the general outlines of Islam to be saved? Especially if by following the general outlines the believer will still achieve endless bliss from it?
+Question: Why should the murid struggle on the spiritual Path if it suffices the believer to follow the general outlines of Islam to be saved? Especially if by following the general outlines the believer will still achieve endless bliss from it?
 
-Answer: It is as Imām Jalāludīn Ar-Rūmī said, 'somebody who is given amnesty for his crimes is not like somebody who reaches a high place with the King.'
+Answer: It is as Imam Jalāludīn Ar-Rūmī said,
+
+> 'somebody who is given amnesty for his crimes is not like somebody who reaches a high place with the King.'
 
 The Path is to reach the highest of degrees, so you can be accepted by the King and reach a high position with Him in His Court. This would not be the case for the person who is merely forgiven and accepted by Allāh, except by His leave.
 
@@ -80,27 +81,50 @@ According to the Imām, the knower of Allāh (*ʿarif*) is:
 
 The paradise for the Sufi can begin now by reaching Allāh in this world through attainment of inner knowledge (*maʿrifah*). For the ʿarif, the paradise of the knowledge of Allāh (_jannatul ʿarif_) is entered first before entering actual paradise (_jannatul zakarif_).
 
-Attaining *jannatul ʿarif* comes from prolonged dhikr, *mushahadah*, being with the One of Absolute Beauty, being with the Countenance of Allāh (_wajh_). *Mushahadah* is to actively witness Allāh in everything; a state of active wariness and presence of Allāh. In essence, attaining a constant state of *mushahadah* comes from spending all one's time striving to be with His Being. The Prophet (saw) said, 'watch carefully over Allāh [through obeying His commands and leaving His prohibitions] and you will find Him right in front of you (*ahfadila tajidutu tajadak*)' ([Jami' at-Tirmidhi 2516](https://sunnah.com/tirmidhi:2516)). 
+Attaining *jannatul ʿarif* comes from prolonged dhikr, *mushahadah*, being with the One of Absolute Beauty, being with the Countenance of Allāh (_wajh_). *Mushahadah* is to actively witness Allāh in everything; a state of active wariness and presence of Allāh. In essence, attaining a constant state of *mushahadah* comes from spending all one's time striving to be with His Being. 
+
+The Prophet (saw) said,
+> 'watch carefully over Allāh [through obeying His commands and leaving His prohibitions] and you will find Him right in front of you.' (*ahfadila tajidutu tajadak*) ([Jami' at-Tirmidhi 2516](https://sunnah.com/tirmidhi:2516)). 
 
 In sum, someone who is with Allāh in this world is someone who has already entered Paradise.
 ## Maʿrifah and the Murid
 
 The nature of the murid who has *maʿrifah* always asks of himself, 'How can I give thanks to Allāh as it befits the blessing He has put me in?'
 
-Ibn ʿAṭā ʿIllāh As-Sakandarī said, 'That which the ʿarifīn seek, when they ask for something from Allāh, Allāh will not put anything on their lips except because He wants to give it to them.' Note this is the case for ordinary Muslims as well.
+Ibn ʿAṭā ʿIllāh As-Sakandarī said, 
+
+> 'That which the ʿarifīn seek, when they ask for something from Allāh, Allāh will not put anything on their lips except because He wants to give it to them.' 
+
+Note this is the case for ordinary Muslims as well.
 
 ## What do the ʿArifīn ask for?
 
-Regarding this question Ibn ʿAṭā ʿIllāh said, 'They want genuineness in expressing their slavehood to Allāh.'
+Regarding this question Ibn ʿAṭā ʿIllāh said, 
 
-Ruwaym Ibn Aḥmad said, 'Gratitude to the Divine is spending everything you got for Allāh (_as-shukru istighfraha dhaka_).' In other words, every moment, breath, limbs, heart, desires, inmost secrets is for Allāh. Ruwaym Ibn Aḥmad was a companion (*sahib*) of Imām Junayd and a Shādhilī master in his own right. He also said, 'And undertaking to discharge to Allāh what is due to Him.' Meaning, no one can claim they are everything Allāh is asking of them. Those who say they are do not understand what is going on, they are deluded.
+> 'They want genuineness in expressing their slavehood to Allāh.'
 
-The Prophet (saw) said, 'There is no one who is more jealous (_ghirah_) than Allāh.' (Ṣaḥīḥ of Imām Al-Bukhārī; ma min ahadin aghi min Allāhi.)
+Ruwaym Ibn Aḥmad said, 
 
-## The Sufi is one who demands everything
+> 'Gratitude to the Divine is spending everything you got for Allāh (_as-shukru istighfraha dhaka_).' 
 
-The Sufi’s demand everything, they want to reach Allāh in everything. The Sufi Path wants everything from Allāh, such as high stations, high rank, closeness to Allāh, high spot in Jannah. Therefore, the price for this is to pay everything to Allāh.
-# Hadith of Ibn ʿAbbās: “Watch Over Allāh And You Will Find Him In Front Of You.”
+In other words, every moment, breath, limbs, heart, desires, inmost secrets is for Allāh. 
+
+Ruwaym Ibn Aḥmad was a companion (sahib) of Imām Junayd and a Shādhilī master in his own right. He also said, 
+
+> 'And undertaking to discharge to Allāh what is due to Him.' 
+
+Meaning, no one can claim they are everything Allāh is asking of them. Those who say they are do not understand what is going on, they are deluded.
+
+To this effect the Prophet (saw) said, 
+
+> 'There is no one who is more jealous (_ghirah_) than Allāh.' (Ṣaḥīḥ of Imām Al-Bukhārī; ma min ahadin aghi min Allāhi.)
+
+## The Sufi is One Who Demands Everything
+
+The Sufi is one who demands everything, in that, they want to reach Allāh in everything. The Sufi Path wants everything from Allāh, such as high stations, high rank, closeness to Allāh, and high spot in Jannah. Therefore, the price for this is to pay *everything* to Allāh.
+# Hadith of Ibn ʿAbbās
+
+The hadith of Ibn ʿAbbās: 'Watch Over Allāh And You Will Find Him In Front Of You.'
 
 It is stated in a hadīth: 
 
@@ -114,11 +138,17 @@ Another narration, other than that of Tirmidhi, reads:
 
 As for the text, '**Be mindful of Allah and Allah will protect you. Be mindful of Allah and you will find Him in front of you**,' it can also be understood as, 'watch Allāh carefully (the existence of Him and His Command) and He will watch you carefully (He will guard you from the implications of the existence of Allāh and He will take care of you).' If this is done well you will find Allāh in front of you. Meaning, the end of the path is to be face-to-face with Allāh, immediately in the divine presence. In essence, this is the Path of the Sufi. The assistance of which is followed up with, 'If you ask, then ask Allāh. And if you seek help, seek the help of Allāh.'
 
-**Imām Junayd said, 'this spiritual Path is blocked.'** There is no way to traverse the Sufi Path without first finding Allāh immediately in front of you, without an intermediary, experientially, with awareness of the rūḥ, because Allāh cannot be contained by His creation. The physical world is merely another slave of Allāh. It is absurd for Allāh to imbue or incarnate himself to one of His slaves. The eye of the rūḥ, the heart, the inmost secret (sirr) is the eye with which Allāh is beheld. The Path is blocked except for those who follow the traces of the Prophet (the Ḥadīth), and the practical translation of the Prophetic heritage (the Fiqh).
+Imām Junayd said, 
+> 'this spiritual Path is blocked.' 
 
-**Imam Shibli said, 'the Arifeen are asleep and the jahileen are dead.''** Again the ʿarif is the one who knows Allāh. They have a spiritual Path, and have a direct and experiential experience with Allāh. Whereas the jahil is the one who does not know Allāh. They have no spiritual Path, and thus they have no understanding. The arifeen are asleep in the sense that they are still alive but have not yet woken up to see true Reality in full, that is Allah. The jahileen are dead in the sense they are still alive in this world but dead in that they will not see true Reality.
+There is no way to traverse the Sufi Path without first finding Allāh immediately in front of you, without an intermediary, experientially, with awareness of the rūḥ, because Allāh cannot be contained by His creation. The physical world is merely another slave of Allāh. It is absurd for Allāh to imbue or incarnate himself to one of His slaves. The eye of the rūḥ, the heart, the inmost secret (sirr) is the eye with which Allāh is beheld. The Path is blocked except for those who follow the traces of the Prophet (the Ḥadīth), and the practical translation of the Prophetic heritage (the Fiqh).
 
-The same concept is related in a hadith by the Prophet Muhammad (saw). Shaykh Faisal mentions this hadith in Ramaḍān Companion. The hadith reads to the effect of, “The parable of one who makes dhikr of Allāh and he does not make dhikr is the semblance of the living with the semblance of the dead.”
+Imam Shibli said, 
+> 'the Arifeen are asleep and the jahileen are dead.'
+
+Again the ʿarif is the one who knows Allāh. They have a spiritual Path, and have a direct and experiential experience with Allāh. Whereas the jahil is the one who does not know Allāh. They have no spiritual Path, and thus they have no understanding. The arifeen are asleep in the sense that they are still alive but have not yet woken up to see true Reality in full, that is Allah. The jahileen are dead in the sense they are still alive in this world but dead in that they will not see true Reality.
+
+The same concept is related in a hadith by the Prophet Muhammad (saw). Shaykh Faisal mentions this hadith in Ramaḍān Companion. The hadith reads to the effect of, “the parable of one who makes dhikr of Allāh and he does not make dhikr is the semblance of the living with the semblance of the dead.”
 # Worship Allāh As If You See Him
 
 The aim is to worship Allah as if you see Him as is widely cited in one of the foundational hadith of the religion - Hadith Jibreel. The faculty with which this is done is the spirit (rūḥ) and the inner insight (basirah).
@@ -127,51 +157,71 @@ The aim is to worship Allah as if you see Him as is widely cited in one of the f
 
 Allāh was and nothing beside, after the manifestation of the Divine (source: Sahih Bukhari). Allāh is One and unique and this manifests (tajalli) truth for the arif. After the manifestation of the Divine by the encompassing of the arif, the light of the divine presence comes into the arif. Allāh loves this slave and thus this arif operates as if they see Allāh. In that they’re limbs and faculty operate as if Allāh is in front of them, as does their heart and mind. In other words La hawla walaquwatta ila biLah (there is no motion/power except by Allāh). This results in Fana fil afal: the annihilation in the actions of Allāh. Meaning the chirping of the birds all become signs from Allāh, as all action from the creation of Allāh is by Allāh. The basis and origin of anything that begins in time is the beginninglessly eternal. All motion and power, and all manifestations return to the one who manifests it and he who by through it is manifest.
 
-# The Rūḥ Was Created To Know, And It Can Know Many Things
+# The Rūḥ Was Created To Know
 
-The rūḥ is not veiled by the flow of time as conventionally understood flowing from the past into the future. The rūḥ experiences time from the future into the past. This is why sometimes you have a hunch that something is going to happen, and you had no previous idea about it before, then you find it in front of you. Why? This is the nature of the rūḥ. This is how the rūḥ has been created, and for this to happen all the time is Supreme Intellect. The only obstacle that prevents the rūḥ from acting like this all the time is due to the limitations of the physical body, the ego, desires, waswasa and Shaytan. Fully being in the flow of your rūḥ is the Supreme Intellect because the rūḥ is only attached to the light of Allāh. Why? Because this is the design of the rūḥ. It was made in Paradise, nearest to the court of Allāh, in all it’s light and splendour. That is where its homeland is and thus gives of that very nature in you at times
-# Tasawwuf Is About You And Not The Awliya
+The Rūḥ was created to know and it can know many things. 
 
-- If it’s your aim to reach wilaya then it should be no concern to you who the qutb or the abdaal are and where they might be
-- A sign of a deteriorating tariqa is that all that remains with them is awrad and wali lore. And adab, khidmah, and tarbiyyah are not present
-- Tasawwuf is about you, and to realize tasawwuf you must be in the moment (waqt). Wondering about the whereabouts of the qutb and the abdaal, or similar points of Sufi lore is detracting from your wilayah
-- The reality in front of you is the grave, and you need to equip yourself with as much benefit as you can before you enter it
+The rūḥ is not veiled by the flow of time as conventionally understood flowing from the past into the future. The rūḥ experiences time from the future into the past. This is why sometimes you have a hunch that something is going to happen, and you had no previous idea about it before, then you find it in front of you. Why? This is the nature of the rūḥ. This is how the rūḥ has been created, and for this to happen all the time is Supreme Intellect. The only obstacle that prevents the rūḥ from acting like this all the time is due to the limitations of the physical body, the ego, desires, waswasa and Shaytan. Fully being in the flow of your rūḥ is the Supreme Intellect because the rūḥ is only attached to the light of Allāh. Why? Because this is the design of the rūḥ. It was made in Paradise, nearest to the court of Allāh, in all it’s light and splendour. That is where its homeland is and thus gives of that very nature in you at times.
 
-Ibn Ajiba says, “Know that this knowledge we speak is not attained by the prattling of the tongue. It’s nothing besides direct experiences and ecstasy. It cannot be taken from papers but only from people who posses those experiences. It cannot be reached by gossip, but only by the service of its men and keeping the company of the perfected. By Allāh, no one who has succeeded has succeeded except by keeping the company of someone who has succeeded.”
-- Proper adab and subha as-saliheen are pillars in the Sufi Path
+# Tasawwuf Is About You 
 
-# Some Parts Of The Path Are Rough, And Some Are Smooth
+Tasawwuf is about you and *not the awliya*.
 
-- As a murid you need to get used to the idea that you are operating on Allāh’s time and not your own. They’re not going to go on your schedule but Allāh’s schedule
-- The intellect (aql) is a wonderful servant and a terrible master
-    - Don’t let your ego and intellect overcome you on your Path, especially when you’re early on in the Path.
-    - Those given intellect tend to stay put in the beginning of their travelling because they thing their intellect is doing well for them, only after overcoming this and proceeding with their travels with the proper adab will they start to excel later on in the Path due to their inherit intellect
-- A travel cannot control their Path, but they can control the manners when they meet the rough part of their travels and the smooth
-    - The Path is wholly manners. The tariqa is all about adab.
+This science is fundamentally about your personal spiritual journey rather than focusing on the previous travails of the saints (awliya). Should your goal is to attain spiritual authority (wilaya), you should not be concerned with the identities or locations of the spiritual pole (qutb) or the spiritual deputies (abdaal). 
 
-# First Adab When Looking For A Tariqa
+A sign that a spiritual fratenity (tariqa) is deteriorating is when it becomes preoccupied only with spiritual recitations (awrad) and lore about the saint (wali), while neglecting essential aspects of tasawwuf such as etiquette (adab), service (khidmah), and nurturing (tarbiyyah). 
 
-- Those looking for a tariqa should be wary of (fiqh) ulema telling people there are no Sufi ulema in the world present today. For those ulema to say that just means they have not met a true Sufi Shaykh before, and they find it far-fetched for anyone else to have met one as a result
-- The Prophet said in a hadith Qudsi, “I am as my servant thinks of me.”
-	- Source: Sahih of Bukhari
-    - Thus, whoever thinks that Allāh’s doors are closed should first think if they have closed the door on themselves first
-    - If they think there is no hope to reach Ihsan, then the fault is theirs for not searching and not Allāh’s
-    - Such a person has closed the doors on themselves because of the low opinion of themselves
-    - The Bestower of gifts didn’t die. He is Allāh (swt)
-- Allāh didn’t go anywhere, and His hands are outspread ready to give
+To truly engage with tasawwuf, you must be fully present in the moment (waqt). Obsessing over the whereabouts of the qutb and the abdaal, or similar elements of Sufi lore, distracts one from the attainment of their own wilayah. 
 
-# Abu Bakr Al-Wasiti Said, “The Spiritual Path Has Gone And So Have Its People. And Nothing Remains Except Regrets.”
+The reality is that: you have one foot in the grave. Thus, it is crucial to equip yourself with as much spiritual benefit as possible before you face it.
 
-- Abu Bakr Al-Wasiti - one of the main students of Imam Junayd
-- Even though this isn’t true at face-value, what was meant by this statement is that:
-    - Pretenders exist in stead of a true Shaykh
-        - Not everyone who says they are a true Shaykh is true, and likewise with a tariqa
-        - What is the measuring stick to check the truth of a Shaykh or a tariqa? The conformance to the Shariah.
-    - Apprise of the dangers of the principles (usul) of the Path
-    - Keep themselves and others complacent from their own states compared to those of earlier generations. Thus by making this statement, they’re taking themselves down and not admitting they are Sufis
-	    - The generations that came before al-Wasiti were the likes of the Tabiyeen. Meaning, how could they compare themselves in spirituality and closeness to the likes of them and the Sahaba?
-- Whatever exceeds theses three purposes is nothing other than the waswasa of Shaytan
-- This point is in relation to the first adab above
+Imam Ibn Ajiba said:
+
+> Know that this knowledge we speak is not attained by the prattling of the tongue. It’s nothing besides direct experiences and ecstasy. It cannot be taken from papers but only from people who posses those experiences. It cannot be reached by gossip, but only by the service of its men and keeping the company of the perfected. By Allāh, no one who has succeeded has succeeded except by keeping the company of someone who has succeeded.
+
+Similarly, proper adab and subha as-saliheen are pillars in the Sufi Path and thus your spiritual journeying.
+
+# The Path is Rough and Smooth
+
+Some parts of the spiritual Path are challenging, while others are smooth. As a seeker (murid), you must adapt to the fact that you are operating on Allah’s time, not your own. The Path does not follow your personal schedule but rather Allah’s timing. This is important in controlling your intellect (ʿaql). 
+
+The intellect (ʿaql) is a 'valuable servant but a terrible master.' Early on, you must avoid letting your ego and intellect dominate you. Those with intellect may initially feel they are progressing well because of their intellectual abilities, but true advancement comes from overcoming this reliance and continuing on the Path with proper etiquette (adab). With proper adab then the murid's inherent intellect will become beneficial in their spiritual progress. 
+
+As you travel, you cannot control the Path itself, but you can manage your manners when faced with both rough and smooth parts. The Path is fundamentally about manners (adab), and the spiritual path (tariqa) emphasizes adab throughout the journey.
+
+# The First Adab When Looking For A Tariqa
+
+Those looking for a tariqa should be wary of (fiqh) ulema telling people there are no Sufi ulema in the world present today. For those ulema to say that means they have not met a true Sufi Shaykh before, and they find it far-fetched for anyone else to have met one as a result. 
+
+In a hadith Qudsi, Allah said on the tongue of the Prophet Muhammad (saw),
+
+> 'I am as my servant thinks of me.' (Sahih Bukhari)
+
+Meaning, that if someone believes that Allah’s doors are closed to them, they should first consider whether they have shut the door on themselves. If they think there is no hope of achieving Ihsan, the fault lies with them for not seeking it, not with Allah. Such individuals have closed the doors on themselves due to their low opinion of themselves, even though the Bestower of gifts—Allah—remains unchanging and ever-ready to bestow His blessings. 
+
+Allah has not gone anywhere; His hands are outspread, ready to give generously.
+
+# 'The Spiritual Path is Gone and So Are its People'
+
+Abu Bakr Al-Wasiti said, 
+> 'the Spiritual Path has hone and so have its people. And nothing remains excepts regrets.'
+
+Abu Bakr Al-Wasiti was one of the principal students of Imam Junayd. 
+
+Although this statement, while not accurate at face value, carries a deeper meaning. Three points can be taken here: 
+1. Pretenders exist in the stead of a true Shaykh.
+2. There are dangers that arise out of the principles (usul) of the Path.
+3. Keeping oneself complacent in their states in comparison to previous generations.
+
+Firstly, he highlighted the presence of charlatans who claim to be true Shaykhs, to the point that: not everyone who professes to be a Shaykh or to lead a tariqa is genuine. The true measure of a Shaykh or a tariqa lies in their conformance to the Shariah. 
+
+Secondly, the Imam warned of the dangers inherent in the principles (usul) of the Path. 
+
+Thirdly, some seekers fall into complacency, especially when they compare their own spiritual states to those of earlier, more esteemed generations. By making this statement, the Imam underscores the discrepancy between their own level of spirituality and that of the Tabiyeen and Sahaba, emphasizing the futility of such comparisons. 
+
+Whatever exceeds these three purposes is nothing more than the whisperings (waswasa) of Shaytan. 
+
+Note this point relates to the first adab in looking for a tariqa as mentioned previously. 
 
 # Second Adab When Looking For A Tariqa
 
@@ -197,16 +247,11 @@ Ibn Ajiba says, “Know that this knowledge we speak is not attained by the prat
 - Thus, this is why people in the tariqa can do great things
 - When one moves, after taking the wird, then the whole Silsila is moving with one. And whoever moves without it moves alone
 
-# The Prescribed Prayer
+# The Prescribed Prayer 
 
-- If your salah is slack, then you’re slack
-- Salah is the acid test for the state of your heart
-- The salah is the greatest source of nur
-- The salah is a silla/wasala
-- Salah is the greatest wird
-- Nobody attains this except someone in love or adorned with the Divine
-    - e., unattached to the things of this world
-    - These people are people of zuhd
+If your salah is lacking, then you are lacking; it reflects a lack of commitment on your part. 
+
+Salah is like an [acid test](https://dictionary.cambridge.org/dictionary/english/acid-test) for the state of your heart, revealing your inner spiritual condition. It is the greatest source of light (nur) and acts as a bridge (silla/wasala) between you and the Divine. Salah is also considered the greatest devotional practice (wird). Only those who are deeply in love with Allah or adorned with divine qualities, and who are unattached to the material things of this world, can truly attain this state. Such individuals are known as people of asceticism (zuhd).
 
 # The Secret Of Tahajjud
 
