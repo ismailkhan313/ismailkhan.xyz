@@ -123,7 +123,6 @@ It also tackles subtle subjects such as:
 - the passing of thoughts (khawāṭir),
 - the states of the heart (aḥwāl al-qalb),
 - inspirations (ilhāmāt).
-
 One of its most important subjects is the remembrance i.e., in the evocation and recitation of the name of Allah and its virtues. This is known as dhikr. 
 
 Other issues pertain to the shaykh and his qualifications, the disciple (murīd) and his adab.
