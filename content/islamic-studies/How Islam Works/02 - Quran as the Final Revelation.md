@@ -13,4 +13,4 @@ Preservation is a unique attribute of the final revelation because, unlike the w
 The Divine wisdom in choosing Arabic as the language of the final revelation is evident in its unique association of words with meanings, unmatched by any other language. Arabic is exceptionally precise and vast, capable of conveying specific meanings with clarity. Additionally, Arabic has been preserved meticulously over centuries. This preservation occurs through the efforts of scholars and trustworthy transmitters, ensuring the integrity of the language and the revelation. The verse, "Ask the People of Remembrance if you know not" (Quran 16:43), highlights that God addresses the people of Deen, implying that there will always be those who know the Straight Path and those who do not. It underscores the obligation (fard) to seek knowledge about religious matters from those who are knowledgeable and the communal duty (fard kifayah) to maintain a scholarly community dedicated to preserving and transmitting this knowledge.
 
 Previous: [[01 - Reality of Religion]]
-Next: [[03 - The Mainstream are Manifest on Truth]]
+Next: [[03 - The Mainstream]]

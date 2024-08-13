@@ -1,6 +1,8 @@
 This post might be particularly useful for dedicated readers interested in how I publish my notes.
 
-When necessary, I use the [Brill Arabic-English transliteration system](https://referenceworks.brillonline.com/pages/help/transliteration-islam). However, I generally avoid using transliteration whenever possible since the effort of the busywork involved doesn’t justify the value, especially given the volume of notes I produce over time.
+This site is effectively a [personal knowledge base](https://en.wikipedia.org/wiki/Personal_knowledge_base) (PKB) on Islamic studies and technology based upon a local [Obsidian](https://obsidian.md/) vault that I maintain. By utilizing the concept of [[Atomic Notes|atomic notes]] with [backlinking](https://help.obsidian.md/Plugins/Backlinks) and [tagging](https://help.obsidian.md/Editing+and+formatting/Tags), when all else is working in cohesion, should provide deeper connections and quicker access to the broader concepts covered in this PKB. 
+
+When necessary, the [Brill Arabic-English transliteration system](https://referenceworks.brillonline.com/pages/help/transliteration-islam) is used. However, I generally avoid using transliteration whenever possible since the effort of the busywork involved doesn’t justify the value, especially given the volume of notes I produce over time.
 
 For Quran translations, I rely on [The Qur'an translated by M.A.S. Abdel Haleem](https://global.oup.com/academic/product/the-qur-an-9780199535958). It’s accessible and coherent, making it suitable for a wide audience. Sticking to a single, well-regarded translation helps maintain the consistency I consider essential.
 

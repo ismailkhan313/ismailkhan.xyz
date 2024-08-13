@@ -10,7 +10,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       Tags: "/tags/",
       "All Posts": "/posts/",
-      Housekeeping: "/posts/housekeeping/",
+      Housekeeping: "/posts/housekeeping",
       GitHub: "https://github.com/ismailkhan313",
     },
   }),

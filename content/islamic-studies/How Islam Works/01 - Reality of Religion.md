@@ -65,4 +65,4 @@ Secondly, it must show how this divinely received religion has been preserved un
 
 Proving these claims establishes that what Muslims practice today is derived from Divine Guidance, faithfully maintained through the clear sayings of the Prophet. It confirms that both the Quran and hadith have been preserved in both text and understanding from their original Divine transmission.
 
-Next: [[02 - Submitting to the Quran as a Final Revelation]]
+Next: [[02 - Quran as the Final Revelation]]
