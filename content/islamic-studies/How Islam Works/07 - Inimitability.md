@@ -1,8 +1,8 @@
 ---
-title: 07 - Inimitability (i'jaz)
+title: 07 - Inimitability
 draft: false
 tags:
-- how-islam-works 
+  - how-islam-works
 ---
 ## Inimitability: the greatest proof of the Quran
 
