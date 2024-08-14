@@ -11,7 +11,7 @@ Ahlan wa sahlan wa marhaban! أهلاً وسهلاً ومرحباً
 ---
 This small *online oasis* primarily consolidates notes on the Islamic tradition along with non-fiction [book reviews](https://ismailkhan.xyz/tags/book-review) in the [[Reading Tracker]], tech insights on software management, productivity, digital resource library building, and a variety of other connective thoughts. This place is a fix-up between a digital garden and a personal Islamic studies index that was partially built out from a previous time. Thus, the notion of an online oasis originated when conceiving of this project, and what is here before you is what it represents.
 
-~
+---
 
 > Raise your words, not voice. It is rain that grows flowers, not thunder. — Jalaluddin ar-Rumi
 

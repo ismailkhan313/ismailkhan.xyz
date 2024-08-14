@@ -29,7 +29,6 @@ Any claim, especially one of such significance, rightfully deserves to be challe
 The divine response to the claim of Revelation's truth lies in the role of confirmatory miracles, or mu'jizat. God supports all His Prophets by providing these extraordinary events, which serve as evidence of their divine mission. Miracles, by definition, are occurrences that transcend the natural laws of earth, demonstrating that they originate from beyond the normative or rational phenomena we understand. These miraculous events affirm the reality of God and Revelation, thereby confirming the Prophets and the messages they bring.
 
 ### Why does God not speak to us directly about these big questions?
-
 In the Quran, the opening of Surah Baqarah (2:1) addresses this question by stating: 
 
 > This is the Book in which there is no doubt, a guidance for the mindful. Those who believe in the Unseen.

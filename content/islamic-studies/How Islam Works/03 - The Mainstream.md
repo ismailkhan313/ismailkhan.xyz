@@ -21,7 +21,7 @@ This group is composed of those who uphold the Truth, specifically the scholars 
 Following scholars is principled, unlike following oneself, which can lead to changing principles at will. 
 
 The Prophet also stated, "The scholars are the inheritors of the prophets." Those who directly benefit from the guidance of scholars are considered the mainstream community of Muslims.
-## Five Components for the Preservation of the Straight Path
+## Five components for the preservation of the Straight Path
 Five components for the preservation of the Straight Path:
 1. God promised the Straight Path will be preserved,
 2. In word and in meaning, 
@@ -34,7 +34,7 @@ The Mainstream comprises those who adhere to the preserved understanding of the 
 The Mainstream is a point of belief affirmed by the Quranic verses on preservation and consulting the people of remembrance. These verses establish that those following the people of remembrance constitute the Mainstream. God's will to preserve the Straight Path includes ensuring that the people of remembrance persist in their knowledge of Deen, as long as the Straight Path is preserved, which is until the end of time. Belief in the Mainstream is further reinforced by the Prophet's statement that they are the ones manifesting the Truth. Thus, guidance is preserved not only in word and meaning but also through the Way of the Mainstream, who adhere to the texts and sayings of the Deen.
 
 This corresponds in *Aqidah Tahawiyyah* where Imam At-Tahawi states, "We consider that holding together and remaining with the Mainstream (Jamāʿah) is the true and right course, and that sectarianism (i.e., separation) is deviation leading to punishment." 
-## Five Components Defining the Mainstream
+## Five components defining the Mainstream
 The group manifest on Truth is constituted by five key components. 
 1. Preserved sound understanding,
 2. Transmitted by scholars,

@@ -4,7 +4,7 @@ draft: false
 tags:
 - how-islam-works 
 ---
-## Inimitability (i'jaz): The Greatest Proof of the Quran
+## Inimitability: the greatest proof of the Quran
 
 The inimitability (i'jaz) of the Quran is the greatest proof of its divine origin because it demonstrates an inability for anyone to copy or produce something exactly as it is. 
 
@@ -24,7 +24,7 @@ Surah Yunus (10:38):
 
 This challenge was presented at a time when the Arabic language was at its pinnacle, comparable to the era of Shakespeare in the English-speaking world. In Arabia, poetry, eloquent Arabic, and pride in spoken language were paramount. Battles were won and lost based on the poetry of one faction over another, with tribes taking as much pride in their poets as in their fiercest warriors. Poets could eloquently undermine the lineage and heritage of enemy tribes, stirring such humiliation and shame that opposing groups would sometimes concede defeat before a battle even began. The Arabs held annual poetry competitions, with the best works displayed on the Kaaba. Moreover, the rich and powerful Arabs of the cities would send their children to learn Arabic from rural and impoverished Bedouins, known for the purity of their language. In this context, where linguistic prowess was deeply esteemed, the Quran's unmatched eloquence and literary excellence stand as undeniable evidence of its divine origin.
 
-## 6 Aspects of Inimitability (i'jaz)
+## 6 aspects of inimitability
 
 The inimitability (i'jaz) of the Quran can be observed through six distinct aspects:
 

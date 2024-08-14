@@ -7,8 +7,8 @@ tags:
 The first note in this series of 'How Islam Works' being a collection of notes on the application of Islam as a religion that functions as a monotheistic religion. 
 
 This first note outlines the source basis for the term religion (deen) in Islam. It also covers six usages of the deen and its definitions.
-# Deen: Usages & Aspects
-## Quran: Meaning of 'religion'
+# Religion: usages & aspects
+## Quran: meaning of 'religion'
 The concept of 'Deen' is richly illustrated in several Quranic verses. The first significant usages that represent the purpose of deen can be found in Quran 1:4 and 51:6. In the Fatiha, it is declared, "Master of the Day of Reckoning," referring to the Day of Judgment, a day dedicated to religion where all debts are either paid off or penalties are suffered. Furthermore, the verse "And the Judgment will certainly come to pass" emphasizes the inevitability of this day.
 
 The most comprehensive usage of the term is seen in Quran 98:5 and 7:29: "They have only been commanded that they worship Allah, making their religion for His sake alone, upright..." This highlights the directive to worship Allah with sincere devotion and uprightness. Additionally, the verse, "Even though they were only commanded to worship Allah ˹alone˺ with sincere devotion to Him in all uprightness, establish prayer, and pay alms-tax. That is the upright Way," further underscores the importance of making religion purely for the sake of God.

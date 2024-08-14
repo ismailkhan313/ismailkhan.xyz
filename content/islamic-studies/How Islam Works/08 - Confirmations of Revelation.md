@@ -4,7 +4,7 @@ draft: false
 tags:
   - how-islam-works
 ---
-## Confirming Revelation was Sent to the Prophet
+## Confirming Revelation was sent to the Prophet
 With the necessity of Revelation and the inimitability of the Quran established, Islam must confirm that the *message* of the Revelation actually took place with the Prophet Muhammad.The verse confirming this is in Surah Al-Baqarah (2:97):
 
 > Say [Prophet], ‘If anyone is an enemy of Gabriel- who by God’s leave brought down the Quran to your heart confirming previous scriptures as a guide and good news for the faithful-
@@ -15,7 +15,7 @@ This connection between the Quran and the Prophet is further emphasized by a had
 
 > Qatadah reported: I said to Aisha, “O mother of the believers, tell me about the character of the Messenger of Allah, peace and blessings be upon him.” Aisha said, “Have you not read the Quran?” I said, “O course.” Aisha said, “Verily, the character of the Prophet of Allah was the Quran.” (Sahih Muslim 746)
 
-## 4 Ways to Develop Understanding of Revelation
+## 4 ways to develop understanding of Revelation
 
 There are many ways to get a deeper understanding of the Quran. But this note will provide four suggestions as intro points of departure.
 
