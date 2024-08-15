@@ -3,7 +3,7 @@ title: Methodology of Interpretation
 draft: false
 tags:
   - how-islam-works
-index: "23"
+index: 23
 ---
 ## Defining speech
 

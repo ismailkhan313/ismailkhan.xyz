@@ -3,7 +3,7 @@ title: "Introduction: How Islam Works"
 draft: false
 tags:
   - how-islam-works
-index: "01"
+index: 01
 ---
 In a hadith narrated in the Sahih of Bukhari and Muslim, the Prophet Muhammad (PBUH) foretold that there will always be a group of his followers who will preserve and uphold his religion, teaching it just as he himself taught it, “unharmed by anyone  who opposes them, all the way until the Day of Judgment.” (Bukhari and Muslim). 
 

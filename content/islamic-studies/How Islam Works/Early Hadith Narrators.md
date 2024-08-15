@@ -3,7 +3,7 @@ title: Early Hadith Narrators
 draft: false
 tags:
   - how-islam-works
-index: "21"
+index: 21
 ---
 ## Reliability of past hadith narrators
 

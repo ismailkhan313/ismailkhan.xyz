@@ -3,7 +3,7 @@ title: Revelation
 draft: false
 tags:
   - how-islam-works
-index: "06"
+index: 06
 ---
 ## What is Revelation?
 

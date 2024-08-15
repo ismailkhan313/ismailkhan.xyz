@@ -3,7 +3,7 @@ title: Definitions of Sunna
 draft: false
 tags:
   - how-islam-works
-index: "12"
+index: 12
 ---
 ## 4 definitions of sunna
 

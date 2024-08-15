@@ -3,7 +3,7 @@ title: The Hadith
 draft: false
 tags:
   - how-islam-works
-index: "20"
+index: 20
 ---
 ## Definition of a authentic hadith
 

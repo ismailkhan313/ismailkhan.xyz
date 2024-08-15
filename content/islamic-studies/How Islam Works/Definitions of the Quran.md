@@ -3,7 +3,7 @@ title: Definitions of the Quran
 draft: false
 tags:
   - how-islam-works
-index: "16"
+index: 16
 ---
 ## Five part definition of the Quran
 

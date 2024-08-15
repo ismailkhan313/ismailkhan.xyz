@@ -3,7 +3,7 @@ title: The Hadith Corpus & Sciences
 draft: false
 tags:
   - how-islam-works
-index: "22"
+index: 22
 ---
 ## Emergence of hadith books
 

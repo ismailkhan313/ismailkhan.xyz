@@ -3,7 +3,7 @@ title: Preservation of the Quran
 draft: false
 tags:
   - how-islam-works
-index: "17"
+index: 17
 ---
 ## Two types of preservation Prophetic time
 

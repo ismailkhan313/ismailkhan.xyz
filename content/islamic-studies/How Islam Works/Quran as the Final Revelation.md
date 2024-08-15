@@ -3,7 +3,7 @@ title: Quran as the Final Revelation
 draft: false
 tags:
   - how-islam-works
-index: "03"
+index: 03
 ---
 This is the second note on 'How Islam Works.'  This note looks at how one can submit through Quranic revelation and the distinction of the final revelation. 
 ## How to  submit

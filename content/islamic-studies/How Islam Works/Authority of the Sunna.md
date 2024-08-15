@@ -3,7 +3,7 @@ title: Authority of the Sunna
 draft: false
 tags:
   - how-islam-works
-index: "13"
+index: 13
 ---
 
 ## 3 hallmarks of authority of the sunna

@@ -3,7 +3,7 @@ title: The Sunna
 draft: false
 tags:
   - how-islam-works
-index: "10"
+index: 10
 ---
 Including this note the next five notes focus on the concept of the Sunna in the Islamic tradition. After this note, [[The Wisdom]], [[Definitions of Sunna]], [[Authority of the Sunna]], [[Connecting to the Sunna]]
 ## The reason for the sunna

@@ -3,7 +3,7 @@ title: Confirmations of Revelation
 draft: false
 tags:
   - how-islam-works
-index: "09"
+index: 09
 ---
 ## Confirming Revelation was sent to the Prophet
 With the necessity of Revelation and the inimitability of the Quran established, Islam must confirm that the *message* of the Revelation actually took place with the Prophet Muhammad.The verse confirming this is in Surah Al-Baqarah (2:97):

@@ -3,7 +3,7 @@ title: Spread of Islam
 draft: false
 tags:
   - how-islam-works
-index: "19"
+index: 19
 ---
 
 ## Rapid expansion necessitated the isnad 

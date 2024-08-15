@@ -3,7 +3,7 @@ title: Connecting to the Sunna
 draft: false
 tags:
   - how-islam-works
-index: "14"
+index: 14
 ---
 ## Purpose of learning Islamic sciences 
 

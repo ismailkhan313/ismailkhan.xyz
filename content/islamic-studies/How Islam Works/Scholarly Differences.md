@@ -3,7 +3,7 @@ title: Scholarly Differences
 draft: false
 tags:
   - how-islam-works
-index: "24"
+index: 24
 ---
 ## Reasons for differing interpretations
 

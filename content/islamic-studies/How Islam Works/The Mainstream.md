@@ -3,7 +3,7 @@ title: The Mainstream
 draft: false
 tags:
   - how-islam-works
-index: "04"
+index: 04
 ---
 In following our previous note [[Quran as the Final Revelation]], this note focuses our understanding th at the essence of Truth in Divine Guidance is crucial for every spiritual seeker.
 

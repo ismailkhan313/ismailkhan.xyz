@@ -3,7 +3,7 @@ title: Miracles
 draft: false
 tags:
   - how-islam-works
-index: "07"
+index: 07
 ---
 ## What are the roles of miracles?
 

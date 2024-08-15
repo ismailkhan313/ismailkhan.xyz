@@ -3,7 +3,7 @@ title: Reality of Religion
 draft: false
 tags:
   - how-islam-works
-index: "02"
+index: 02
 ---
 The first note in this series of 'How Islam Works' being a collection of notes on the application of Islam as a religion that functions as a monotheistic religion. 
  
