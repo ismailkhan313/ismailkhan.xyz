@@ -3,10 +3,8 @@ title: Reality of Religion
 draft: false
 tags:
   - how-islam-works
-index: "2"
+index: "02"
 ---
-01
-
 The first note in this series of 'How Islam Works' being a collection of notes on the application of Islam as a religion that functions as a monotheistic religion. 
  
 This first note outlines the source basis for the term religion (deen) in Islam. It also covers six usages of the deen and its definitions.

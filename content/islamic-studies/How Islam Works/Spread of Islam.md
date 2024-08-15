@@ -1,8 +1,9 @@
 ---
-title: 18 - Spread of Islam
+title: Spread of Islam
 draft: false
 tags:
   - how-islam-works
+index: "19"
 ---
 
 ## Rapid expansion necessitated the isnad 

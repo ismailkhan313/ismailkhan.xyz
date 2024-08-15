@@ -1,8 +1,9 @@
 ---
-title: 22 - Methods of Interpretation
+title: Methodology of Interpretation
 draft: false
 tags:
   - how-islam-works
+index: "23"
 ---
 ## Defining speech
 

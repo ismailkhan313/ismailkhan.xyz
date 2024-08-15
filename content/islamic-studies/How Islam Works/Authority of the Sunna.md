@@ -1,9 +1,12 @@
 ---
-title: 12 - Authority of the Sunna
+title: Authority of the Sunna
 draft: false
 tags:
   - how-islam-works
+index: "13"
 ---
+
+## 3 hallmarks of authority of the sunna
 The authority of the Sunna is established through three key hallmarks. 
  
 First, it possesses undeniable proof, as it is well-supported by authentic and verified traditions. 

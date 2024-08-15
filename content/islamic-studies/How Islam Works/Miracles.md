@@ -1,8 +1,9 @@
 ---
-title: 06 - Miracles
+title: Miracles
 draft: false
 tags:
-- how-islam-works
+  - how-islam-works
+index: "07"
 ---
 ## What are the roles of miracles?
 
@@ -22,6 +23,6 @@ The realities of the Prophet's miracles are numerous, with close to over a thous
 
 ## The Quran is the greatest miracle of the Prophet
 
-The greatest miracle is the Quran itself, a lasting testament to divine intervention that endures until the end of time. Its most significant proof lies in its [[07 - Inimitability|inimitability (i'jaz)]], showcasing its uniqueness and unmatched eloquence. Furthermore, the profound message contained within its verses serves as an additional testament to its miraculous nature. The Quran's ability to convey deep wisdom, guidance, and truth in a manner that no human effort can duplicate highlights its divine origin and solidifies its status as the ultimate miracle.
+The greatest miracle is the Quran itself, a lasting testament to divine intervention that endures until the end of time. Its most significant proof lies in its [[Inimitability|inimitability (i'jaz)]], showcasing its uniqueness and unmatched eloquence. Furthermore, the profound message contained within its verses serves as an additional testament to its miraculous nature. The Quran's ability to convey deep wisdom, guidance, and truth in a manner that no human effort can duplicate highlights its divine origin and solidifies its status as the ultimate miracle.
 
 

@@ -1,8 +1,9 @@
 ---
-title: 17 - Written Preservation
+title: Written Preservation
 draft: false
 tags:
   - how-islam-works
+index: "18"
 ---
 ## The initial compilation of the Quran
 

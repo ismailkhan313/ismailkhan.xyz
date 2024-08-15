@@ -1,8 +1,9 @@
 ---
-title: 19 - The Hadith
+title: The Hadith
 draft: false
 tags:
   - how-islam-works
+index: "20"
 ---
 ## Definition of a authentic hadith
 
@@ -12,6 +13,7 @@ An authentic (sahih) hadith is defined by five key criteria:
 3. Contiguously narrated (no gaps in narration).
 4. Free from hidden defects.
 5. No errors.
+
 It is a report transmitted by a narrator who is morally upright, ensuring the integrity and trustworthiness of the person conveying the information. The narrator must also be reliable, with a reputation for accuracy and consistency within their generation of contemporaries. The hadith must be contiguously narrated, meaning there are no gaps or missing links in the chain of transmission from the Prophet Muhammad (PBUH) to the final recorder. Additionally, the hadith should be free from hidden defects that could compromise its authenticity. Lastly, it must be devoid of errors, ensuring that the content has been accurately and faithfully preserved. These criteria collectively ensure that a sahih hadith is both credible and authoritative.
 
 ## Impetus to verify in the Quran

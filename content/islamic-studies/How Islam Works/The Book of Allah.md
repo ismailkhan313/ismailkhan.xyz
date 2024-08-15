@@ -1,11 +1,12 @@
 ---
-title: 04 - The Need for Revelation
+title: The Book of Allah
 draft: false
 tags:
   - how-islam-works
+index: "05"
 ---
 This note emphasizes the need for mankind to receive Revelation from the Creator.
-
+ 
 God sent Revelation to creation due to His *self-designation* as a merciful entity for His creation. Revelation serves as a profound expression of His mercy, providing essential guidance for humanity. Importantly, through His Will, Revelation is a mercy for our guidance because God _chose_ to be merciful to creation.
 
 This essential guidance addresses fundamental existential questions such as: Why are we here? What is our purpose? How did we come into existence? And what happens when our lives end? 

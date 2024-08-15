@@ -3,10 +3,8 @@ title: Quran as the Final Revelation
 draft: false
 tags:
   - how-islam-works
-index: "3"
+index: "03"
 ---
-02
-
 This is the second note on 'How Islam Works.'  This note looks at how one can submit through Quranic revelation and the distinction of the final revelation. 
 ## How to  submit
 In Surah Al-Fatihah, the Straight Path is outlined as the most urgent human need, as seen in the verse, "Guide us to the straight path" (Quran 1:6). This path encompasses making good, right, and religious choices that lead to secure and sound consequences, fulfilling the aspects of Deen. The path is further described as the one "of those who have earned Your favor" (Quran 1:7), indicating the way of past prophets who made the best choices and those who continue to follow in their footsteps. This highlights the mercy in divine guidance, as God could have left humanity to find the way on their own, but instead provided a clear path through the examples of the prophets and their followers.

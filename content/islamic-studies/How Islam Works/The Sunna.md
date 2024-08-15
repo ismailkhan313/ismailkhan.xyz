@@ -1,10 +1,11 @@
 ---
-title: 09 - The Sunna
+title: The Sunna
 draft: false
 tags:
   - how-islam-works
+index: "10"
 ---
-Including this note the next five notes focus on the concept of the Sunna in the Islamic tradition. After this note, [[10 - The Wisdom]], [[11 - Definitions of Sunna]], [[12 - Authority of the Sunna]], [[13 - Connecting to the Sunna]]
+Including this note the next five notes focus on the concept of the Sunna in the Islamic tradition. After this note, [[The Wisdom]], [[Definitions of Sunna]], [[Authority of the Sunna]], [[Connecting to the Sunna]]
 ## The reason for the sunna
 
 *I simple question may arise: Why do we need the Sunnah when we have the Quran?*

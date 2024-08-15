@@ -29,7 +29,13 @@ export const FolderPage: QuartzEmitterPlugin<Partial<FolderPageOptions>> = (user
   const opts: FullPageLayout = {
     ...sharedPageComponents,
     ...defaultListPageLayout,
-    pageBody: FolderContent({ sort: userOpts?.sort }),
+    pageBody: FolderContent({
+      sort: (f1, f2) => {
+        const index1 = typeof f1.frontmatter?.index === "number" ? f1.frontmatter.index : Infinity
+        const index2 = typeof f2.frontmatter?.index === "number" ? f2.frontmatter.index : Infinity
+        return index1 - index2
+      },
+    }),
     ...userOpts,
   }
 
