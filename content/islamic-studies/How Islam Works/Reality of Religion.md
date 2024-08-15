@@ -1,11 +1,14 @@
 ---
-title: 01 - Reality of Religion
+title: Reality of Religion
 draft: false
 tags:
   - how-islam-works
+index: "2"
 ---
-The first note in this series of 'How Islam Works' being a collection of notes on the application of Islam as a religion that functions as a monotheistic religion. 
+01
 
+The first note in this series of 'How Islam Works' being a collection of notes on the application of Islam as a religion that functions as a monotheistic religion. 
+ 
 This first note outlines the source basis for the term religion (deen) in Islam. It also covers six usages of the deen and its definitions.
 # Religion: usages & aspects
 ## Quran: meaning of 'religion'
@@ -65,4 +68,4 @@ Secondly, it must show how this divinely received religion has been preserved un
 
 Proving these claims establishes that what Muslims practice today is derived from Divine Guidance, faithfully maintained through the clear sayings of the Prophet. It confirms that both the Quran and hadith have been preserved in both text and understanding from their original Divine transmission.
 
-Next: [[02 - Quran as the Final Revelation]]
+Next: [[Quran as the Final Revelation]]

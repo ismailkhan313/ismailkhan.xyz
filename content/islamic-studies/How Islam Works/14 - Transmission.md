@@ -2,6 +2,7 @@
 title: 14 - Transmission
 draft: false
 tags:
+  - how-islam-works
 ---
 These next few notes will focus on the concept of 'preservation of the Quran and Sunna.'
 ## The importance of transmission 

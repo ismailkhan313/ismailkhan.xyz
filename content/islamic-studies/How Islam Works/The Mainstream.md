@@ -1,10 +1,13 @@
 ---
-title: 03 - The Mainstream are Manifest on Truth
+title: The Mainstream
 draft: false
 tags:
   - how-islam-works
+index: "4"
 ---
-In following our previous note [[02 - Quran as the Final Revelation]], this note focuses our understanding that the essence of Truth in Divine Guidance is crucial for every spiritual seeker.
+03
+
+In following our previous note [[Quran as the Final Revelation]], this note focuses our understanding th at the essence of Truth in Divine Guidance is crucial for every spiritual seeker.
 
 This note focuses on the Mainstream being manifest on the Truth.
 ## What is the Truth?
@@ -63,5 +66,5 @@ We can take an example on four manifestations of Truth:
 3. Mirroring of Fatima in the way of Radiance: Fatima exemplified the Prophetic character and qualities with exceptional accuracy. Her conduct and concerns were a reflection of the Prophet’s impeccable character.
 4. Way of Prophet Muhammad (saw): This manifestation encompasses Mercy, Virtue, Beauty, and Excellence, reflecting the comprehensive and holistic embodiment of Truth through the life and teachings of the Prophet Muhammad.
 
-Previous: [[02 - Quran as the Final Revelation]]
+Previous: [[Quran as the Final Revelation]]
 Next:
