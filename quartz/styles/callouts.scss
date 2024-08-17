@@ -43,6 +43,27 @@
     --callout-icon: var(--callout-icon-abstract);
   }
 
+  // custom callout
+  // &[data-callout="arabic"] {
+  //   --color: none;
+  //   --border: #b39c78;
+  //   --bg: none;
+  //   font-size: 1.25rem;
+  //   font-weight: 600;
+  //   font-family: "Scheherazade New";
+  //   line-height: 2.2rem;
+  //   direction: rtl;
+
+  //   .callout-title {
+  //     display: none;
+  //   }
+
+  //   & > .callout-content p {
+  //     margin-block-start: 1em;
+  //     margin-block-end: 1em;
+  //   }
+  // }
+
   &[data-callout="info"],
   &[data-callout="todo"] {
     --color: #00b8d4;

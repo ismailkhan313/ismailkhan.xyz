@@ -2,5 +2,5 @@
 title: How Islam Works
 draft: false
 tags: 
-description: Explores how the scholars of Islam preserved the Qur’an, the Sunna, and their understanding from the time of the Prophet to the present day.
+description: Explores how Islamic scholarship preserves and interprets the Qur’an, the Sunna, and their understanding from the Prophetic era to the present day.
 ---
