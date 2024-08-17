@@ -34,8 +34,10 @@ The great scholar Imam Ahmed Zarruq said:
 
 
 > صدق التوجه إلى الله من حيث يرضاه بما يرضاه
-> 
+
+> [!quote]
 > Tasawwuf has more than two thousand explanatory definitions; all ultimately refer to the following: 'true devotion to Allah from where He likes by the means He likes.'
+
 
 Some of those commonly related definitions are:
 1. Acting upon knowledge (العمل بالعلم)
