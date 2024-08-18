@@ -13,16 +13,16 @@ This small *online oasis* primarily consolidates notes on the Islamic tradition 
 ---
 
 > [!quote]
-> *Raise your words, not voice. It is rain that grows flowers, not thunder.* — Jalaluddin ar-Rumi
+> *Raise your words, not voice. It is rain that grows flowers, not thunder. — Jalaluddin ar-Rumi*
 
 > [!quote]
-> *I never saw any lamp shining more brilliantly than the lamp of silence.* — Bayazid al-Bastami
+> *I never saw any lamp shining more brilliantly than the lamp of silence. — Bayazid al-Bastami*
 
 > [!quote]
-> *The real journey is when the world's dimension is rolled away from you so that you see the Hereafter closer to you than yourself.* — Ibn Ata'illah as-Sakandari
+> *The real journey is when the world's dimension is rolled away from you so that you see the Hereafter closer to you than yourself. — Ibn Ata'illah as-Sakandari*
 
 > [!quote]
-> *Don’t think you are veiled from God by something that is not God. There is nothing besides God. You are veiled from Him by the illusion that there is something other than God.* — Ibn Ata'illah as-Sakandari
+> *Don’t think you are veiled from God by something that is not God. There is nothing besides God. You are veiled from Him by the illusion that there is something other than God. — Ibn Ata'illah as-Sakandari*
 
 > [!quote]
 > *I marveled at an Ocean without shore,*  
@@ -31,4 +31,4 @@ This small *online oasis* primarily consolidates notes on the Islamic tradition 
 > *And at a Morning Light without darkness,*  
 > *and at a Night that was without daybreak;*
 > 
-> — Muhyiddin Ibn Arabi
+> *— Muhyiddin Ibn Arabi*

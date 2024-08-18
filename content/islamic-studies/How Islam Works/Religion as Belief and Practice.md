@@ -5,7 +5,7 @@ tags:
   - how-islam-works
 index: 42
 ---
-These next few notes will cover the spiritual message of the Quran and Sunna. This note [[Religion as Belief and Practice]], [[Belief - Relationship with Allah]], [[Nearness of Allah]], [[Realizing Nearness]], [[Submission to God]], [[Sincere Submission]], [[The Message of the Sunna]], [[The Perfection of Religion]], [[The Hadith of Electhood]], [[Key Principles]],
+These next few notes will cover the spiritual message of the Quran and Sunna. This note [[Religion as Belief and Practice]], [[Belief - Relationship with Allah]], [[Nearness of Allah]], [[Realizing Nearness]], [[Submission to God]], [[Sincere Submission]], [[The Message of the Sunna]], [[The Perfection of Religion]], [[The Hadith of Electhood]], [[Principles on the Spiritual Message of Islam]],
 
 ## Message of the Quran
 The Quran delivers a profound message of divine guidance, calling upon those of intellect to make choices that benefit their well-being in both this life and the hereafter. It invites people to reflect, understand, and follow a path that aligns with divine wisdom, emphasizing the importance of making morally and spiritually sound decisions.
