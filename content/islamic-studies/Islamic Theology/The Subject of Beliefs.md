@@ -3,6 +3,8 @@ title: The Subject of Beliefs
 draft: false
 tags:
   - kharida-albahiyya
+  - how-islam-works
+index: 1
 ---
 01 
 

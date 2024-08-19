@@ -14,9 +14,3 @@ In a hadith it states:
 The Prophet Muhammad (PBUH) foretold that there will always be a group of his followers who will preserve and uphold his religion, teaching it just as he himself taught it. The text of the hadith is understood that these group of Muslims will be *'unharmed by anyone who opposes them until the Day of Judgment.'*
 
 The scope is to leave the reader with a foundational understanding of the preservation of Islamic teachings. The reader will be able to understand how the Qur’an and Sunna were preserved through history, identify the key elements of the scholarly tradition of mainstream Islam, learn how this scholarly tradition has continuously preserved the understanding of the Qur’an and Sunna, and develop the skills to apply the principles of the Qur’an and Sunna in contemporary times.
-
-```dataview
-TABLE index AS "Index"
-FROM #how-islam-works
-SORT index asc
-```
