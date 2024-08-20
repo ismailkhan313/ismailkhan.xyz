@@ -2,7 +2,7 @@
 title: The Rational Rulings
 draft: false
 tags:
-  - how-islam-works
+  - theology
 index: 3
 ---
 ### Rational Ruling (Hukm ‘Aqli)

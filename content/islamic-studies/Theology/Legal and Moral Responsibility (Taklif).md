@@ -1,21 +1,38 @@
 ---
-title: Legal Responsibility (Taklif)
+title: Legal and Moral Responsibility (Taklif)
 draft: false
 tags:
-  - how-islam-works
+  - theology
 index: 5
 ---
 ### Definition of Legal Responsibility
 
+In the [[Kharida al-Bahiyya]] it states: 
+
+> [!quote]
+> It is legally necessary for those morally responsible  
+> To know Allah Most High -- so be well aware 
+
 The legally responsible person (*mukallaf*) is defined as an individual of sound intellect who has reached the age of puberty and to whom the Islamic invitation (*dawah*) has been communicated.
 
-Legal responsibility also includes moral responsbility.
+Legal responsibility also corresponds to moral responsbility in this sense. 
+
+Dr. Ibrahim Shaghouri's translation of the *Khardiya al-Bahiyya* adds: 
+
+> [Legal responsbility] applies to humans and jinn, except that the condition of reaching puberty does not apply to jinn.
+
+Additionally, *'So be well aware'* is a reference to [[The Conformist (Muqallid)|conformism]] (*taqlid*). Dr. Shaghouri defines the term: 
+
+> Although the faith of someone who merely imitates the faith of someone else is sound, such a one remains disobedient if he does not look into and reflect upon the proofs of faith and come to know Allah as described.
+
+Conformism (taqlid) is elaborated in [[The Conformist (Muqallid)]]. 
 
 ### Conditions For Moral Responsibility (*Taklif*)
 There are three primary conditions that define moral responsibility (*taklif*) in Islam:
 1. Legal Sanity.
 2. Adulthood.
 3. Reception of the Message.
+
 Legal sanity, meaning the individual must be of sound intellect. Adulthood, meaning the individual must have reached the age of puberty. And reception of the message, meaning the individual must have received the message of Islam.
 
 ### The Mukallaf and Taklif
@@ -31,6 +48,7 @@ In *Faysal al-Tafriqa Hayna al-Islam wa al-Zandaqa*, translated as *'On The Boun
 2. Contemplation.
 3. Answering doubts.
 4. Sufficient time.
+
 Firstly, Islam must have reached the person in a mutawatir manner, meaning it must be communicated in a massively accepted and widely known basis. A solitary narration is not sufficient, as the individual must receive the dawah through numerous and consistent reports to eliminate any plausible deniability about its authenticity. Collective reports, by their nature, establish certitude and cannot be denied as real and true.
 
 Secondly, the dawah must engage the person in contemplation or consideration of the Message. This reflects the scenario in the Seerah, where the Prophet Muhammad first announced his Prophethood to the Quraysh in Mecca, proclaiming his title as al-Sadiq al-Ameen (the Truthful and Trustworthy). It is essential for the dawah to present Islam in its true light, not in a deformed or distorted way. If someone learns about Islam through a misrepresented version, such as from biased mainstream media, the light of Islam has not truly reached them. Consequently, the obligation of belief does not apply until they receive the correct understanding of Islam.

@@ -2,8 +2,7 @@
 title: The Rulings and Their Types
 draft: false
 tags:
-  - kharida-albahiyya
-  - how-islam-works
+  - theology
 index: 2
 ---
 ## The Importance of Rulings
