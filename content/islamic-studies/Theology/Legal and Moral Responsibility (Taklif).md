@@ -5,7 +5,7 @@ tags:
   - theology
 index: 5
 ---
-### Definition of Legal Responsibility
+## Definition of Legal Responsibility
 
 In the [[Kharida al-Bahiyya]] it states: 
 
@@ -15,8 +15,6 @@ In the [[Kharida al-Bahiyya]] it states:
 
 The legally responsible person (*mukallaf*) is defined as an individual of sound intellect who has reached the age of puberty and to whom the Islamic invitation (*dawah*) has been communicated.
 
-Legal responsibility also corresponds to moral responsbility in this sense. 
-
 Dr. Ibrahim Shaghouri's translation of the *Khardiya al-Bahiyya* adds: 
 
 > [Legal responsbility] applies to humans and jinn, except that the condition of reaching puberty does not apply to jinn.
@@ -25,9 +23,7 @@ Additionally, *'So be well aware'* is a reference to [[The Conformist (Muqallid)
 
 > Although the faith of someone who merely imitates the faith of someone else is sound, such a one remains disobedient if he does not look into and reflect upon the proofs of faith and come to know Allah as described.
 
-Conformism (taqlid) is elaborated in [[The Conformist (Muqallid)]]. 
-
-### Conditions For Moral Responsibility (*Taklif*)
+## Conditions For Moral Responsibility (*Taklif*)
 There are three primary conditions that define moral responsibility (*taklif*) in Islam:
 1. Legal Sanity.
 2. Adulthood.
@@ -35,13 +31,13 @@ There are three primary conditions that define moral responsibility (*taklif*) i
 
 Legal sanity, meaning the individual must be of sound intellect. Adulthood, meaning the individual must have reached the age of puberty. And reception of the message, meaning the individual must have received the message of Islam.
 
-### The Mukallaf and Taklif
+## The Mukallaf and Taklif
 
 The *mukallaf* is also the morally responsible person who meets the three conditions of *taklif*. 
 
 The concept of *taklif* rests its authority from Divine Revelation, meaning that legal obligations have moral bindings to them because God is Absolute and Eternal. God commands humanity to uphold morality within creation.
 
-#### Reaching of the Islamic Invitation (Dawah)
+## Reaching of the Islamic Invitation (Dawah)
 
 In *Faysal al-Tafriqa Hayna al-Islam wa al-Zandaqa*, translated as *'On The Boundaries Of Theological Tolerance In Islam'* (trans.: Sherman Jackson), by Imam al-Ghazali defines who is considered to have received the dawah (Islamic invitation). The conditions are:
 1. *Mutawatir* manner.
@@ -67,10 +63,10 @@ Furthermore, those who die in a state of non-mukallaf, thus not meeting the crit
 
 In summary, the dawah's effectiveness hinges on reaching individuals in a manner that is universally accepted, engaging them in contemplation, effectively addressing their doubts, and providing sufficient time for reflection. Only under these conditions can a person be held morally responsible for accepting the message of Islam.
 
-### The True Message vs Distorted Messages
+## The True Message vs Distorted Messages
 
 The reception of the Islamic message depends greatly on the "type" of Islam one hears. According to al-Ghazali, there is a significant distinction between the true Message of Islam and distorted messages. Only the authentic, unaltered Message qualifies as dawah being sent to a person. Distorted representations of Islam, which might be encountered through biased or erroneous sources, do not meet the criteria for dawah. Therefore, simply hearing about Islam does not suffice; it must be the accurate and genuine portrayal of the faith.
 
-### Special Cases
+## Special Cases
 
 There are special cases of course. For example, individuals who are both blind and deaf, they are generally excused from legal responsibility. However, if they are able to understand the message in some way, their acceptance is valid.

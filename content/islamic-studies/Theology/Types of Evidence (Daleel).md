@@ -5,7 +5,6 @@ tags:
   - theology
 index: 6
 ---
-
 In understanding [[Belief is Legally Obligatory#The Definition of Knowledge]], what if sure judgment that is congruent with the truth is not accompanied by evidence? Thus, the question becomes: what constitutes an evidence (*daleel*)? That is the scope of this note. 
 
 There are two types of evidence: 
