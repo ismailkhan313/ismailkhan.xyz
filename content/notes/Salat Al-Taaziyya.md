@@ -3,6 +3,7 @@ title: Salat Al-Taaziyya (اﻟﺼﱠﻼَةُ اﻟﺘﱠﺎزِﻳﱠﺔُ)
 date: 2024-09-15
 draft: false
 tags:
+  - tariqa/awrad
 ---
 Recite 11 times after each fard salah, for a total of 55 times per day.
 

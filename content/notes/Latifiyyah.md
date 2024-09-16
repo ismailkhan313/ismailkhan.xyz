@@ -3,6 +3,7 @@ title: Latifiyyah (اَلْلَّطِيْفِيَّةُ)
 date: 2024-09-15
 draft: false
 tags:
+  - tariqa/awrad
 ---
 Recite once after Isha salah 1000 times.
 
@@ -41,6 +42,9 @@ Recite once after Isha salah 1000 times.
 > 
 > O Allāh, You who have made the blessings on the Prophet a means of closeness to You in worship, we draw near to You with every blessing upon him from the beginning of creation until never-ending perfections.
 > 
-> In the Name of Allāh, whatever Allāh wills, no one brings good except Allāh; In the Name of Allāh, whatever Allāh wills, no one averts evil except Allāh; In the Name of Allāh, whatever Allāh wills, every blessing you have is from Allāh; In the Name of Allāh, whatever Allāh wills, there is no might and no power except through Allāh.
+> In the Name of Allāh, whatever Allāh wills, no one brings good except Allāh; 
+> In the Name of Allāh, whatever Allāh wills, no one averts evil except Allāh; 
+> In the Name of Allāh, whatever Allāh wills, every blessing you have is from Allāh; 
+> In the Name of Allāh, whatever Allāh wills, there is no might and no power except through Allāh.
 > 
 > O Allāh! Bless our Master Muḥammad, and his Family and his Companions, and grant them peace.
