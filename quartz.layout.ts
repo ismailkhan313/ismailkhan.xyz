@@ -9,8 +9,8 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       Tags: "/tags/",
-      "All Posts": "/posts/",
-      Housekeeping: "/posts/Housekeeping",
+      "All Notes": "/notes/",
+      Housekeeping: "/notes/Housekeeping",
       GitHub: "https://github.com/ismailkhan313",
     },
   }),
