@@ -7,11 +7,16 @@
     --color: none;
     --border: #b39c78;
     --bg: none;
-    font-size: 1.25rem;
-    font-weight: 600;
+    font-size: 1.4rem;
+    font-weight: 400;
     font-family: "Scheherazade New";
-    line-height: 2.2rem;
     direction: rtl;
+
+    tbody,
+    li,
+    p {
+      line-height: 2.7rem;
+    }
 
     .callout-title {
       display: none;

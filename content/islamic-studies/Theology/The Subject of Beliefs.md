@@ -5,9 +5,7 @@ tags:
   - theology
 index: 1
 ---
-01 
-
-## 3 core subjects of Islamic beliefs
+## Three core subjects of Islamic beliefs
 
 The three corse subjects of Islamic beliefs are: 
 1. God.
@@ -16,9 +14,9 @@ The three corse subjects of Islamic beliefs are:
 
 The value of one's knowledge in Islam is intricately tied to the value of what one knows about these fundamental beliefs. Understanding and internalizing the core principles related to Allah, the Prophets, and the Hereafter can profoundly impact a believer's faith and practice. Knowledge in Islamic teachings is not merely about intellectual acquisition but about cultivating a deeper comprehension and connection to these vital aspects of the religion. Thus, the depth and quality of one's knowledge directly enhance the value it brings to one’s spiritual and everyday life.
 
-## 6 reasons to know Islamic beliefs
+## Six reasons to know Islamic beliefs
 
-Understanding Islamic beliefs gives the Muslim theological knowledge towards fostering a stronger faith. These are 6 reasons to know Islamic beliefs: 
+Understanding Islamic beliefs gives the Muslim theological knowledge towards fostering a stronger faith. These are six reasons to know Islamic beliefs: 
 
 1. To know the necessary, possible, and absurd for Allah; likewise for His Prophets, and matters of transmitted beliefs.
 2. To understand the details of sound beliefs.
