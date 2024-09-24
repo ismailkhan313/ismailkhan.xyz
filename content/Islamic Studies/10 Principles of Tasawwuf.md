@@ -6,6 +6,8 @@ tags:
 ---
 This poetry and derived lesson is from Shaykh Muhammad Al-Yaqoubi. These three lines of poetry contain the ten principles of tasawwuf or Islamic spirituality. 
 
+This article is a summarization of the [[Introduction to Iqadh al-Himam - The Commentary on the Hikam]] by Ahmad Ibn Ajiba. That note expands upon these principles in more detail.
+
 
 > [!arabic]
 > إن مبادي كل فن عشره                     الحد و الموضوع ثم الثمره
@@ -32,12 +34,8 @@ Over two thousands definitions of Tasawwuf have been drawn.
 
 The great scholar Imam Ahmed Zarruq said:
 
-
-> صدق التوجه إلى الله من حيث يرضاه بما يرضاه
-
 > [!quote]
 > Tasawwuf has more than two thousand explanatory definitions; all ultimately refer to the following: 'true devotion to Allah from where He likes by the means He likes.'
-
 
 Some of those commonly related definitions are:
 1. Acting upon knowledge (العمل بالعلم)

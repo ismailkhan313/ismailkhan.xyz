@@ -43,3 +43,5 @@ As for your obligatory (Ramadan) fasts, you will need to:
 	3. Making a reasonable, safe judgement on how many of these were valid and how many were not. (For example, assuming 5 fasts were valid each year, 300 fasts would need to be made up)
 	4. And then commit to fasting them until you lift them entirely from your dues.
 [Shurunbulali, Maraqi al-Falah; `Ala al-Din `Abidin, al-Hadiyya al-`Ala’iyya]
+
+The Hanafi and Maliki madhhab concur that 60 days of consecutive fasting are necessary, the Shafi'i and Hanbali method said it's not required to be consecutive.
