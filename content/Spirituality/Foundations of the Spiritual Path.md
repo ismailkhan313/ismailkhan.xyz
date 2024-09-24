@@ -14,13 +14,13 @@ For this note I have broken down each section into its own citation to accommoda
 > [!cite] Ahmad Zarruq said:
 > The foundations of our path are five:
 > 
-> 1. Taqwa – mindfulness of Allah, privately and publicly
+> 1. [[Piety (taqwa)|Taqwa]] – mindfulness of Allah, privately and publicly
 > 2. Adherence to the Sunna in word and deed
 > 3. Indifference to whether others accept or reject one
 > 4. Contentment with Allah in times of both hardship and ease
 > 5. Turning to Allah in prosperity and adversity.
 > 
-> The realization of mindfulness of Allah is through scrupulousness and uprightness. The realization of adherence to the Sunnah is through caution and excellent character. The realization of indifference to others’ acceptance or rejection is through patience and trust in Allah. The realization of contentment is through acceptance of what one is given and turning over the management of one’s affairs to Allah. The realization of turning back to Allah is through praise and gratitude in times of prosperity and taking refuge in Him in times of affliction.
+> The realization of mindfulness of Allah is through [[Scrupulousness (wara')|scrupulousness]] and [[Integrity (istiqama)|uprightness]]. The realization of adherence to the Sunnah is through caution and excellent character. The realization of indifference to others’ acceptance or rejection is through patience and trust in Allah. The realization of contentment is through acceptance of what one is given and turning over the management of one’s affairs to Allah. The realization of turning back to Allah is through praise and gratitude in times of prosperity and taking refuge in Him in times of affliction.
 
 > [!cite] He also said:
 > The foundations of the preceding five are in the following five:
