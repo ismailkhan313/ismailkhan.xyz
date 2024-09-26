@@ -3,6 +3,7 @@ title: Dua after Dhikr
 date: 2024-09-19
 draft: false
 tags:
+  - tariqa/awrad
 ---
 In Sept 2024, Shaykh has emphasized to do this dhikr after every dhikr session of adhkar! 
 
@@ -30,7 +31,7 @@ O Allah, let Your blessings come upon our Master Muhammad and the family of Muha
 O Allah, bless our Master Muhammad and the family of Muhammad, As You blessed our Master Ibrahim and the family of Ibrahim, Truly, You are the Praiseworthy and Glorious.
 ### 6 - PRAY FOR OUR SHAYKH AND HIS FAMILY
 
-Oh Allah Subhanahu Wa Ta`ala., we pray for our SHAYKH, Teacher and Spiritual Guide, Shaykh Faisal Hamid Abdur-Razak, may You increase him in knowledge and wisdom.
+Oh Allah SWT, we pray for our Shaykh, Teacher and Spiritual Guide, Shaykh Faisal Hamid Abdur-Razak, may You increase him in knowledge and wisdom.
 
 May You protect him from Evil and we pray that he will lead his Murids on the straight path towards to You.
 
@@ -58,67 +59,75 @@ We pray you protect them from all evil, ease their trials and grant them the swe
 
 O Allah, forgive us our sins and guide us on the straight path leading to paradise
 
-O Allah, You know the needs of all of us present here, O Allah, answer our Du`aa and take care of our needs.
+O Allah, You know the needs of all of us present here, O Allah, answer our Dua and take care of our needs.
 
-(Include any special request for Du`aa from anyone present here.)
+(Include any special request for Dua from anyone present here.)
 
-#### Personal Duas
+> [!arabic] Protection from anxiety
+>  اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِن ضِيقِ الدُّنْيَا وَضِيقِ يَوْمِ القِيَامَةِ
 
-Allahumma inni aüdhu bika min digi-d-dunyã wa digi Yawmi-l-Qiyamah.
+O Allah, I seek Your protection from anxiety in this world and anxiety on the Day of Judgment.
 
-O Alah, Iseek Your protection from anxiety ni this world and anxiety on the Day of Judgment"
+> [!arabic] Increase in knowledge
+>اللَّهُمَّ زِدْنِي عِلْمًا وَلَا تُزِغْ قَلْبِي بَعْدَ إِذْ هَدَيْتَنِي وَهَبْ لِي مِن لَّدُنكَ رَحْمَةً إِنَّكَ أَنتَ الوَهَّابُ
 
-Allahumma zidni 'ilman wa la tuzigh galbi ba' da idh hadaytani, wa hab li min ladunka rahmah, innaka Anta-l- Wahhäb.
-
-OAllah, increase me in knowledge, and do not lead my heart astray after You have guided me. Bestow on me Your Mercy, for You are the Ever-Bestowing One."*
+O Allah, increase me in knowledge, and do not lead my heart astray after You have guided me. Bestow on me Your Mercy, for You are the Ever-Bestowing One.
 
 ### 8 - PRAY FOR OUR PARENTS AND FAMILY
-O Allah, S.W.T., we pray for our parents that You grant them your grace and mercy as they raised us in childhood.
+O Allah SWT, we pray for our parents that You grant them your grace and mercy as they raised us in childhood.
 
-O Allah grant our parents long life and good health in Islam
+O Allah grant our parents long life and good health in Islam.
 
-O Allah S.W.T., forgive our parents and grant them paradise
+O Allah SWT, forgive our parents and grant them paradise.
 
 O Allah, for our parents who have passed away and returned to you, we beg You to forgive them.
 
 ### 9 - PRAY FOR THE MURĪDS OF THE SHAYKH
 Oh Allah, we pray for all the Murids of Shaykh Faisal throughout the world.
 
-b. Oh Allah, we pray that You ease our trials and grant us strength to face our trials.
+Oh Allah, we pray that You ease our trials and grant us strength to face our trials.
 
-c. Oh Allah, make it easy for us to gain true knowledge, and practice it, to be good Mureeds, and get ever closer to you
+Oh Allah, make it easy for us to gain true knowledge, and practice it, to be good Murids, and get ever closer to you
 
-d. Oh Allah, You know the needs of all the Mureeds. Oh Allah, we beg You to answer our Du`aa and take care of our needs.
+Oh Allah, You know the needs of all the Murids. Oh Allah, we beg You to answer our Dua' and take care of our needs.
 
 ### 10 - PRAY FOR ALL THE MUSLIMS AROUND THE WORLD
 
-Oh Allah, S.W.T, we pray for all the Muslims around the world.
+Oh Allah SWT, we pray for all the Muslims around the world.
 
 Oh Allah, we pray that you strengthen us in Iman.
 
 Oh Allah, we pray for unity and to make us stronger as a nation.
 
-Oh Allah, S.W.T, please comfort and relieve all Muslims who are suffering and have suffered loses.
+Oh Allah SWT, please comfort and relieve all Muslims who are suffering and have suffered loses.
 
 Oh Allah, You are all the All powerful and All Mighty, Oh Allah, we beg You give us victory against the unbelievers.
 
 ### 11 - PRAY FOR THE ISLAMIC FORUM AND AL-FAISALIYYAH DHIKR HALAQA AND THE AFF
 
-Oh Allah, SUBHANAHU WA TA`ALA, we pray for the ISLAMIC FORUM INTERNATIONAL and AL-FAISALIYYAH DHIKR HALAQA and the AFF AL-FAISALIYYAH FOUNDATION.
+Oh Allah SWT, we pray for the ISLAMIC FORUM INTERNATIONAL and AL-FAISALIYYAH DHIKR HALAQA and the AFF AL-FAISALIYYAH FOUNDATION.
 
-May You make it easy for us to establish many Masjids for Your sake.
+May You make it easy for us to establish many Masaajid for Your sake.
 
 May You bless the Islamic Forum and AL-FAISALIYYAH DHIKR HALAQAH and the AFF to be a beacon of light for Islam throughout the world.
 
-### 12 - CLOSE WITH BLESSINGS ON THE PROPHET (SAWS) AND PRAISE FOR ALLAH.
+### 12 - CLOSE WITH BLESSINGS ON THE PROPHET (SAWS) AND PRAISE FOR ALLAH
 
-Wa sallallāhu `ālaa Sayyidinā Muhammadin wa `alā ālihi wa aşhābihi ajma`īn
 
-Subhāna rabbika rabbil ‘Izzati ‘ammā yasifūn, wa salāmun `alal mursalīn, walhamdu lillāhi rabbil ‘ālamīn.
-(Translation: Glory be to thy Lord. The Lord of Power and Honour. He is free from what they ascribe to Him. And peace be on the messengers. And praise be to Allah, the Lord and Cherisher of the Worlds.)
+> [!arabic] Ending Salawat
+>وَصَلَّى اللَّهُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ وَأَصْحَابِهِ أَجْمَعِينَ
 
-ALLĀHU AKBAR, ALLĀHU AKBAR, ALLĀHU AKBAR, LĀ ILĀHA ILLALLĀH, MUHAMMADUR RASŪLULLĀH.
+
+> [!arabic] Ending Hamd
+>سُبْحَانَ رَبِّكَ رَبِّ الْعِزَّةِ عَمَّا يَصِفُونَ، وَسَلَامٌ عَلَى الْمُرْسَلِينَ، وَالْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ
+
+Glory be to thy Lord. The Lord of Power and Honour. He is free from what they ascribe to Him. And peace be on the messengers. And praise be to Allah, the Lord and Cherisher of the Worlds.
+
+
+> [!arabic] Closing adhkar
+> اللَّهُ أَكْبَرُ ، اللَّهُ أَكْبَرُ ، اللَّهُ أَكْبَرُ ، لَا إِلٰهَ إِلَّا اللَّهُ ، مُحَمَّدٌ رَسُولُ اللَّهِ.
+
 
 ### 13 - ENDING
 
-Wipe your face with your hands, to end this Special, Blessed Du`aa.
+Wipe your face with your hands, to end this Special, Blessed Du'a.

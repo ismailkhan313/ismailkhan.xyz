@@ -5,7 +5,7 @@ draft: false
 tags:
   - tasawwuf
 ---
-Shaykh Hamza Yusuf translated an eight-page article on the [[Foundations of the Spiritual Path.pdf]] by the great Shadhili Shaykh Ahmad Zarruq. This article, encouraged by Shaykh Hamza to be read and memorized daily, was first published in the *Seasons* journal, now known as _Renovatio_.
+Shaykh Hamza Yusuf translated an eight-page article on the [[Foundations of the Spiritual Path]] by Shaykh Ahmad Zarruq. And here is the [[Zarruq_Usultariq-ar-with-tashkil_Damas.pdf|Arabic version]] with tashkeel from Damas Cultural Society. This article, encouraged by Shaykh Hamza to be read and memorized daily, was first published in the *Seasons* journal, now known as _Renovatio_.
 
 The original text serves as an introductory guide for students and aspirants beginning their spiritual journey. It concisely expands on the five foundational aspects of the Shadhili Path, each requiring two qualities for full realization. The article uses original sources to define these foundations and their qualities, aiming to provide clarity and direction for new aspirants.
 
