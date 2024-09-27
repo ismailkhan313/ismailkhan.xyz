@@ -35,7 +35,9 @@ Oh Allah SWT, we pray for our Shaykh, Teacher and Spiritual Guide, Shaykh Faisal
 
 May You protect him from Evil and we pray that he will lead his Murids on the straight path towards to You.
 
-Oh Allah, we pray for the Shaykh and his family. We pray that you strengthen them in Iman and keep them in good health and grant them long life in Islam
+Oh Allah, we pray for the Shaykh and his family. We pray that you strengthen them in Iman and keep them in good health and grant them long life in Islam. 
+
+*O Allah, we pray that you grant Shaykh a swift and complete recovery. Bless him with long life filled with worship, service, and devotion to You.*
 
 Oh Allah, we pray for Shaykh Faisal, and for his Parents, and for his Spouse, and for his children, and for his entire family. Oh Allah, elevate them in the Dunya and the Aakhirah. 
 

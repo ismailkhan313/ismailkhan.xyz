@@ -5,28 +5,26 @@ tags:
   - theology
 index: 2
 ---
-## The Importance of Rulings
+### The Importance of Rulings
 
-The significance of understanding rulings is highlighted by Imam Juwayni, who famously stated:
-
-> [!quote]
+> [!cite] Imam al-Juwayni said:
 > Whoever does not understand the rational rulings cannot be called intelligent.
 
-This underscores the intellectual and practical importance of grasping these clear and definite affirmations and negations, as they form the foundation for sound reasoning and informed decision-making within both everyday life and religious practice.
+The significance of understanding rulings is famously put by [al-Juwayni](https://damas-original.nur.nu/Texter/bionotes/bio_ibn-juwayni-gfh.html).
 
-## Definitions of Rulings
+The intellectual and practical importance of grasping these clear and definite affirmations and negations for rational rulings is critical. They form the foundation for sound reasoning and informed decision-making within both everyday life and religious practice.
 
-### Definition: Ruling (Hukm)
+### Ruling (Hukm)
 
 A ruling (*hukm*) refers to a statement that either affirms or negates something in relation to another entity. This process of affirmation or negation is characterized by clarity and definiteness. For instance, statements such as 'coffee is enjoyable,' 'the weather is hot,' 'the midday prayer is obligatory,' and the 'ablution is mandatory for prayer' are all examples of rulings. Each of these statements provides a clear and definite stance on the subject matter, whether it be a sensory observation or a religious obligation.
 
-### Definition: Fuzzy Statement
+### Fuzzy Statement
 
 A fuzzy statement refers to a statement that is, 'subjectively stated and often represents an opinion rather than an objective truth.'
 
 These statements lack the clarity and definitiveness of rulings (ahkam) and can lead to misunderstandings, as they are based more on personal perspective than factual accuracy. For example, declaring something like "this food is the best" is subjective and may not hold true for everyone. It is important for believers to recognize that such fuzzy statements are not ahkam, although uninformed individuals might mistakenly consider them so. Aspiring to higher truth (siddiq) in the ahkam means striving to understand and articulate matters with clarity and precision, rather than dwelling in the ambiguity and subjectivity of fuzzy statements.
 
-### Definition: Absurd Statement
+### Absurd Statement
 
 An absurd statement or notion refers to, 'something that is or cannot be.'
 
@@ -41,6 +39,7 @@ These rulings are categorized into three distinct types:
 1. Rational ruling (*hukm ‘aqli*).
 2. Normative ruling (*hukm adi’*). 
 3. Legal ruling (*hukm shar’i*).
+
 Rational rulings (*hukm ‘aqli*) pertains to logical and intellectual judgments; Normative (*hukm adi’*), which involves customary and habitual practices; and Legal (*hukm shar’i*), which encompasses the religious laws and obligations prescribed by Islamic jurisprudence. Each type of ruling plays a critical role in forming a comprehensive understanding of Islamic thought and practice, serving as the essential framework for further scholarly exploration and application in various fields of Islamic studies.
 
 ### Rational Ruling (Hukm ‘Aqli)
