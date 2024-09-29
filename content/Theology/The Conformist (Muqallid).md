@@ -3,7 +3,7 @@ title: The Conformist (Muqallid)
 draft: false
 tags:
   - theology
-index:
+index: 0
 ---
 The note [[Types of Evidence (Daleel)]] distinguishes the issue of the conformist (*muqallid*) as a matter of importance. 
 

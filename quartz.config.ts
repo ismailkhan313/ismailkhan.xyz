@@ -22,8 +22,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Open Sans",
-        body: "Lora",
+        header: "Source Sans Pro",
+        body: "Crimson Text",
         code: "IBM Plex Mono",
       },
       colors: {

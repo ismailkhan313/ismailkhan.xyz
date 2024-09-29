@@ -3,7 +3,7 @@ title: The Rulings and Their Types
 draft: false
 tags:
   - theology
-index: 2
+index: 0
 ---
 ### The Importance of Rulings
 
@@ -17,7 +17,6 @@ The intellectual and practical importance of grasping these clear and definite a
 ### Ruling (Hukm)
 
 A ruling (*hukm*) refers to a statement that either affirms or negates something in relation to another entity. This process of affirmation or negation is characterized by clarity and definiteness. For instance, statements such as 'coffee is enjoyable,' 'the weather is hot,' 'the midday prayer is obligatory,' and the 'ablution is mandatory for prayer' are all examples of rulings. Each of these statements provides a clear and definite stance on the subject matter, whether it be a sensory observation or a religious obligation.
-
 ### Fuzzy Statement
 
 A fuzzy statement refers to a statement that is, 'subjectively stated and often represents an opinion rather than an objective truth.'
@@ -59,6 +58,10 @@ A normative ruling (hukm ‘adi) is a statement that affirms or negates a relati
 
 However, all observed causes and effects are normative, meaning they are possible but not absolute. In Islamic thought, Muslims do not affirm inherent causality in these observations; they recognize that while fire is expected to burn, it is rationally possible that fire may not burn in certain instances. This understanding reflects the belief that all causes and effects ultimately come from God. Thus, Muslims affirm things rationally but remain mindful of God's omnipotence and ability to will any outcome.
 
+### Legal Ruling (Hukm Shar’i)
 
+The command of the Lawgiver to those morally responsible (mukallaf) to make an action required, interdicted, or allowed. For example, Zuhr prayer is obligatory, wine is prohibited, coffee is permitted.
+
+Belief itself is an action of the heart.
 
 

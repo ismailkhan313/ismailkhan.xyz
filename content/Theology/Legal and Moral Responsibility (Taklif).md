@@ -3,7 +3,7 @@ title: Legal and Moral Responsibility (Taklif)
 draft: false
 tags:
   - theology
-index: 5
+index: 0
 ---
 ## Definition of Legal Responsibility
 
@@ -33,7 +33,7 @@ Legal sanity, meaning the individual must be of sound intellect. Adulthood, mean
 
 ## The Mukallaf and Taklif
 
-The *mukallaf* is also the morally responsible person who meets the three conditions of *taklif*. 
+The *mukallaf* is the morally responsible person who meets the three conditions of *taklif*. 
 
 The concept of *taklif* rests its authority from Divine Revelation, meaning that legal obligations have moral bindings to them because God is Absolute and Eternal. God commands humanity to uphold morality within creation.
 

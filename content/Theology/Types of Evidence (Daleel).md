@@ -3,7 +3,7 @@ title: Types of Evidence (Daleel)
 draft: false
 tags:
   - theology
-index: 6
+index: 0
 ---
 In understanding [[Belief is Legally Obligatory#The Definition of Knowledge]], what if sure judgment that is congruent with the truth is not accompanied by evidence? Thus, the question becomes: what constitutes an evidence (*daleel*)? That is the scope of this note. 
 

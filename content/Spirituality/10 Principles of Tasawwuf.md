@@ -6,7 +6,7 @@ tags:
 ---
 This poetry and derived lesson is from Shaykh Muhammad Al-Yaqoubi. These three lines of poetry contain the ten principles of tasawwuf or Islamic spirituality. 
 
-This article is a summarization of the [[Introduction to Iqadh al-Himam - The Commentary on the Hikam]] by Ahmad Ibn Ajiba. That note expands upon these principles in more detail.
+This article is a summarization of the [[10 Principles of Tasawwuf from Iqadh al-Himam]] by Ahmad Ibn Ajiba. That note expands upon these principles in more detail.
 
 
 > [!arabic]

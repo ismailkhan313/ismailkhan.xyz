@@ -36,7 +36,7 @@ One one verbal form of r-w-'a is found in the Quran (11:74), where it carries a 
 > [!cite] The Prophet told Abu Huraira:
 > Be scrupulous and you will be among God’s greatest servants!
 
-> [!cite] Al-Junayd heard from al-Sari [al-Saqati] that:
+> [!cite] Al-Junayd heard from al-Sari al-Saqati that:
 > The most scrupulous men of their times were: Hudhayfa b. al-Mar∏ashi,65 Yusuf b. Asbat, Ibrahim b. Adham and Sulayman al-Khawwas. They stuck to scrupulousness under any circumstances, and when acquisition of that which is lawful became difficult to them, they took recourse in the absolute minimum.
 
 > [!cite] Al-Shibili said:
@@ -48,7 +48,7 @@ One one verbal form of r-w-'a is found in the Quran (11:74), where it carries a 
 > [!cite] Abu Sulayman al-Darani said:
 > Scrupulousness is the beginning of abstention, just as contentment is an [essential] part of satisfaction.
 
-> [!cite] Abu Uthman [al-Hiri] said:
+> [!cite] Abu Uthman al-Hiri said:
 > The reward for being scrupulous is the lightness of reckoning [on the Day of Judgement].
 
 > [!cite] Yahya b. Muadh said:
@@ -110,7 +110,7 @@ One one verbal form of r-w-'a is found in the Quran (11:74), where it carries a 
 > [!cite] Abu Hurayra said:
 > Those who are scrupulous and abstain [from the delights of this world] today will be God’s closest friends tomorrow.
 
-> [!cite] Sahl b. Abdallah [al-Tustari] said:
+> [!cite] Sahl b. Abdallah al-Tustari said:
 > A person who does not adhere to scrupulousness would eat an elephant’s head, yet would remain hungry.
 
 > [!cite] It is related that someone brought to Umar b. Abd al-Aziz some musk that was taken as spoils of war:
@@ -140,7 +140,7 @@ One one verbal form of r-w-'a is found in the Quran (11:74), where it carries a 
 > [!cite] Sufyan al-Thawri was seen in a dream:
 > He had a pair of wings with which he was flying from tree to tree in the garden of Paradise. Someone asked him: By what means did you obtain them? He answered: By scrupulousness!
 
-> [!cite] Hassan b. Abu Sinan once came upon some companions of al-Hasan [al-Basri]:
+> [!cite] Hassan b. Abu Sinan once came upon some companions of al-Hasan al-Basri:
 > He asked What is the most thing difficult for you? They answered: Scrupulousness. He said: There is nothing easier for me than that. They asked him how that could be. He responded: For forty years I have not quenched my thirst by drinking from that stream of yours! Hassan b. Abu Sinan did not sleep on his side, eat cooked food or drink cold water for sixty years. Someone saw him in a dream after his death and asked him: How has God treated you? He answered: Quite well. However, I am barred from entering Paradise on account of a needle I borrowed and never returned.
 
 > [!cite] Abd al-Wahid b. Zayd had a slave who served him for many years:
@@ -170,7 +170,6 @@ God is Pure and Accepts Only the Pure: The hadith emphasizes that Allah is pure 
 Command to Eat Lawful (Halal) Things: It reminds believers to consume what is lawful and good, as has been commanded to both the Messengers and mankind in the Quranic verses.
 
 Impact of Unlawful Sustenance on Prayer: The hadith tells a story of a man who is in a state of desperation and makes earnest prayers to Allah. Despite his sincere supplications, his prayers are not accepted because his sustenance (food, drink, clothing) is unlawful. This illustrates the spiritual importance of seeking lawful means and sustenance to ensure that one's supplications are favorably received by Allah.
-
 
 > [!cite] The Prophet said:
 > The lawful is clear, and the unlawful is clear. But between the two are ambiguous matters not known to many people. Whosoever avoids these matters, has preserved his honour and his religion intact. But whosoever falls into them shall fall into the unlawful, in the fashion of a shepherd who grazes his flock around a sanctuary, so that he is near to violating it. Assuredly, every king has a sanctuary, and God's sanctuary on this earth is composed of His prohibitions.

@@ -1,26 +1,18 @@
 ---
-title: Salat Al-Taaziyya (اﻟﺼﱠﻼَةُ اﻟﺘﱠﺎزِﻳﱠﺔُ)
+title: Salat Al-Taaziyya (صلاة التازية)
 date: 2024-09-15
 draft: false
 tags:
   - tariqa/awrad
 ---
-Recite 11 times after each fard salah, for a total of 55 times per day.
+Shaykh as prescribed recitation of this adhkar 11 times after each obligatory prayer, totalling 55 times per day.
+
+See also: [[Meaning of Salat Al-Taaziyya]].
 
 > [!arabic]
-> أَعُوذُ بِاللّٰهِ مِنَ الشَّيْطَانِ الرَّجِيمِ
-> بِسْمِ اللهِ الرَّحْمنِ الرَّحِيْمِ
-> اَﻟﻠّﻬُﻢﱠ ﺻَﻞﱢ ﺻَﻼَةً كَاﻣِﻠَﺔً
-> وَﺳَﻠﱢﻢْ ﺳَﻼَﻣًﺎ ﺗَﺎﻣًّﺎ
-> ﻋَﻠَﻰ ﺳَﻴﱢﺪِﻧَﺎ ﻣُﺤَﻤﱠﺪٍ
-> اَﻟﱠﺬِيْ ﺗَﻨْﺤَﻞﱡ ﺑِﻪِ اﻟْﻌُﻘَﺪُ
-> وَﺗَﻨْﻔَﺮِجُ ﺑِﻪِ اﻟْﻜُﺮَبُ
-> وَﺗُﻘْﻀَﻰ ﺑِﻪِ اﻟْﺤَﻮَاﺋِﺞُ
-> وَﺗُﻨَﺎلُ ﺑِﻪِ اﻟﺮﱠﻏَﺎﺋِﺐُ وَﺣُﺴْﻦُ اﻟْﺨَﻮَاﺗِﻴْﻢِ
-> وَﻳُﺴْﺘَﺴْﻘَﻰ اﻟْﻐَﻤَﺎمُ ﺑِﻮَﺟْﻬِﻪِ اﻟْﻜَﺮِﻳْﻢِ
-> وَﻋَﻠَﻰ ﺁﻟِﻪِ وَﺻَﺤْﺒِﻪِ
-> ﻓِﻲ ﻜُﻞﱢ ﻟَﻤْﺤَﺔٍ وَﻧَﻔَﺲٍ
-> ﺑِﻌَﺪَدِ ﻜُﻞﱢ ﻣَﻌْﻠُﻮْمٍ ﻟَﻚَ
+> أَعُوذُ بِاللّٰهِ مِنَ الشَّيْطَانِ الرَّجِيمِ ، بِسْمِ اللهِ الرَّحْمنِ الرَّحِيْمِ
+> 
+>اللَّهُمَّ صَلِّ صَلَاةً كَامِلَةً ❁ وَسَلِّمْ سَلَامًا تَامًّا ❁ عَلَىٰ سَيِّدِنَا مُحَمَّدٍ الَّذِي تَنْحَلُّ بِهِ الْعُقَدُ ❁ وَتَنْفَرِجُ بِهِ الْكُرَبُ ❁ وَتُقْضَىٰ بِهِ الْحَوَائِجُ ❁ وَتُنَالُ بِهِ الرَّغَائِبُ وَحُسْنُ الْخَوَاتِمِ ❁ وَيُسْتَسْقَى الْغَمَامُ بِوَجْهِهِ الْكَرِيمِ ❁ وَعَلىٰ آلِهِ وَصَحْبِهِ ❁ فِي كُلِّ لَمْحَةٍ وَنَفَسٍ بِعَدَدِ كُلِّ مَعْلُومٍ لَكَ
 
 
 > [!NOTE] Translation
@@ -37,4 +29,5 @@ Recite 11 times after each fard salah, for a total of 55 times per day.
 > And [send blessings and peace] upon his Family and Companions,
 > With every movement of the eyes, and every breath,
 > By the number of all things known to You.
+
 

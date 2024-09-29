@@ -3,7 +3,7 @@ title: Belief is Legally Obligatory
 draft: false
 tags:
   - theology
-index: 4
+index: 0
 ---
 ## The Ruling to Believe
 
