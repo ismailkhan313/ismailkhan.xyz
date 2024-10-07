@@ -5,16 +5,18 @@ tags:
   - theology
 index: 1
 ---
-## Three core subjects of Islamic beliefs
+## The Three Subjects
 
-The three corse subjects of Islamic beliefs are: 
-1. God.
-2. The Prophets.
-3. The Hereafter.
+The three subjects addressed in traditional Islamic theology are: 
+1. [[Beliefs Pertaining to God (Ilahiyyat)]]
+2. [[Beliefs Pertaining to Prophethood (Nubuwwāt)]]
+3. [[Beliefs Pertaining to Eschatology (Sami'yyat)|Beliefs Pertaining to Eschatology or the Unseen (Sami'iyyat)]]
+
+Most traditional *aqidah* texts focus on the matters pertaining to God (*Ilahiyyat*) and His attributes because the crux of Islamic theology is in relation to God. The other two topics are ancillary to the first.
 
 The value of one's knowledge in Islam is intricately tied to the value of what one knows about these fundamental beliefs. Understanding and internalizing the core principles related to Allah, the Prophets, and the Hereafter can profoundly impact a believer's faith and practice. Knowledge in Islamic teachings is not merely about intellectual acquisition but about cultivating a deeper comprehension and connection to these vital aspects of the religion. Thus, the depth and quality of one's knowledge directly enhance the value it brings to one’s spiritual and everyday life.
 
-## Six reasons to know Islamic beliefs
+## Six Reasons to Know Islamic Beliefs
 
 Understanding Islamic beliefs gives the Muslim theological knowledge towards fostering a stronger faith. These are six reasons to know Islamic beliefs: 
 

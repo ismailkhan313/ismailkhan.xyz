@@ -3,6 +3,7 @@ title: The Substitutes (Al-Abdal)
 date: 2024-09-28
 draft: false
 tags:
+  - hadith
 ---
 > [!cite] Imam Ahmad in his Musnad (1:112)
 >The people of Syria were mentioned in front of Ali ibn Abi Talib while he was in Iraq, and they said: “Curse them, O Commander of the Believers.” He replied: “No, I heard the Messenger of Allah say: “The Substitutes (Al-Abdal) are in Syria and they are forty men, every time one of them dies, Allah substitutes another in his place. By means of them Allah brings down the rain, gives (Muslims) victory over their enemies, and averts punishment from the people of Syria.”

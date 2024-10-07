@@ -5,35 +5,36 @@ tags:
   - theology
 index: 0
 ---
-## Definition of Legal Responsibility
 
-In the [[Kharida al-Bahiyya]] it states: 
-
-> [!quote]
+> [!cite] Imam Dardir's Kharida al-Bahiyya states:
 > It is legally necessary for those morally responsible  
 > To know Allah Most High -- so be well aware 
+## Definition
+The legally responsible person (*mukallaf*) is defined as an individual of: 
+1. Legal Sanity
+2. Adulthood 
+3. Reception of the Message 
 
-The legally responsible person (*mukallaf*) is defined as an individual of sound intellect who has reached the age of puberty and to whom the Islamic invitation (*dawah*) has been communicated.
+Legal Sanity meaning: in possession of a sound intellect. The insane person who does not understand the words spoken to him is excused from learning the tenets of faith. Thus, this person will not be punished while remaining in this state until death.
 
-Dr. Ibrahim Shaghouri's translation of the *Khardiya al-Bahiyya* adds: 
+Adulthood meaning: having reached the age of puberty. 
 
-> [Legal responsbility] applies to humans and jinn, except that the condition of reaching puberty does not apply to jinn.
+In the Hanafi school, both male and female is considered an adult at the age of 15 lunar years or when the male has his first wet dream or female has her first menses.
 
-Additionally, *'So be well aware'* is a reference to [[The Conformist (Muqallid)|conformism]] (*taqlid*). Dr. Shaghouri defines the term: 
+Reception of the Message meaning: whom the Islamic invitation (*dawah*) has been communicated.
 
+> [!cite]  Ibrahim Shaghouri's adds:
+> [Legal responsibility] applies to humans and jinn, except that the condition of reaching puberty does not apply to jinn.
+
+
+Additionally, *'So be well aware'* is a reference to [[The Conformist (Muqallid)]]. 
+
+> [!cite]  Ibrahim Shaghouri defines the *muqallid* as:
 > Although the faith of someone who merely imitates the faith of someone else is sound, such a one remains disobedient if he does not look into and reflect upon the proofs of faith and come to know Allah as described.
 
-## Conditions For Moral Responsibility (*Taklif*)
-There are three primary conditions that define moral responsibility (*taklif*) in Islam:
-1. Legal Sanity.
-2. Adulthood.
-3. Reception of the Message.
+## Taklif and Mukallaf
 
-Legal sanity, meaning the individual must be of sound intellect. Adulthood, meaning the individual must have reached the age of puberty. And reception of the message, meaning the individual must have received the message of Islam.
-
-## The Mukallaf and Taklif
-
-The *mukallaf* is the morally responsible person who meets the three conditions of *taklif*. 
+The *mukallaf* is the legally responsible person who meets the three conditions of *taklif*. 
 
 The concept of *taklif* rests its authority from Divine Revelation, meaning that legal obligations have moral bindings to them because God is Absolute and Eternal. God commands humanity to uphold morality within creation.
 
@@ -70,3 +71,6 @@ The reception of the Islamic message depends greatly on the "type" of Islam one 
 ## Special Cases
 
 There are special cases of course. For example, individuals who are both blind and deaf, they are generally excused from legal responsibility. However, if they are able to understand the message in some way, their acceptance is valid.
+
+---
+**Sources**

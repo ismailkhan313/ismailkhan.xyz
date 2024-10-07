@@ -24,15 +24,17 @@ Codifiers of the Science
 - [[Abu al-Hasan al-Ash'ari]]
 - [[Abu Mansur al-Maturidi]]
 [[The Mu'tazila]]
-Theology - Definition and Names
-Subject Matter of Beliefs
-Summarization of for all three topics
+[[Theology - Definition and Names]]
+[[The Subject Matter of Beliefs]]
+[[Beliefs Pertaining to God (Ilahiyyat)]]
+[[Beliefs Pertaining to Prophethood (Nubuwwāt)]]
+[[Beliefs Pertaining to Eschatology (Sami'yyat)]]
 
 **Part 1 - Matters Pertaining to God (Ilahiyyat):**
 
 [[The Name Allah - Definition and Derivation]]
-The Necessity of Knowing Allah
-- The Mukallaf
+[[The Necessity of Knowing Allah]]
+[[Legal and Moral Responsibility (Taklif)]]
 - The First Obligation (Marifa)
 - Allah Qualified as a specific number of attributes
 - The Maturidis and Takwin

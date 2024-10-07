@@ -6,7 +6,7 @@ tags:
   - theology
 index:
 ---
-In matters of theology it is important to get an understanding the name of Allah when learning about the matters pertaining to Allah (Ilahiyyat). This note serves to make salient points and summarize the matter. 
+In matters of theology it is important to get an understanding the name of Allah when learning about the matters pertaining to Allah (Ilahiyyat). Understand the actual name of 'Allah' and the discussion surrounding what name the Supreme Name entails is an important matter in *ilm at-tawhid* which the Sufis are highly engaged in. 
 
 There are various definitions for the Divine name 'Allah.' Many scholars hold the opinion that the name 'Allah' is the greatest and supreme name of all the Names of Allah. 
 

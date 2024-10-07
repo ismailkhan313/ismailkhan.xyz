@@ -3,8 +3,8 @@ title: Hadith of the Perfumer and the Blacksmith
 date: 2024-09-22
 draft: false
 tags:
+  - hadith
 ---
-
 > [!cite]  Narrated by Abu Musa Al-Ash'ari who related that the Prophet Muhammad ﷺ said: 
 > 
 > The example of a good companion in comparison with a bad one is like that of the musk seller and the blacksmith's bellows: from the first you would either buy musk or enjoy its good smell while the bellows would either burn your clothes or you get a bad nasty smell thereof. (Sahih al-Bukhari and Sahih Muslim)

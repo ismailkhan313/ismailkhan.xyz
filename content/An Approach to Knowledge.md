@@ -1,3 +1,9 @@
+---
+title: Knowledge
+date: 2024-10-06
+draft: true
+tags:
+---
 > Raise your words, not voice. It is rain that grows flowers, not thunder. — Jalaluddin ar-Rumi
 
 It seems we live in a world where noise drowns out reason and there is this constant yearning for clarity and insight. The soft scientific concepts behind 'information overload', 'cognitive biases', and the 'attention economy' all lends itself into the entrenchment of 'noise' we earn each day. At its root, thoughts and by extension words are like seeds we plant in the fertile soil of our minds. Our thoughts possess the extraordinary power to inspire, educate, and transform. Like gentle rain, words can nurture the delicate blossoms of ideas, fostering growth and enlightenment. By capturing these words into notes or through thoughtful dialogue we cultivate a garden of wisdom, where every petal reflects the light of understanding. In contrast, raising our voice in anger and angst is akin to the clap of thunder—loud and attention-grabbing but ultimately fleeting and destructive. Thunder may command immediate attention, but it lacks the nurturing touch necessary for growth. Similarly, loud and aggressive communication often falls on deaf ears, creating barriers rather than bridges.

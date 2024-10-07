@@ -1,5 +1,5 @@
 ---
-title: Foundations of the Spiritual Path by Sidi Ahmad Zarruq
+title: Foundations of the Spiritual Path
 date: 2024-09-23
 draft: false
 tags:
