@@ -11,6 +11,9 @@ export default (() => {
       <div>
         <div id="links-header">
           <span>
+            <a href="/All-Notes/">Notes</a>
+          </span>
+          <span>
             <a href="/Islam/">Islam</a>
           </span>
           <span>
