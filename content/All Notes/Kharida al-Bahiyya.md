@@ -1,8 +1,7 @@
 ---
 title: "Text: Kharida al-Bahiyya"
 draft: false
-tags:
-  - texts
+tags: []
 ---
 ### The Text: The Radiant Pearl (Al-Kharida Al-Bahiyya)
 

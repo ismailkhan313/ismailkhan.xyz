@@ -218,3 +218,8 @@ The translator ends the main portion of this counsel with the reminder:
 > 
 > May Allah provide us with that and help us to fulfill it. May He always maintain us in a state of grace, for we cannot survive without His bestowal of grace and prosperity. Allah is enough for us, and God is the best of protectors. May prayers and peace be upon our master Muhammad and his family and his companions.
 
+@ahmadzarruqFoundationsSpiritualPath2003
+
+---
+**Sources**
+1. Ahmad Zarruq. “Foundations of the Spiritual Path.” Translated by Hamza Yusuf. Seasons Journal, 2003.

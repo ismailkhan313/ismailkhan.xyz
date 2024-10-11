@@ -9,9 +9,9 @@ Ahlan wa sahlan wa marhaban! أهلاً وسهلاً ومرحباً
 This small *online oasis* primarily consolidates notes on the Islamic tradition. The navigation up top takes you to what has been published as a series or standalone notes of that science. The list below navigates to all notes in that series and showcases what is published at a top-level.
 
 Published Series: 
-1. [[06 - Permanent Notes/Islam/How Islam Works/index|Methodology of Islam]] explores how Islam has and is being preserved and the larger components that bring the religion together.
-2. [[06 - Permanent Notes/Sufism/Sufi Lexicon/index|Sufi Lexicon]] contains summarized terminology from the works of Ibn Ajiba's *Mi'raj al-Tashawwuf* and Al-Qushayri's *Risalah*.
-3. [[06 - Permanent Notes/Theology/index|Theology]] is a catch all for Ashari and Maturidi dogma and general Islamic theology.
+1. [[/Islam/How Islam Works/index|Methodology of Islam]] explores how Islam has and is being preserved and the larger components that bring the religion together.
+2. [[06 - Permanent Notes/Tasawwuf/Sufi Lexicon/index|Sufi Lexicon]] contains summarized terminology from the works of Ibn Ajiba's *Mi'raj al-Tashawwuf* and Al-Qushayri's *Risalah*.
+3. [[06 - Permanent Notes/Aqidah/index|Theology]] is a catch all for Ashari and Maturidi dogma and general Islamic theology.
 
 ---
 

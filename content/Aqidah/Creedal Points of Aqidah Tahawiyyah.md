@@ -2,8 +2,7 @@
 title: Review List of Aqidah Tahawiyyah
 date: 2024-09-27
 draft: false
-tags:
-  - creed
+tags: []
 ---
 
 This note is from the translation of *Aqidah Tahawiyyah* of Imam at-Tahawi by Shaykh Faisal Hamid Abdur-Razak. In other translations of this text points are at times concatenated into one or broken up into more points. This translation takes the text in 105 points.

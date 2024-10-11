@@ -1,4 +1,4 @@
 ---
-title: Sacred Law
+title: Aqidah
 date_created: 2024-10-06
 ---

@@ -13,8 +13,8 @@ tags:
 > 
 > The also speak of fana' in respect to effacement in God's acts--that there is no Doer except God--and God's attributes--that there is no other One who is Able, no Hearer, and no Seer except God. [Whoever is granted this effacement] sees creatures themselves as being lifeless, powerless, unable to hear or see except by God. Then comes effacement in the essence, or as a poet has said: 
 > 
-> 	He is effaced, then effaced, then effaced
-> 	And his effacement becomes his very subsistence
+> > He is effaced, then effaced, then effaced
+> > And his effacement becomes his very subsistence
 > 
 > As for subsistence (baqa'), this is a return to consciousness of existent things after having passed away from it, to consciousness of the sensory (al-hiss) after having passed away from it in consciousness of the intelligible, except that the servant then sees it as subsisting through God and as one of the lights of His epiphanies: were it not for the sensory, the intelligible could not be manifested, or [to paraphrase Ibn Mashish], 'were it not for the mediator (al-waasitatu), the One for whom he mediates could not be known.'
 > 
@@ -32,3 +32,9 @@ Ibn Ajiba quotes from Ibn al-Farid a few pages later regarding the subtle realit
 > Beyond quotations from books and talks;
 > 
 > Dwells a knowledge so subtle it eludes the soundest minds. 
+
+---
+**Source**
+@ahmadibnajibaBookAscensionEssential2011
+
+Ahmad ibn Ajiba. _The Book of Ascension to the Essential Truths of Sufism: (Mi’raj al-Tashawwuf Ila Haqa’iq al-Tasawwuf) A Lexicon of Sufic Terminology_. Translated by Mohamed Fouad Aresmouk and Michael Abdurrahman Fitzgerald. Louisville, KY: Fons Vitae, 2011.

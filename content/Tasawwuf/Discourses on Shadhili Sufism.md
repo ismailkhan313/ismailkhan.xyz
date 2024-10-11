@@ -3,10 +3,9 @@ title: Discourses on Shadhili Sufism
 draft: false
 tags:
   - tasawwuf
-  - shadhili
 ---
-This note is derived from a matn entitled: The Ascent Of Keenness To Understand To The Realities Of Tasawwuf or Iraj At-Tashawwuf Al-Haqaiq At-Tasawwuf.
-# Dhikr and Mudhākarah
+This note is derived from Ibn Ajiba's text *Mi'raj al-tashawwuf ila al-haqa'iq al-tasawwuf* (The Book of Ascension to the Essentials Truths of Sufism). Much of the discussion here is not actually from the matn but commentary.
+## Dhikr and Mudhākarah
 Dhikr and mudhākarah interrelate in Taṣawwuf. Dhikr is the formulaic recitation given by the Shaykh to the murid. Mudhākarah is the Sufi teaching taught by the Shaykh, in his presence, to the murid.
 
 Dhikr and mudhākarah both lose value and purpose if not taught by a rightly guided Shaykh.
@@ -48,7 +47,7 @@ The ḥaqīqah of mudhākarah: it is a mirror for your self. A mirror allows you
 Mudhākarah is a tool for reflection and change. Mudhākarah comes from the word *tubsirah* which means 'to wake up and change.' The mirror is showing you yourself and the work you need to do to yourself. Mudhākarah tells you what to change _from_ into what to change _into_.
 
 You change by first identifying what is wrong within your own self, then you review yourself after taking what the Shaykh imparts upon you in the sessions of mudhākarah.
-# The Sunnah
+## The Sunnah
 
 The Sunnah is the way of optimism and of rejoicing. Why? Because ‘the odds’ are always on the side of Allāh (SWT). He will always win. It is just a matter of time before Allāh says He will win and the losers will lose.
 
@@ -56,7 +55,7 @@ Therefore, maintain tawakkul in Allāh until that time comes. Do not be upset ab
 
 Take care of the things that Allāh says for you to take care of. Namely, take care of your nafs, and get your nafs to Paradise.
 
-# Why the Path if the Awwam are Saved?
+## Why the Path if the Awwam are Saved?
 
 Question: Why should the murid struggle on the spiritual Path if it suffices the believer to follow the general outlines of Islam to be saved? Especially if by following the general outlines the believer will still achieve endless bliss from it?
 
@@ -64,12 +63,12 @@ Answer: It is as Imam Jalāludīn Ar-Rūmī said, 'somebody who is given amnesty
 
 The Path is to reach the highest of degrees, so you can be accepted by the King and reach a high position with Him in His Court. This would not be the case for the person who is merely forgiven and accepted by Allāh, except by His leave.
 
-# Maʿrifah 
+## Maʿrifah 
 
-## Defining Maʿrifah
+### Defining Maʿrifah
 
 From Imām Aḥmad Ibn ʿAjība *maʿrifah* is **'the knowledge of Allāh, directly and experientially.'** Furthermore, the Imām states it is, **'the consolidatedness of one’s beholding of the Divine (_Mushahadah_).'** This is not to say that one’s veil is lifted, and some of the Nur of Allāh is granted to you for a time. Rather, it means that *maʿrifah* becomes the predominant state, in that, it occupies most of one’s time.
-## Maʿrifah and the ʿArif
+### Maʿrifah and the ʿArif
 
 According to the Imām, the knower of Allāh (*ʿarif*) is:
 1. One whose *maʿrifah* predominates him in that his predominant state is perpetually beholding Allāh.
@@ -84,7 +83,7 @@ Attaining *jannatul ʿarif* comes from prolonged dhikr, *mushahadah*, being with
 The Prophet (saw) said, 'watch carefully over Allāh [through obeying His commands and leaving His prohibitions] and you will find Him right in front of you.' (*ahfadila tajidutu tajadak*) ([Jami' at-Tirmidhi 2516](https://sunnah.com/tirmidhi:2516)). 
 
 In sum, someone who is with Allāh in this world is someone who has already entered Paradise.
-## Maʿrifah and the Murid
+### Maʿrifah and the Murid
 
 The nature of the murid who has *maʿrifah* always asks of himself, 'How can I give thanks to Allāh as it befits the blessing He has put me in?'
 
@@ -92,7 +91,7 @@ Ibn ʿAṭā ʿIllāh As-Sakandarī said, 'that which the ʿarifīn seek, when t
 
 Note this is the case for ordinary Muslims as well.
 
-## What do the ʿArifīn ask for?
+### What do the ʿArifīn ask for?
 
 Regarding this question Ibn ʿAṭā ʿIllāh said, 'They want genuineness in expressing their slavehood to Allāh.'
 
@@ -106,10 +105,10 @@ Meaning, no one can claim they are everything Allāh is asking of them. Those wh
 
 To this effect the Prophet (saw) said, 'There is no one who is more jealous (_ghirah_) than Allāh.' (Ṣaḥīḥ of Imām Al-Bukhārī; ma min ahadin aghi min Allāhi.)
 
-## The Sufi is One Who Demands Everything
+### The Sufi is One Who Demands Everything
 
 The Sufi is one who demands everything, in that, they want to reach Allāh in everything. The Sufi Path wants everything from Allāh, such as high stations, high rank, closeness to Allāh, and high spot in Jannah. Therefore, the price for this is to pay *everything* to Allāh.
-# Hadith of Ibn ʿAbbās
+## Hadith of Ibn ʿAbbās
 
 The hadith of Ibn ʿAbbās: 'Watch Over Allāh And You Will Find Him In Front Of You.'
 
@@ -134,7 +133,7 @@ Imam Shibli said, 'The Arifeen are asleep and the jahileen are dead.'
 Again the ʿarif is the one who knows Allāh. They have a spiritual Path, and have a direct and experiential experience with Allāh. Whereas the jahil is the one who does not know Allāh. They have no spiritual Path, and thus they have no understanding. The arifeen are asleep in the sense that they are still alive but have not yet woken up to see true Reality in full, that is Allah. The jahileen are dead in the sense they are still alive in this world but dead in that they will not see true Reality.
 
 The same concept is related in a hadith by the Prophet Muhammad (saw). Shaykh Faisal mentions this hadith in Ramaḍān Companion. The hadith reads to the effect of, “the parable of one who makes dhikr of Allāh and he does not make dhikr is the semblance of the living with the semblance of the dead.”
-# Worship Allāh As If You See Him
+## Worship Allāh As If You See Him
 
 The aim is to worship Allah as if you see Him as is widely cited in one of the foundational hadith of the religion - Hadith Jibreel. The faculty with which this is done is the spirit (rūḥ) and the inner insight (basirah).
 
@@ -142,13 +141,13 @@ The aim is to worship Allah as if you see Him as is widely cited in one of the f
 
 Allāh was and nothing beside, after the manifestation of the Divine (source: Sahih Bukhari). Allāh is One and unique and this manifests (tajalli) truth for the arif. After the manifestation of the Divine by the encompassing of the arif, the light of the divine presence comes into the arif. Allāh loves this slave and thus this arif operates as if they see Allāh. In that they’re limbs and faculty operate as if Allāh is in front of them, as does their heart and mind. In other words La hawla walaquwatta ila biLah (there is no motion/power except by Allāh). This results in Fana fil afal: the annihilation in the actions of Allāh. Meaning the chirping of the birds all become signs from Allāh, as all action from the creation of Allāh is by Allāh. The basis and origin of anything that begins in time is the beginninglessly eternal. All motion and power, and all manifestations return to the one who manifests it and he who by through it is manifest.
 
-# The Rūḥ Was Created To Know
+## The Rūḥ Was Created To Know
 
 The Rūḥ was created to know and it can know many things. 
 
 The rūḥ is not veiled by the flow of time as conventionally understood flowing from the past into the future. The rūḥ experiences time from the future into the past. This is why sometimes you have a hunch that something is going to happen, and you had no previous idea about it before, then you find it in front of you. Why? This is the nature of the rūḥ. This is how the rūḥ has been created, and for this to happen all the time is Supreme Intellect. The only obstacle that prevents the rūḥ from acting like this all the time is due to the limitations of the physical body, the ego, desires, waswasa and Shaytan. Fully being in the flow of your rūḥ is the Supreme Intellect because the rūḥ is only attached to the light of Allāh. Why? Because this is the design of the rūḥ. It was made in Paradise, nearest to the court of Allāh, in all it’s light and splendour. That is where its homeland is and thus gives of that very nature in you at times.
 
-# Tasawwuf Is About You 
+## Tasawwuf Is About You 
 
 Tasawwuf is about you and *not the awliya*.
 
@@ -166,7 +165,7 @@ Imam Ibn Ajiba said:
 
 Similarly, proper adab and subha as-saliheen are pillars in the Sufi Path and thus your spiritual journeying.
 
-# The Path is Rough and Smooth
+## The Path is Rough and Smooth
 
 Some parts of the spiritual Path are challenging, while others are smooth. As a seeker (murid), you must adapt to the fact that you are operating on Allah’s time, not your own. The Path does not follow your personal schedule but rather Allah’s timing. This is important in controlling your intellect (ʿaql). 
 
@@ -174,7 +173,7 @@ The intellect (ʿaql) is a 'valuable servant but a terrible master.' Early on, y
 
 As you travel, you cannot control the Path itself, but you can manage your manners when faced with both rough and smooth parts. The Path is fundamentally about manners (adab), and the spiritual path (tariqa) emphasizes adab throughout the journey.
 
-# The First Adab When Looking For A Tariqa
+## The First Adab When Looking For A Tariqa
 
 Those looking for a tariqa should be wary of (fiqh) ulema telling people there are no Sufi ulema in the world present today. For those ulema to say that means they have not met a true Sufi Shaykh before, and they find it far-fetched for anyone else to have met one as a result. 
 
@@ -184,7 +183,7 @@ Meaning, that if someone believes that Allah’s doors are closed to them, they 
 
 Allah has not gone anywhere; His hands are outspread, ready to give generously.
 
-# 'The Spiritual Path is Gone and So Are its People'
+## 'The Spiritual Path is Gone and So Are its People'
 
 Abu Bakr Al-Wasiti said, 'the Spiritual Path has hone and so have its people. And nothing remains excepts regrets.'
 
@@ -205,7 +204,7 @@ Whatever exceeds these three purposes is nothing more than the whisperings (wasw
 
 Note this point relates to the first adab in looking for a tariqa as mentioned previously. 
 
-# Second Adab When Looking For A Tariqa
+## Second Adab When Looking For A Tariqa
 
 To embark on the Path of Sufism, one must seek guidance from a spiritual guide (murshid) rather than relying on books from a bookstore. 
 
@@ -221,23 +220,23 @@ Here the Imam warns that individuals hinder their own spiritual progress by rush
 
 Those who attempt to tread the Path of Sufism without a Shaykh essentially let Shaytan become their guide. This includes those who think that merely purchasing books on Sufism and reading them is sufficient. In essence, do-it-yourself Sufism is a fallacy, as genuine knowledge and spiritual enlightenment can only be imparted by those who possess it themselves.
 
-# Avoid The Dangers Of Spiritual Ostentation
+## Avoid The Dangers Of Spiritual Ostentation
 
 ‘Abd al-Rahman al-Majdhub said in one of his poems, 'Bury your secret in the earth, seventy fathoms down, / And leave all men in doubt [about you] until Resurrection Day.' (Ibn ‘Ajiba: al-Futuhat al-Ilahiyya, 46). The Shaykh is in the golden chain of the Shadhili silsila. Here the Shaykh warns the murid about avoiding the dangers of spiritual ostentation on the Path. 
 
-# The Secret Of The Tariqa
+## The Secret Of The Tariqa
 
 When someone takes the tariqa, they no longer move alone. Instead, they become connected through a lineal chain to the saints (awliya), which in turn links directly to the Prophet Muhammad (saw). This connection ensures that the spiritual help of the awliya and the Prophet reaches them through divine support (madad). This powerful support system is one of the secrets why individuals within the tariqa are capable of accomplishing great things. 
 
 Once a disciple has taken the wird of the tariqa from the Shaykh, their every movement is bolstered by the entire spiritual lineage (silsila) accompanying them. Conversely, those who attempt to traverse the spiritual path without this sacred connection move alone, devoid of the vital support and guidance that the 'drawing near' (tawassul) and blessings (barakah) of the silsila provide.
 
-# The Prescribed Prayer 
+## The Prescribed Prayer 
 
 If your salah is lacking, then you are lacking; it reflects a lack of commitment on your part. 
 
 Salah is like an [acid test](https://dictionary.cambridge.org/dictionary/english/acid-test) for the state of your heart, revealing your inner spiritual condition. It is the greatest source of light (nur) and acts as a bridge (silla/wasala) between you and the Divine. Salah is also considered the greatest devotional practice (wird). Only those who are deeply in love with Allah or adorned with divine qualities, and who are unattached to the material things of this world, can truly attain this state. Such individuals are known as people of asceticism (zuhd).
 
-# The Secret Of Tahajjud
+## The Secret Of Tahajjud
 
 The Prophet Muhammad (saw) said:
 > Our Lord, the Blessed and the Exalted, descends every night to the lowest heaven when one-third of the latter part of the night is left, and says: 'Who will call upon Me so that I may answer him? Who will ask Me so that I may give him? Who will ask Me forgiveness so that I may forgive him?'" (Bukhari and Muslim)
@@ -252,13 +251,13 @@ Rising for tahajjud presents a precious opportunity to deepen your connection wi
 
 Allah promises to increase His blessings upon those who offer thanks for what they have received. By waking up for tahajjud and engaging in heartfelt prayers of love and gratitude, you not only strengthen your spiritual bond but also invoke Allah's promise to multiply His favours upon you. This act of devotion aligns you with divine mercy and ensures that your life is imbued with greater blessings and grace.
 
-# Praying For Forgiveness Is A Great Secret Of The Path
+## Praying For Forgiveness Is A Great Secret Of The Path
 
 Praying for forgiveness is one of the greatest secrets of the tariqa, and particularly within the Shadhili tariqa. This practice is primarily undertaken through the remembrance (dhikr) of the Shaykh upon his murids and others.
 
 It is also done through the prayer of repentance (salah at-tawba). Not only is this prayer a critical sunna (sunna thabita) but a significant act in the Shadhili tariqa. It reflects a steadfast tradition of the Prophet Muhammad (saw). For a murid of the Shadhili path, it is paramount to be well-acquainted with this salah and to perform it frequently. Engaging in these practices not only cleanses the soul but also strengthens one’s connection to the Divine, ensuring that the path remains one of continuous spiritual growth and renewal.
 
-# The Shariah Is A Matter Of Knowing
+## The Shariah Is A Matter Of Knowing
 
 The Shariah is fundamentally a matter of knowing, providing answers to the question: what is the command of Allah? 
 
@@ -270,7 +269,7 @@ At the same time, it's crucial to make efforts. It is akin to casting a net in w
 
 The last words of Sidi Ali al-Jamal (the shaykh and teacher of Imam ad-Darqawi) were, “Expose yourself to the fragrant breezes of Allah.” This exposure is achieved through the daily litanies (awrad), prescribed by your Shaykh. By adhering to these practices, one aligns themselves with divine grace and opens their being to the transformative power of Allah’s mercy and guidance.
 
-# Dhikr: The Key to the Tariqa's Goals
+## Dhikr: The Key to the Tariqa's Goals
 
 Dhikr is the means by which every aim in the tariqa is realized, serving as the fastest and most effective method for spiritual growth. 
 
@@ -278,7 +277,7 @@ Shaykh Ahmad al-Alawi said, 'It is the cause of every good (sadaqul khayr).' How
 
 While the necessity of effort in both outward (rasm) and inward (haqiqa) aspects is obvious, it is essential to understand that outwardly, dhikr may seem like a repetitive task ("I must do my wird today again"), yet inwardly, it manifests as a divine gift as the tawfiq of Allah. One's ability to remember Allah is not just a ritual but signifies His love for you, as He has granted you the ability to speak His name in remembrance.
 
-# Indifference Reveals True Seeking
+## Indifference Reveals True Seeking
 
 The sign that you seek something through Allah is that you’re indifferent towards that thing, seeking it not only through Allah but also for Allah. Regardless of your destiny or the extent of your achievements, the power of your intention remains paramount. When you seek things by Allah, your mark in this world is determined by your intention rather than your actions. Allah seals your destiny based on your intentions, not just your deeds. For instance, if you intended to save the world for Allah’s sake but were unable to do so, Allah will still record it as if you saved the world due to your noble intention. This underscores the secret and power of intention. The hallmark of seeking for Allah lies in your resolve to act; whether the action materializes or not, the eternal ruling (hukm) with Allah is that you accomplished it. When you resolve to do something for His sake and do not succeed, Allah inscribes it as done in your record, reflecting this divine consequence for eternity. The precondition is always that your intention was for His sake alone.
 
@@ -286,15 +285,15 @@ The mark that you are seeking something through Allah is your indifference towar
 
 These points are related in the *Hikam* of Ibn Ata'illah.
 
-# Self-Satisfaction: The Spiritual Obstacle
+## Self-Satisfaction: The Spiritual Obstacle
 
 The main obstacle in the spiritual path is self-satisfaction. When an individual thinks, "My nafs is fine the way it is. I am happy the way I am," they hinder their own progress. Those who identify with their ego become stagnant on their path, unable to advance until they set aside their ego completely. The true spiritual goal lies ahead, but one must understand that what is in front of them is not their ego. Letting go of self-satisfaction and the ego is crucial for continued growth and alignment with the spiritual objectives ahead.
 
-# Allah’s Grace in Drawing You Closer
+## Allah’s Grace in Drawing You Closer
 
 Your drawing close to Allah is only because Allah is drawing closer to you, or rather, your drawing closer to Allah is identically one with Allah's drawing closer to you. It is Allah who is doing the favor; by drawing closer to Him, you are not doing any favors to Allah. This profound truth is crucial to remember, as it humbles the seeker and underscores the divine grace at the heart of the spiritual journey.
 
 This is mentioned in the *Hikam* of Ibn Ata'illah. 
-# Value Is in Actions, Not Knowledge
+## Value Is in Actions, Not Knowledge
 
 At every single spiritual station, the value you possess is determined by what one is able to do. Therefore, strive to do the best you can because Allah has done the best for you. Similarly, extend your best efforts toward the awliya, the saints, whom He has placed before you. In the realm of tasawwuf, or Islamic mysticism, a single act of practice holds more value than an entire room full of theoretical knowledge.

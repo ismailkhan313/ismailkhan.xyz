@@ -1,4 +1,4 @@
 ---
-title: Sufism
+title: Shariah
 date_created: 2024-10-06
 ---
