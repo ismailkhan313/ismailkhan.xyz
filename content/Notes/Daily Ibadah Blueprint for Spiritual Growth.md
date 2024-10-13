@@ -1,7 +1,7 @@
 ---
 title: Daily Ibadah Blueprint for Spiritual Growth
 date: 2024-09-26
-draft: false
+draft: true
 tags:
 ---
 This note outlines a comprehensive daily schedule for prayers, wudu, Quran recitations, and awrad from the tariqa. Observing the Islamic day starting from Maghrib and ending before the next Maghrib, we break down the day into time segments for ease of organization and effective adherence to ibaadah. This routine follows the Hanafi madhhab, with considerations for differing opinions and striving for higher standards to be added later.

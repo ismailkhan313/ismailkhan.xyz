@@ -3,6 +3,7 @@ title: Abdul Wahhab al-Tazi
 date: 2024-09-29
 draft: false
 tags:
+  - biography
 ---
 **Sidi Abul Mawahib Abdul Wahhab Al-Tazi Al-Fasi** (Arabic: سيدي عبد الوهاب التازي) is known as the _baraka_ (blessing) of Fes. He is said to have had the spiritual rank of _Ghawth_ for 34 years.  He was born and raised in the city, although his family originated from Taza in eastern Morocco. Among his teachers were the great Shaykh Abdul Aziz Al-Dabbagh and Mawlay Ahmad al-Siqilli.
 

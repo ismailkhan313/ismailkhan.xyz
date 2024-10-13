@@ -4,7 +4,7 @@ draft: false
 tags:
   - reading-list
 ---
-In 2024, I embarked on a significant reading challenge, starting the year by diving into over 25 foundational books on Islam. These books were thoughtfully recommended and curated by [QuranicThought.com](https://quranicthought.com/), an organization based in Amman, Jordan. This platform is a treasure trove of millions of Arabic Islamic manuscripts, with the broader aim of gathering every classical Arabic manuscript in the Islamic tradition and making it available online. They also provide supplementary notes and audio lectures, making the site an invaluable resource for students, researchers, scholars, and teachers. 
+These books were thoughtfully recommended and curated by [QuranicThought.com](https://quranicthought.com/), an organization based in Amman, Jordan. This platform is a treasure trove of millions of Arabic Islamic manuscripts, with the broader aim of gathering every classical Arabic manuscript in the Islamic tradition and making it available online. They also provide supplementary notes and audio lectures, making the site an invaluable resource for students, researchers, scholars, and teachers. 
 
 Their site states: “Our mission is to preserve Islamic Civilization by making all its jewels available to the whole world for free using the latest technology.” Furthermore, it states:
 

@@ -4,7 +4,6 @@ draft: false
 tags:
   - book-review
 ---
-
 In the grand mosaic of Islamic tradition, one practice stands out for its enduring appeal and profound significance: the tradition of praising Prophet Muhammad ﷺ **through poetry**. This practice, deeply rooted in the history and hearts of Muslims, is illuminated by the actions of the Prophet's companions. Their involvement in this art form offers a historical precedent that remains as relevant today as it was centuries ago. Esteemed for their close association and understanding of the Prophet's teachings, their engagement in poetic praise sets a benchmark within the Islamic tradition, highlighting the permissibility and commendability of this expression.
 
 _Compositions of the Companions: Poetry in Praise of the Magnificent Messenger_ ﷺ translated by Moustafa Elqabbany for The Royal Islamic Strategic Studies Centre  (RISSC) is a deeply reverent collection of poetry, celebrating the life and teachings of the Prophet Muhammad ﷺ from his own companions. Drawn primarily from the esteemed works of Imam Ibn Sayyid al-Nās, namely _Minaḥ al-Madā_, this short anthology stands out for its authenticity and historical significance, solely featuring verses recited by the Prophet's ﷺ companions in his presence.
@@ -15,13 +14,13 @@ What makes this translation noteworthy is its careful balancing act between pres
 
 The poetry composed by the companions of the Prophet ﷺ provides a direct window into the thoughts, emotions, and experiences of those who lived alongside him. This historical context offers an authentic perspective on the Prophet's ﷺ life, character, and teachings, which is invaluable for both scholars and followers of Islam.
 
-For example, these are two couplets by the companion Al-Abbas ibn Mirdas al-Sulami
-
-_O Prophet, Seal of Truth, of noble mission:
-All guidance of the path is your possession.
-
-Among creation, love for you’s been set;
-Muhammad is your name per God’s behest._
+> [!quote] Couplets from Al-Abbas ibn Mirdas al-Sulami
+> *O Prophet, Seal of Truth, of noble mission:*
+> *All guidance of the path is your possession.*
+> 
+> *Among creation, love for you’s been set;*
+> *Muhammad is your name per God’s behest.*
+> 
 
 From a linguistic view, these poems are essential for preserving the Arabic language as it was spoken and written during the time of the Prophet ﷺ. They serve as a resource for understanding the evolution of the language and its literary forms.
 
@@ -42,14 +41,6 @@ Furthermore, engaging in this form of artistic expression can significantly enri
 Additionally, Islam encourages artistic endeavors that align with its ethical and moral values. Poetry that praises the Prophet ﷺ, while adhering to these principles, emerges as an artistic form that is both culturally enriching and spiritually uplifting. Such practices also play a crucial role in strengthening community bonds, fostering a sense of unity among Muslims as they collectively engage in honoring the central figure of their faith.
 
 Lastly, in a global landscape often marred by misunderstandings and negative stereotypes about Islam, this tradition offers a counter-narrative. It showcases the profound respect and love Muslims have for their Prophet ﷺ, presenting a more nuanced and positive image of Islam to the wider world.
-
-[
-
-![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F75310fa3-ff34-49a2-b44e-c28c1c1665ba_1024x1024.png)
-
-
-
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F75310fa3-ff34-49a2-b44e-c28c1c1665ba_1024x1024.png)
 
 The practice of praising Prophet Muhammad ﷺ through poetry is more than a mere tradition. It is a vibrant and essential aspect of the Islamic faith that carries immense spiritual, cultural, educational, and social value. It stands as a testament to the deep connection Muslims have with their faith and their Prophet ﷺ, offering a meaningful avenue for expression and devotion. As such, it remains not just a rightful practice but a vibrant and essential aspect of the Islamic faith.
 

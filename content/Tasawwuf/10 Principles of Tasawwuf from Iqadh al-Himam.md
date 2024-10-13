@@ -1,5 +1,5 @@
 ---
-title: Introduction to Iqadh al-Himam - The Commentary on the Hikam
+title: 10 Principles of Tasawwuf (Iqadh al-Himam)
 date: 2024-09-23
 draft: false
 tags:

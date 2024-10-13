@@ -1,5 +1,5 @@
 ---
-title: 10 Principles of Tasawwuf
+title: 10 Principles of Tasawwuf Summarized
 draft: false
 tags:
   - tasawwuf
