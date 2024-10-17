@@ -28,3 +28,30 @@
     }
   }
 }
+
+.callout {
+  &[data-callout="poetry"] {
+    --color: none;
+    --border: #b39c78;
+    --bg: none;
+    font-size: 1.1rem;
+    font-weight: 600;
+    font-family: "Quintessential";
+    line-height: 1.5rem;
+
+    tbody,
+    li,
+    p {
+      line-height: 2.7rem;
+    }
+
+    .callout-title {
+      display: none;
+    }
+
+    & > .callout-content p {
+      margin-block-start: 1em;
+      margin-block-end: 1em;
+    }
+  }
+}
