@@ -16,8 +16,8 @@ This small *online oasis* primarily consolidates notes on the Islamic tradition.
 > *I never saw any lamp shining more brilliantly than the lamp of silence. — Bayazid al-Bastami*
 
 > [!quote] Ahmad Rida Khan
-> Particles of dust fall off your sandals,   
-> They become the crowns on the heads of the moving stars. — Ahmad Rida Khan
+> *Particles of dust fall off your sandals,*   
+> *They become the crowns on the heads of the moving stars. — Ahmad Rida Khan*
 
 > [!quote]
 > *The real journey is when the world's dimension is rolled away from you so that you see the Hereafter closer to you than yourself. — Ibn Ata'illah as-Sakandari*
