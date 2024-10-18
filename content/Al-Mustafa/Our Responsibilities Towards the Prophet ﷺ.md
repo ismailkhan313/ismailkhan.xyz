@@ -2,8 +2,7 @@
 title: Our Responsibilities Towards the Prophet ﷺ
 date: 2024-10-07
 draft: false
-tags:
-  - seerah
+tags: []
 ---
 ## Believe Him
 

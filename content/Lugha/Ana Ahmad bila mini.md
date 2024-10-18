@@ -5,11 +5,15 @@ draft: false
 tags:
   - poetry
 ---
+
+> [!poetry]
 > I am Ahmad without the letter _mim_. <br>
 > I am an Arab without the letter _'ain_. <br>
 > Who Hath seen Me, the same hath seen the Truth. <br>
 
-Based on a hadith Qudsi (source? Likely Fusus al-hikam from Ibn Arabi). Attributed to Farid ad-Din al-Attar
+Translation by Martin Lings. 
+
+The poetry is based from a hadith qudsi. The source is coming from Fusus al-Hikam or attributed to Ibn Arabi's texts. Poem may also be attributed to Farid ad-Din al-Attar from the translation.
 
 Note the hadith qudsi (God speaking in the first person through the Prophet) upon which is based the famous prayer of the mystics on the primordial love manifested in the personhood of the Prophet• laulaka ma khalagtu'1 aflaka= "if thou hadst not been (but for thee), I would not have created the heavens." Ibn 'Arabi is credited with developing this concept of the insan a1-kamil associated with the hadith qudsi that announces Muhammad as the Paraclete (61:6): ana Ahmad bila mim = "I am Ahmad (Muhammad) without the letter m [leaving ahad or 'One']" See Ibn 'Arabi, The Wisdom of the Prophets, trans. Titus Burckhardt and Angela Culme-Seymour (Delhi: Taj Company, 1984).
 
