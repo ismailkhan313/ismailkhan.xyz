@@ -4,6 +4,7 @@ public
 .DS_Store
 *.log
 tsconfig.tsbuildinfo
+.claude/scheduled_tasks.lock
 npm-debug.log*
 .vscode/*
 !.vscode/extensions.json
