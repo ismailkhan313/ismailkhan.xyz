@@ -1,6 +1,6 @@
 # ismailkhan.xyz
 
-Personal site for thought leadership on agentic AI architecture, consulting, and the AI industry — built with [Quartz](https://quartz.jzhao.xyz/) v5.
+Personal site for thought leadership on agentic AI architecture, consulting, and the AI industry. Built with [Quartz](https://quartz.jzhao.xyz/) v5.
 
 ## Structure
 
@@ -48,7 +48,7 @@ One-time setup after pushing this repo to GitHub:
 
 1. Go to the repo's **Settings → Pages**.
 2. Under **Build and deployment**, set **Source** to **GitHub Actions**.
-3. Under **Custom domain**, enter `www.ismailkhan.xyz` and save (GitHub will verify it once DNS is set up — see below).
+3. Under **Custom domain**, enter `www.ismailkhan.xyz` and save. GitHub will verify it once DNS is set up (see below).
 4. Push to `main`. The Action will build the site and deploy it.
 
 ### DNS setup for the custom domain
@@ -63,7 +63,7 @@ At your domain registrar / DNS provider for `ismailkhan.xyz`, add:
   185.199.110.153
   185.199.111.153
   ```
-  and an `AAAA` record set to GitHub's IPv6 addresses if you want IPv6 support — see [GitHub's docs](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site) for the current list.
+  and an `AAAA` record set to GitHub's IPv6 addresses if you want IPv6 support. See [GitHub's docs](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site) for the current list.
 
 DNS propagation can take anywhere from a few minutes to 24 hours. GitHub Pages will also auto-provision HTTPS for the domain once it verifies.
 
@@ -71,5 +71,5 @@ DNS propagation can take anywhere from a few minutes to 24 hours. GitHub Pages w
 
 Site-wide settings (title, base URL, theme colors/fonts, enabled plugins, footer links) live in `quartz.config.yaml`. Notably:
 
-- `baseUrl` is set to `www.ismailkhan.xyz` — this is also used to auto-generate the `CNAME` file on build.
-- `analytics` is currently disabled (`null`) — set it up later with Plausible, GA, Umami, or GoatCounter by editing that block.
+- `baseUrl` is set to `www.ismailkhan.xyz`. This is also used to auto-generate the `CNAME` file on build.
+- `analytics` is currently disabled (`null`). Set it up later with Plausible, GA, Umami, or GoatCounter by editing that block.

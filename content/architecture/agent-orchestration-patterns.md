@@ -8,11 +8,11 @@ tags:
   - orchestration
 ---
 
-> This is a starter post — replace this content with your own. It's here to show the frontmatter fields (title, description, date, tags) and general structure a technical post can follow.
+> This is a starter post. Replace this content with your own. It's here to show the frontmatter fields (title, description, date, tags) and general structure a technical post can follow.
 
 ## The core question
 
-Before picking an orchestration pattern, the real question is: **how much autonomy does this task actually need?** Most production failures I see come from teams reaching for a fully autonomous multi-agent loop when a single well-scoped agent — or even a deterministic pipeline with one LLM call — would have been more reliable and easier to debug.
+Before picking an orchestration pattern, the real question is: **how much autonomy does this task actually need?** Most production failures I see come from teams reaching for a fully autonomous multi-agent loop when a single well-scoped agent (or even a deterministic pipeline with one LLM call) would have been more reliable and easier to debug.
 
 ## Common patterns
 
@@ -30,7 +30,7 @@ A planning step decomposes the task into subtasks; a separate execution loop (of
 
 ### 3. Supervisor with specialist sub-agents
 
-A coordinating agent routes work to specialist agents (e.g., a research agent, a code agent, a writing agent), each with its own tools and context. Powerful, but failure modes compound — a bad handoff between agents is harder to catch than a bad tool call.
+A coordinating agent routes work to specialist agents (e.g., a research agent, a code agent, a writing agent), each with its own tools and context. Powerful, but failure modes compound: a bad handoff between agents is harder to catch than a bad tool call.
 
 **Use when:** the specialists have genuinely different tool sets or context requirements, not just different prompts.
 
@@ -38,9 +38,9 @@ A coordinating agent routes work to specialist agents (e.g., a research agent, a
 
 In practice, orchestration topology matters less than:
 
-- **Tight tool contracts** — clear inputs/outputs, explicit error states the model can act on.
-- **Observability** — being able to see every step, tool call, and intermediate state, not just the final output.
-- **Bounded autonomy** — step limits, budget limits, and human checkpoints at the right places.
+- **Tight tool contracts**: clear inputs/outputs, explicit error states the model can act on.
+- **Observability**: being able to see every step, tool call, and intermediate state, not just the final output.
+- **Bounded autonomy**: step limits, budget limits, and human checkpoints at the right places.
 
 ## Further reading
 

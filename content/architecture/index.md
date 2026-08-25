@@ -5,7 +5,7 @@ description: Technical writing on agentic AI system design.
 
 Posts in this section focus on the engineering of agentic AI systems: how agents are orchestrated, how they use tools and memory, how to evaluate and monitor them, and how these systems fail in practice.
 
-This is the technical core of the site — expect diagrams, trade-off tables, and opinions grounded in implementation detail rather than hype.
+This is the technical core of the site. Expect diagrams, trade-off tables, and opinions grounded in implementation detail rather than hype.
 
 ## Posts
 

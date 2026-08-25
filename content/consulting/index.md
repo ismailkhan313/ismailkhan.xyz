@@ -3,7 +3,7 @@ title: Consulting
 description: How I work with teams building agentic AI systems.
 ---
 
-I help engineering and product teams take agentic AI systems from prototype to something they can actually trust in production. Replace this page with your real positioning — some prompts to work from:
+I help engineering and product teams take agentic AI systems from prototype to something they can actually trust in production. Replace this page with your real positioning. Some prompts to work from:
 
 ## Who this is for
 
@@ -22,4 +22,4 @@ _(e.g., a scoped architecture audit, a fixed-term embedded engagement, or ongoin
 
 ## Get in touch
 
-**[hello@ismailkhan.xyz](mailto:hello@ismailkhan.xyz)** — replace with your real contact address, or add a contact form later.
+**[hello@ismailkhan.xyz](mailto:hello@ismailkhan.xyz)**: replace with your real contact address, or add a contact form later.
