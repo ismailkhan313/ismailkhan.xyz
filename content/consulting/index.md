@@ -22,4 +22,4 @@ _(e.g., a scoped architecture audit, a fixed-term embedded engagement, or ongoin
 
 ## Get in touch
 
-**[hello@ismailkhan.xyz](mailto:hello@ismailkhan.xyz)**: replace with your real contact address, or add a contact form later.
+Email **[ismailkhan.dev@gmail.com](mailto:ismailkhan.dev@gmail.com)** or connect on **[LinkedIn](https://www.linkedin.com/in/iikhan/)**.

@@ -1,5 +1,5 @@
 ---
-title: "Ismail Khan on Agentic AI Architecture"
+title: "The Field Guide to Agentic AI Architecture"
 description: Architecture patterns, industry analysis, and engineering practice for teams building production AI agents, with a focus on the Google AI stack.
 ---
 
@@ -138,4 +138,4 @@ I help engineering and product teams take agentic AI systems from prototype to s
 
 ## Connect
 
-Find me on **[GitHub](https://github.com/ismailkhan313)**, subscribe to the **[RSS feed](/index.xml)**, or reach out at **[hello@ismailkhan.xyz](mailto:hello@ismailkhan.xyz)**.
+Find me on **[GitHub](https://github.com/ismailkhan313)** or **[LinkedIn](https://www.linkedin.com/in/iikhan/)**, subscribe to the **[RSS feed](/index.xml)**, or reach out at **[ismailkhan.dev@gmail.com](mailto:ismailkhan.dev@gmail.com)**.

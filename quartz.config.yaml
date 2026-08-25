@@ -203,7 +203,8 @@ plugins:
     options:
       links:
         GitHub: https://github.com/ismailkhan313
-        Contact: mailto:hello@ismailkhan.xyz
+        LinkedIn: https://www.linkedin.com/in/iikhan/
+        Contact: mailto:ismailkhan.dev@gmail.com
     layout:
       position: footer
       priority: 50
