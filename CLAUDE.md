@@ -1,8 +1,17 @@
-# Writing style
+# ismailkhan.xyz
 
-Site content (posts, page copy, README) follows these rules:
+This site is a thin publishing layer over [tech-llm-wiki](https://github.com/ismailkhan313/tech-llm-wiki). It has no editorial voice of its own beyond the homepage.
 
-- **No em dashes.** Use a period, comma, colon, or parentheses instead. Rewrite the sentence if none of those fit cleanly.
-- **Voice: professional enterprise architect.** Confident, direct, grounded in production experience. Not casual, not academic.
-- **Tone: clear and simple, but technical.** Write like a senior technical writer at Google: short sentences, active voice, one idea per sentence, no unnecessary hedging or filler. Precision over cleverness.
-- Prefer concrete detail over abstraction. Say what breaks and why, not just that "things can go wrong."
+## content/notes/ is a sync target — never hand-edit it
+
+Everything under `content/notes/` is an exact mirror of `tech-llm-wiki`'s repo root, kept in sync by `.github/workflows/sync-wiki.yaml` (cron every 30 min, plus manual `workflow_dispatch`). Any edit made directly in `content/notes/` here gets silently overwritten on the next sync.
+
+**If you want to change a note, edit it in `tech-llm-wiki`, not here.** That repo's own `CLAUDE.md` has the actual conventions: OKF frontmatter, ingest/query/lint workflows, actor IDs. This file doesn't restate them.
+
+## content/index.md is the one hand-authored page
+
+The homepage is real content, edited here directly. It covers who I am, how the sync works, and links out to `/notes/`. No specific voice constraints beyond: be accurate about how the mechanism actually works if you change it.
+
+## Site config
+
+`quartz.config.yaml`, workflows, and everything outside `content/` are normal repo files — edit them like any other codebase, no special ritual.

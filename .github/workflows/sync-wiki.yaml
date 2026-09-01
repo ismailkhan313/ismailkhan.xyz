@@ -1,0 +1,54 @@
+name: Sync notes from tech-llm-wiki
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: "sync-wiki"
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Clone tech-llm-wiki
+        run: git clone --depth 1 https://github.com/ismailkhan313/tech-llm-wiki.git /tmp/tech-llm-wiki
+
+      - name: Mirror into content/notes
+        run: |
+          mkdir -p content/notes
+          rsync -a --delete \
+            --exclude='.git' \
+            --exclude='.gitignore' \
+            --exclude='CLAUDE.md' \
+            --exclude='README.md' \
+            /tmp/tech-llm-wiki/ content/notes/
+
+      - name: Commit and push if changed
+        id: sync
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add content/notes
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            SHA=$(git -C /tmp/tech-llm-wiki rev-parse --short HEAD)
+            git commit -m "Sync notes from tech-llm-wiki@${SHA}"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Trigger deploy
+        if: steps.sync.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run deploy.yaml

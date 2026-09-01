@@ -1,18 +1,24 @@
 # ismailkhan.xyz
 
-Personal site for thought leadership on agentic AI architecture, consulting, and the AI industry. Built with [Quartz](https://quartz.jzhao.xyz/) v5.
+My digital garden: a personal homepage plus a raw, LLM-maintained wiki of notes on LLMs/AI, published from [tech-llm-wiki](https://github.com/ismailkhan313/tech-llm-wiki). Built with [Quartz](https://quartz.jzhao.xyz/) v5.
 
 ## Structure
 
 ```
 content/
-  index.md              # homepage
-  architecture/          # technical deep-dives on agentic AI system design
-  industry/               # shorter commentary on the AI industry
-  consulting/             # consulting services page
+  index.md                # homepage — hand-authored, the only non-synced content
+  notes/                    # mirror of tech-llm-wiki's repo root — DO NOT hand-edit
+    index.md
+    log.md
+    references/
+    <concept>.md
 quartz.config.yaml       # site config: title, domain, theme, plugins
-.github/workflows/deploy.yaml   # auto-deploys to GitHub Pages on push to main
+.github/workflows/
+  deploy.yaml             # builds and deploys to GitHub Pages on push to main (or dispatch)
+  sync-wiki.yaml           # pulls tech-llm-wiki into content/notes/ on a schedule, triggers deploy.yaml on change
 ```
+
+`content/notes/` is a sync target, not a place to write. See [CLAUDE.md](CLAUDE.md).
 
 ## Local development
 
@@ -23,26 +29,15 @@ npx quartz build --serve
 
 This serves the site locally (default: http://localhost:8080) and rebuilds on file changes.
 
-## Writing a new post
+## How notes get here
 
-Add a new `.md` file under `content/architecture/` or `content/industry/`, with frontmatter like:
+`sync-wiki.yaml` runs every 30 minutes (and can be triggered manually via `workflow_dispatch`): it clones `tech-llm-wiki`, mirrors it into `content/notes/` with `rsync --delete` (so deletions and renames in the source propagate too), and commits if anything changed. Because a push made with the default `GITHUB_TOKEN` doesn't trigger other workflows, the sync job explicitly dispatches `deploy.yaml` afterward.
 
-```yaml
----
-title: "Your Post Title"
-description: One-sentence summary for previews and RSS.
-date: 2026-08-25
-tags:
-  - agentic-ai
-  - architecture
----
-```
-
-Link to it from the relevant section's `index.md` so it shows up in navigation, and Quartz's backlink/graph features will pick up any `[[wikilink]]`-style links automatically.
+To change a note, edit it in `tech-llm-wiki` — the next sync picks it up within 30 minutes, or run the `Sync notes from tech-llm-wiki` workflow manually to pull it in immediately.
 
 ## Deployment
 
-This repo is configured to build and deploy automatically to **GitHub Pages** on every push to `main`, via `.github/workflows/deploy.yaml`.
+This repo is configured to build and deploy automatically to **GitHub Pages** on every push to `main` (and can be triggered manually), via `.github/workflows/deploy.yaml`.
 
 One-time setup after pushing this repo to GitHub:
 

@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
   pageTitle: Ismail Khan
-  pageTitleSuffix: " · Agentic AI Architecture"
+  pageTitleSuffix: " · Notes"
   enableSPA: true
   enablePopovers: true
   analytics: null # set this up later, e.g. { provider: plausible } or { provider: google, tagId: "G-XXXXXXX" }
@@ -230,6 +230,8 @@ plugins:
         - description
         - tags
         - aliases
+        - type
+        - status
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---
