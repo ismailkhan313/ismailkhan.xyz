@@ -30,6 +30,8 @@ jobs:
             --exclude='.gitignore' \
             --exclude='CLAUDE.md' \
             --exclude='README.md' \
+            --exclude='log.md' \
+            --exclude='references' \
             /tmp/tech-llm-wiki/ content/notes/
 
       - name: Commit and push if changed

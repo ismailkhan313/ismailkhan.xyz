@@ -11,7 +11,7 @@ Find me on **[GitHub](https://github.com/ismailkhan313)** or **[LinkedIn](https:
 
 ## How this site works
 
-The **[Notes](/notes/)** section isn't written here. It's a live mirror of [tech-llm-wiki](https://github.com/ismailkhan313/tech-llm-wiki), a separate repo where Claude Code ingests sources (papers, articles, transcripts) and incrementally builds an interlinked wiki: entity pages, concept summaries, comparisons, a running [log](/notes/log) of what changed and when, and the [raw sources](/notes/references/) everything derives from.
+The **[Notes](/notes/)** section isn't written here. It's a live mirror of [tech-llm-wiki](https://github.com/ismailkhan313/tech-llm-wiki), a separate repo where Claude Code ingests sources (papers, articles, transcripts) and incrementally builds an interlinked wiki: entity pages, concept summaries, comparisons. Only the notes themselves get published here; the running change log and the raw sources they derive from stay in the source repo.
 
 A scheduled job pulls the latest wiki content into this site and republishes automatically, so notes here can be a few minutes behind the source repo but are never hand-edited in place. If you want to change something in the notes, it happens in `tech-llm-wiki`, not here.
 
