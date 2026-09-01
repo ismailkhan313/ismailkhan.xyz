@@ -6,7 +6,7 @@ This site is a thin publishing layer over [tech-llm-wiki](https://github.com/ism
 
 Everything under `content/notes/` is an exact mirror of `tech-llm-wiki`'s repo root, kept in sync by `.github/workflows/sync-wiki.yaml` (cron every 30 min, plus manual `workflow_dispatch`). Any edit made directly in `content/notes/` here gets silently overwritten on the next sync.
 
-Not everything in the source repo gets published. The mirror excludes `log.md`, `references/`, `CLAUDE.md`, and `README.md` at every level — only the concept pages go live. `quartz.config.yaml`'s `ignorePatterns` blocks `notes/log.md` and `notes/references/` too, so a stray copy can't sneak into a build.
+Not everything in the source repo gets published. The mirror excludes `references/`, `CLAUDE.md`, and `README.md` at every level; concept pages, `index.md`, and `log.md` go live. `quartz.config.yaml`'s `ignorePatterns` blocks `notes/references/` too, so a stray copy can't sneak into a build.
 
 **If you want to change a note, edit it in `tech-llm-wiki`, not here.** That repo's own `CLAUDE.md` has the actual conventions: OKF frontmatter, ingest/query/lint workflows, actor IDs. This file doesn't restate them.
 

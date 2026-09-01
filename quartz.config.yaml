@@ -11,7 +11,6 @@ configuration:
     - private
     - templates
     - .obsidian
-    - notes/log.md
     - notes/references
     - notes/references/**
   theme:
