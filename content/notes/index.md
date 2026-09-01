@@ -23,3 +23,10 @@ written in.
 - [Open Knowledge Format (OKF)](/open-knowledge-format.md) — Google Cloud's
   open specification formalizing the LLM-wiki pattern as a portable bundle of
   markdown files with YAML frontmatter.
+- [Operating This Wiki](/operating-this-wiki.md) — the operator's manual for
+  this bundle: layer ownership, the prompts that drive each operation, the
+  frontmatter fields in use, and how a note reaches the published site.
+
+## Meta
+
+- [Wiki Update Log](/log.md) — chronological record of what changed and when.
