@@ -18,7 +18,7 @@ writes and maintains a structured wiki that sits between you and your raw
 sources.[^karpathy-gist] This wiki is an instance of it, formalized on top of
 the [Open Knowledge Format](/open-knowledge-format.md).
 
-![The LLM Wiki Pattern: retrieval-only work happens after every question; the LLM wiki compiles it once, at ingest.](Diagrams/llm-wiki-pattern.png)
+![The LLM Wiki Pattern: retrieval-only work happens after every question; the LLM wiki compiles it once, at ingest.](_attachments/llm-wiki-pattern.png)
 
 > [!diagram]
 > Open the interactive version [here](/Diagrams/llm-wiki-pattern.excalidraw) to pan and zoom.
