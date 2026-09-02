@@ -6,18 +6,18 @@ My digital garden: a personal homepage plus a raw, LLM-maintained wiki of notes 
 
 ```
 content/
-  index.md                # homepage — hand-authored, the only non-synced content
-  notes/                    # mirror of tech-llm-wiki — DO NOT hand-edit
+  index.md               # homepage — hand-authored, the only non-synced content
+  log.md                 # generated from tech-llm-wiki's log.md — DO NOT hand-edit
+  Wiki/                  # mirror of tech-llm-wiki — DO NOT hand-edit
     index.md
-    log.md
     <concept>.md
 quartz.config.yaml       # site config: title, domain, theme, plugins
 .github/workflows/
-  deploy.yaml             # builds and deploys to GitHub Pages on push to main (or dispatch)
-  sync-wiki.yaml           # pulls tech-llm-wiki into content/notes/ on a schedule, triggers deploy.yaml on change
+  deploy.yaml            # builds and deploys to GitHub Pages on push to main (or dispatch)
+  sync-wiki.yaml         # pulls tech-llm-wiki into content/Wiki/ on a schedule, triggers deploy.yaml on change
 ```
 
-`content/notes/` is a sync target, not a place to write. See [CLAUDE.md](CLAUDE.md).
+`content/Wiki/` and `content/log.md` are sync targets, not places to write. See [CLAUDE.md](CLAUDE.md).
 
 ## Local development
 
@@ -30,7 +30,9 @@ This serves the site locally (default: http://localhost:8080) and rebuilds on fi
 
 ## How notes get here
 
-`sync-wiki.yaml` runs every 30 minutes (and can be triggered manually via `workflow_dispatch`): it clones `tech-llm-wiki`, mirrors it into `content/notes/` with `rsync --delete` (so deletions and renames in the source propagate too), and commits if anything changed. Concept pages, `index.md`, and `log.md` are published; `references/`, `CLAUDE.md`, and `README.md` are excluded from the mirror at every level, and `quartz.config.yaml`'s `ignorePatterns` blocks `notes/references/` as a second line of defense. Because a push made with the default `GITHUB_TOKEN` doesn't trigger other workflows, the sync job explicitly dispatches `deploy.yaml` afterward.
+`sync-wiki.yaml` runs every 30 minutes (and can be triggered manually via `workflow_dispatch`): it clones `tech-llm-wiki`, mirrors it into `content/Wiki/` with `rsync --delete` (so deletions and renames in the source propagate too), and commits if anything changed. Concept pages and `index.md` are published; `references/`, `CLAUDE.md`, and `README.md` are excluded from the mirror at every level, and `quartz.config.yaml`'s `ignorePatterns` blocks `Wiki/references/` as a second line of defense. Because a push made with the default `GITHUB_TOKEN` doesn't trigger other workflows, the sync job explicitly dispatches `deploy.yaml` afterward.
+
+The source repo's `log.md` is excluded from that mirror and written to `content/log.md` instead, so it publishes at `/log` rather than `/wiki/log`; the same step rewrites its title to **Wiki Log**. The `Wiki/` folder is capitalized on disk on purpose — Quartz lowercases slugs, so the pages serve from `/wiki/` while the sidebar and folder page read **Wiki**.
 
 To change a note, edit it in `tech-llm-wiki` — the next sync picks it up within 30 minutes, or run the `Sync notes from tech-llm-wiki` workflow manually to pull it in immediately.
 

@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
   pageTitle: Ismail Khan
-  pageTitleSuffix: " · Notes"
+  pageTitleSuffix: " · LLM Wiki"
   enableSPA: true
   enablePopovers: true
   analytics: null # set this up later, e.g. { provider: plausible } or { provider: google, tagId: "G-XXXXXXX" }
@@ -11,15 +11,15 @@ configuration:
     - private
     - templates
     - .obsidian
-    - notes/references
-    - notes/references/**
+    - Wiki/references
+    - Wiki/references/**
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
       header: Space Grotesk
-      body: Inter
-      code: JetBrains Mono
+      body: Outfit
+      code: Fira Code
     colors:
       lightMode:
         light: "#faf8f8"

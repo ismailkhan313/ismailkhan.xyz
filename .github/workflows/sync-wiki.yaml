@@ -22,23 +22,34 @@ jobs:
       - name: Clone tech-llm-wiki
         run: git clone --depth 1 https://github.com/ismailkhan313/tech-llm-wiki.git /tmp/tech-llm-wiki
 
-      - name: Mirror into content/notes
+      - name: Mirror into content/Wiki
         run: |
-          mkdir -p content/notes
+          mkdir -p content/Wiki
           rsync -a --delete \
             --exclude='.git' \
             --exclude='.gitignore' \
             --exclude='CLAUDE.md' \
             --exclude='README.md' \
             --exclude='references' \
-            /tmp/tech-llm-wiki/ content/notes/
+            --exclude='log.md' \
+            /tmp/tech-llm-wiki/ content/Wiki/
+
+      - name: Publish the log at /log as "Wiki Log"
+        run: |
+          awk '
+            NR == 1 && $0 == "---" { in_fm = 1; print; next }
+            in_fm && /^---[[:space:]]*$/ { in_fm = 0; print; next }
+            in_fm && /^title:/ { print "title: Wiki Log"; next }
+            !in_fm && !h1 && /^# / { print "# Wiki Log"; h1 = 1; next }
+            { print }
+          ' /tmp/tech-llm-wiki/log.md > content/log.md
 
       - name: Commit and push if changed
         id: sync
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add content/notes
+          git add content/Wiki content/log.md
           if git diff --cached --quiet; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
           else

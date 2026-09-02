@@ -1,12 +1,12 @@
 ---
 type: Log
-title: Wiki Update Log
+title: Wiki Log
 description: Chronological record of what changed in this wiki and when, newest first.
 generated: { by: claude-code/opus-5, at: 2026-09-01T19:28:00Z }
 status: stable
 ---
 
-# Wiki Update Log
+# Wiki Log
 
 ## 2026-09-01
 * **Update**: Brought `references/` documents into OKF §11 conformance — both source files had HTML comment headers instead of YAML frontmatter, which §11.1 requires of every non-reserved `.md` file. They now carry `type: Reference` plus `resource`, `author`, `fidelity`, and `retrieved`.
