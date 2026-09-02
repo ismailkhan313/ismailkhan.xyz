@@ -35,7 +35,10 @@ body {
 
 p,
 ul,
-text,
+// Excalidraw drawings carry their own per-element colors as `fill` presentation
+// attributes, which any matching CSS rule would override. Scope this bare `text`
+// selector out of them so those colors survive.
+text:not(.excalidraw-container text),
 a,
 tr,
 td,

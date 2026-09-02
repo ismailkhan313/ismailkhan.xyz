@@ -125,6 +125,13 @@ plugins:
     enabled: true
   - source: "@quartz-community/canvas-page"
     enabled: true
+  - source: "@quartz-community/obsidian-plugin-excalidraw"
+    enabled: true
+    options:
+      enableInteraction: true
+      darkMode: auto
+      exportPadding: 20
+    order: 50
   - source: "@quartz-community/content-page"
     enabled: true
   - source: "@quartz-community/folder-page"
