@@ -18,6 +18,11 @@ writes and maintains a structured wiki that sits between you and your raw
 sources.[^karpathy-gist] This wiki is an instance of it, formalized on top of
 the [Open Knowledge Format](/open-knowledge-format.md).
 
+![The LLM Wiki Pattern: retrieval-only work happens after every question; the LLM wiki compiles it once, at ingest.](attachments/llm-wiki-pattern.png)
+
+The whole argument at a glance. It is dense at page width — open
+[the interactive version](/llm-wiki-pattern.excalidraw) to pan and zoom.
+
 ## The problem with retrieval-only
 
 The default way to point an LLM at a document collection is RAG: upload files,

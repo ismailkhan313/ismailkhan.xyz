@@ -8,6 +8,9 @@ status: stable
 
 # Wiki Log
 
+## 2026-09-02
+* **Update**: Added a diagram to [The LLM Wiki Pattern](/llm-wiki-pattern.md), arguing the note's central inversion visually — retrieval-only does its work after every question, the wiki compiles once at ingest. The Excalidraw source lives beside the note and publishes as an interactive, pan-and-zoom page; the PNG in `attachments/` is the inline figure. Diagrams are authored with the `excalidraw-diagram` skill under `.claude/`, whose palette is restricted to Excalidraw's stock colors so drawings adapt to the site's dark mode.
+
 ## 2026-09-01
 * **Update**: Brought `references/` documents into OKF §11 conformance — both source files had HTML comment headers instead of YAML frontmatter, which §11.1 requires of every non-reserved `.md` file. They now carry `type: Reference` plus `resource`, `author`, `fidelity`, and `retrieved`.
 * **Creation**: Added [Operating This Wiki](/operating-this-wiki.md), the operator's manual for this bundle — layer ownership, the prompts that drive each operation, the frontmatter fields in use, and the path from a push to the published site.
