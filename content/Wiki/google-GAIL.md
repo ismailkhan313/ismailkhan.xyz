@@ -19,11 +19,9 @@ sources:
   - id: module5-slides
     resource: references/genai-leader-module-5-slides.md
     title: "Module 5 slide deck (Generative AI Leader course)"
-generated: { by: claude-code/sonnet-5, at: 2026-09-02T20:23:11Z }
+generated: { by: claude-code/sonnet-5, at: 2026-09-03T01:23:25Z }
 status: draft
 ---
-
-# Google Cloud GAIL Certification
 
 Consolidated study notes for the Google Cloud Generative AI Leader (GAIL)
 certification and the "Generative AI Leader (ILT)" course it's based on —

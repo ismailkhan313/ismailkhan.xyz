@@ -7,11 +7,9 @@ sources:
   - id: karpathy-gist
     resource: references/karpathy-llm-wiki.md
     title: "Karpathy, \"LLM Wiki\" (gist)"
-generated: { by: claude-code/opus-5, at: 2026-09-01T19:01:57Z }
+generated: { by: claude-code/sonnet-5, at: 2026-09-03T01:23:25Z }
 status: stable
 ---
-
-# Wiki Operations
 
 Three recurring operations keep an [LLM wiki](/llm-wiki-pattern.md) alive.
 They're what you actually do with the thing day to day; the local rules for

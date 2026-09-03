@@ -10,11 +10,9 @@ sources:
   - id: okf-spec
     resource: https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md
     title: "OKF specification (v0.2)"
-generated: { by: claude-code/sonnet-5, at: 2026-09-03T01:07:25Z }
+generated: { by: claude-code/sonnet-5, at: 2026-09-03T01:23:25Z }
 status: stable
 ---
-
-# Open Knowledge Format (OKF)
 
 An open specification from Google Cloud that turns the
 [LLM wiki pattern](/llm-wiki-pattern.md) from a private habit into a portable,

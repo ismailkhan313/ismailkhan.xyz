@@ -10,11 +10,9 @@ sources:
   - id: okf-spec
     resource: https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md
     title: "OKF specification (v0.2)"
-generated: { by: claude-code/opus-5, at: 2026-09-01T19:28:00Z }
+generated: { by: claude-code/sonnet-5, at: 2026-09-03T01:23:25Z }
 status: stable
 ---
-
-# Operating This Wiki
 
 The concrete manual for this bundle. [Wiki Operations](/wiki-operations.md)
 describes the general shape of ingest, query, and lint; this page is what they
