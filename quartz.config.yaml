@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
   pageTitle: Ismail Khan
-  pageTitleSuffix: " · LLM Wiki"
+  pageTitleSuffix: " · Ismail Khan LLM Wiki"
   enableSPA: true
   enablePopovers: true
   analytics: null # set this up later, e.g. { provider: plausible } or { provider: google, tagId: "G-XXXXXXX" }
