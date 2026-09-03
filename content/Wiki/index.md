@@ -2,7 +2,6 @@
 okf_version: "0.2"
 ---
 
-# tech-llm-wiki
 
 A personal, LLM-maintained knowledge base on LLMs/AI. See
 [CLAUDE.md](https://github.com/ismailkhan313/tech-llm-wiki/blob/main/CLAUDE.md) for how this wiki is structured and
@@ -32,13 +31,8 @@ written in.
 Study notes for certification exams — bullet-point summaries of official
 course material, not general concept pages.
 
-- [Google Cloud Generative AI Leader Certification](/google-GAIL-cert.md) —
-  overview, exam format, and links to the five module study guides.
-- [Module 1 — Gen AI: Beyond the Chatbot](/google-GAIL-module-1-beyond-the-chatbot.md)
-- [Module 2 — Gen AI: Unlock Foundational Concepts](/google-GAIL-module-2-foundational-concepts.md)
-- [Module 3 — Gen AI: Navigate the Landscape](/google-GAIL-module-3-navigate-the-landscape.md)
-- [Module 4 — Gen AI Apps: Transform Your Work](/google-GAIL-module-4-genai-apps.md)
-- [Module 5 — Gen AI Agents: Transform Your Organization](/google-GAIL-module-5-genai-agents.md)
+- [Google Cloud GAIL Certification](/google-GAIL.md) — consolidated study
+  notes: overview, exam format, and all five course modules in one page.
 
 ## Meta
 

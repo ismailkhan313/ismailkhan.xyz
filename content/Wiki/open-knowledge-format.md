@@ -10,7 +10,7 @@ sources:
   - id: okf-spec
     resource: https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md
     title: "OKF specification (v0.2)"
-generated: { by: claude-code/opus-5, at: 2026-09-01T19:01:57Z }
+generated: { by: claude-code/sonnet-5, at: 2026-09-03T01:07:25Z }
 status: stable
 ---
 
@@ -81,6 +81,17 @@ chronology respectively, as described in
 The third principle is the one to weigh when judging the spec: Google's
 commercial interest is in Knowledge Catalog ingesting OKF, but nothing about
 the format requires Google to be in the loop.
+
+### Type examples
+
+`type` values aren't centrally registered (§4.1) — the blog's own phrasing is
+that a concept is "whatever the producer needs it to be: a table, dataset,
+metric, playbook, runbook, or API."[^okf-blog] Those six are illustrative, not
+a closed list: the post's own worked example uses a producer-defined
+`BigQuery Table` in place of a generic `Table`, underscoring that the type
+should fit the concept rather than the concept being forced into a fixed
+enum.[^okf-blog] This bundle's own type usage is cataloged in
+[Operating This Wiki](/operating-this-wiki.md).
 
 ## Version drift: the blog describes v0.1
 
