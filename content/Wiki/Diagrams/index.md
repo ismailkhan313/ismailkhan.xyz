@@ -23,3 +23,8 @@ points back to the note it belongs to.
   Each pattern's glyph is also exported on its own to
   `_attachments/<pattern>.jpg` and embedded in that pattern's page, so this one
   source backs all thirteen images — re-export the crops if you edit it.
+- [a2a-protocol.excalidraw](a2a-protocol.excalidraw) — the three arguments of
+  [the A2A protocol](/a2a-protocol.md) on one canvas: an agent narrowed by a
+  tool interface beside two agents talking as peers, MCP and A2A drawn as
+  perpendicular axes across an organizational boundary, and the four-step
+  request lifecycle as a timeline.
