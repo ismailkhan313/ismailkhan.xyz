@@ -11,6 +11,9 @@ generated: { by: claude-code/sonnet-5, at: 2026-09-06T04:26:59Z }
 status: draft
 ---
 
+Study notes for Module 3 of the Google Cloud "Generative AI Leader (ILT)"
+course, on the five-layer gen AI landscape and how to choose within it.[^module3-slides]
+
 ## The five-layer model
 Top to bottom: **Applications → Agents → Platform → Models → Infrastructure**.
 

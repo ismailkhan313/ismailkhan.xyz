@@ -11,6 +11,10 @@ generated: { by: claude-code/sonnet-5, at: 2026-09-06T04:26:59Z }
 status: draft
 ---
 
+Study notes for Module 4 of the Google Cloud "Generative AI Leader (ILT)"
+course, on prompting technique and the Gemini surfaces that apply it to daily
+work.[^module4-slides]
+
 ## Prompting techniques
 - **Zero-shot**: model completes a task with no examples given.
 - **One-shot**: model is shown exactly one example before the real task.

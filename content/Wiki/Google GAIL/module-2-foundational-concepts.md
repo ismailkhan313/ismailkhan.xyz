@@ -11,6 +11,10 @@ generated: { by: claude-code/sonnet-5, at: 2026-09-06T04:26:59Z }
 status: draft
 ---
 
+Study notes for Module 2 of the Google Cloud "Generative AI Leader (ILT)"
+course, on the foundational concepts beneath gen AI — data, model types, and
+responsible use.[^module2-slides]
+
 ## Core definitions
 - **AI** — machines doing tasks that normally require human intelligence.
 - **ML** — subset of AI; machines learn from data to perform specific

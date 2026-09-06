@@ -11,6 +11,9 @@ generated: { by: claude-code/sonnet-5, at: 2026-09-06T04:26:59Z }
 status: draft
 ---
 
+Study notes for Module 5 of the Google Cloud "Generative AI Leader (ILT)"
+course, on gen AI agents and rolling them out across an organization.[^module5-slides]
+
 ## Agent evolution: deterministic vs. generative
 - **Deterministic (traditional) agents** — predefined paths/actions, workflow-based and event-driven, high control and predictability, same input → same output. Reasoning loop + tools, **no foundation model**.
 - **Generative agents** — natural, flexible conversation; may give different answers to the same input. Reasoning loop + tools + **foundation model**. RAG enables integration from external sources.

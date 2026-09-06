@@ -11,6 +11,9 @@ generated: { by: claude-code/sonnet-5, at: 2026-09-06T04:26:59Z }
 status: draft
 ---
 
+Study notes for Module 1 of the Google Cloud "Generative AI Leader (ILT)"
+course, on what generative AI is and where it creates business value.[^module1-slides]
+
 ## What is generative AI?
 - AI = computer systems performing tasks that typically require human intelligence, achieved via ML (learning from data), powered by an AI model (input → output based on training).
 - Generative AI = subset of AI that **creates** new content rather than just analyzing/responding to existing data.
