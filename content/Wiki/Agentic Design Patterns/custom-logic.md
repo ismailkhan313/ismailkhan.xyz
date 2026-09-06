@@ -16,6 +16,11 @@ design.[^agentic-patterns] You implement the orchestration logic yourself in
 code — conditional statements and the like — to build complex workflows with
 multiple branching paths.
 
+![A flow reaching a conditional diamond that branches into two different downstream paths.](/_attachments/custom-logic.jpg)
+
+> [!diagram]
+> Cropped from the [full pattern map](/Diagrams/choosing-a-pattern.excalidraw) — open it to pan and zoom.
+
 ## The worked example
 
 The source illustrates the pattern with a customer refund agent, and the

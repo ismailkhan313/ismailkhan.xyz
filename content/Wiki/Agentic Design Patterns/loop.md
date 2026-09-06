@@ -14,6 +14,11 @@ status: stable
 The *multi-agent loop pattern* repeatedly executes a sequence of specialized
 subagents until a specific termination condition is met.[^agentic-patterns]
 
+![Two agents running in sequence into a decision diamond, which loops back to the start until the exit condition holds.](/_attachments/loop.jpg)
+
+> [!diagram]
+> Cropped from the [full pattern map](/Diagrams/choosing-a-pattern.excalidraw) — open it to pan and zoom.
+
 ## How it works
 
 A *loop workflow agent* drives the cycle. Like the other workflow agents

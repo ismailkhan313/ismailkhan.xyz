@@ -19,6 +19,11 @@ decision, and each pattern trades flexibility against complexity and
 performance differently. This page is the map; the individual pattern pages
 linked below are the territory.
 
+![All twelve agent design patterns arranged along one axis — whether code or a model decides what runs next — each drawn as the shape of its own architecture, with when to use it.](/_attachments/choosing-a-pattern.png)
+
+> [!diagram]
+> Open the interactive version [here](/Diagrams/choosing-a-pattern.excalidraw) to pan and zoom.
+
 ## First: do you need an agent at all?
 
 Agents earn their cost on open-ended problems that need autonomous

@@ -16,6 +16,11 @@ multiple specialized subagents perform a task or sub-tasks independently at
 the same time, and their outputs are then synthesized into a final
 consolidated response.[^agentic-patterns]
 
+![One agent fanning out to three concurrent subagents, whose outputs converge on a single gather step.](/_attachments/parallel.jpg)
+
+> [!diagram]
+> Cropped from the [full pattern map](/Diagrams/choosing-a-pattern.excalidraw) — open it to pan and zoom.
+
 ## How it works
 
 Like the [sequential pattern](</Agentic Design Patterns/sequential.md>), this

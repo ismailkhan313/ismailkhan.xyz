@@ -16,6 +16,11 @@ improve an output over multiple cycles.[^agentic-patterns] Like
 [review and critique](</Agentic Design Patterns/review-and-critique.md>), it is
 an implementation of the [loop pattern](</Agentic Design Patterns/loop.md>).
 
+![The same agent run three times, the green artifact beneath it growing each cycle, with a loop back to the start.](/_attachments/iterative-refinement.jpg)
+
+> [!diagram]
+> Cropped from the [full pattern map](/Diagrams/choosing-a-pattern.excalidraw) — open it to pan and zoom.
+
 ## How it works
 
 One or more agents work inside a loop, modifying a result that's stored in

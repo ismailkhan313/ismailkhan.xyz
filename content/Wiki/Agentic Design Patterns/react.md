@@ -18,6 +18,11 @@ thought, action, and observation until an exit condition is met. It
 originates in the [ReAct paper](https://arxiv.org/abs/2210.03629) (Yao et
 al., 2022).
 
+![The ReAct cycle: thought, then act, then observe, and back to thought.](/_attachments/react.jpg)
+
+> [!diagram]
+> Cropped from the [full pattern map](/Diagrams/choosing-a-pattern.excalidraw) — open it to pan and zoom.
+
 ## The loop
 
 - **Thought** — the model reasons about the task and decides what to do next,

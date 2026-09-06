@@ -15,6 +15,11 @@ The *multi-agent sequential pattern* executes a series of specialized agents
 in a predefined, linear order, where the output from one agent is the direct
 input to the next.[^agentic-patterns]
 
+![Three agents in a fixed chain, each arrow feeding the next agent's output forward.](/_attachments/sequential.jpg)
+
+> [!diagram]
+> Cropped from the [full pattern map](/Diagrams/choosing-a-pattern.excalidraw) — open it to pan and zoom.
+
 ## How it works
 
 Orchestration is handled by a *sequential workflow agent* that operates on

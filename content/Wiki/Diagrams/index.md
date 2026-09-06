@@ -16,3 +16,10 @@ points back to the note it belongs to.
 - [llm-wiki-pattern.excalidraw](llm-wiki-pattern.excalidraw) — the
   retrieval-only-vs-wiki-compilation argument from
   [The LLM Wiki Pattern](/llm-wiki-pattern.md).
+- [choosing-a-pattern.excalidraw](choosing-a-pattern.excalidraw) — all twelve
+  agent design patterns mapped along the who-decides-what-runs-next axis, each
+  drawn as the shape of its own architecture, from
+  [Choosing an Agentic Design Pattern](</Agentic Design Patterns/choosing-a-pattern.md>).
+  Each pattern's glyph is also exported on its own to
+  `_attachments/<pattern>.jpg` and embedded in that pattern's page, so this one
+  source backs all thirteen images — re-export the crops if you edit it.

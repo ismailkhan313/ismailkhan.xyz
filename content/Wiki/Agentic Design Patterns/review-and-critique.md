@@ -17,6 +17,11 @@ using two specialized agents, typically in a sequential
 workflow.[^agentic-patterns] It is an implementation of the
 [loop pattern](</Agentic Design Patterns/loop.md>).
 
+![A generator agent feeding a critic diamond, with a red rejection path looping back for revision.](/_attachments/review-and-critique.jpg)
+
+> [!diagram]
+> Cropped from the [full pattern map](/Diagrams/choosing-a-pattern.excalidraw) — open it to pan and zoom.
+
 ## How it works
 
 A **generator agent** creates an initial output — a block of code, a summary

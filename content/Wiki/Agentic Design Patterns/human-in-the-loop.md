@@ -16,6 +16,11 @@ directly into an agent's workflow.[^agentic-patterns] At a predefined
 checkpoint, the agent pauses execution and calls an external system to wait
 for a person to review its work.
 
+![A flow paused at a gate where a person approves before it continues.](/_attachments/human-in-the-loop.jpg)
+
+> [!diagram]
+> Cropped from the [full pattern map](/Diagrams/choosing-a-pattern.excalidraw) — open it to pan and zoom.
+
 ## How it works
 
 The checkpoint is a deliberate suspension of autonomy: the agent stops, hands

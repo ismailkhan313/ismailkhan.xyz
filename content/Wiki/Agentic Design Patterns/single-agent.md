@@ -16,6 +16,11 @@ comprehensive system prompt to autonomously handle a user request or complete
 a specific task.[^agentic-patterns] It is the fundamental agentic pattern —
 everything else in this bundle is a response to a limit this one runs into.
 
+![A single agent calling out to three tools, marked START HERE.](/_attachments/single-agent.jpg)
+
+> [!diagram]
+> Cropped from the [full pattern map](/Diagrams/choosing-a-pattern.excalidraw) — open it to pan and zoom.
+
 ## How it works
 
 The agent relies on the model's own reasoning to interpret the request, plan
