@@ -17,10 +17,10 @@ planning.[^agentic-patterns] It is an implementation of the
 [coordinator pattern](</Agentic Design Patterns/coordinator.md>), applied at
 more than one level.
 
-![A three-level tree: a root agent delegating to two coordinators, each delegating to two worker agents.](/_attachments/hierarchical-task-decomposition.jpg)
+![A three-level tree — a coordinator agent over Task A and Task B subagents, each over two subtask subagents — with work passing down and results back up.](/_attachments/hierarchical-task-decomposition.png)
 
 > [!diagram]
-> Cropped from the [full pattern map](/Diagrams/choosing-a-pattern.excalidraw) — open it to pan and zoom.
+> Open the interactive version [here](/Diagrams/hierarchical-task-decomposition.excalidraw) to pan and zoom.
 
 ## How it works
 

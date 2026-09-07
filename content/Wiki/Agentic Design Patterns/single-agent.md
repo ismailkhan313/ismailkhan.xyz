@@ -16,10 +16,10 @@ comprehensive system prompt to autonomously handle a user request or complete
 a specific task.[^agentic-patterns] It is the fundamental agentic pattern —
 every other pattern here is a response to a limit this one runs into.
 
-![A single agent calling out to three tools, marked START HERE.](/_attachments/single-agent.jpg)
+![A user exchanging prompt and response with a single agent, which forks out to an AI model and a tool set.](/_attachments/single-agent.png)
 
 > [!diagram]
-> Cropped from the [full pattern map](/Diagrams/choosing-a-pattern.excalidraw) — open it to pan and zoom.
+> Open the interactive version [here](/Diagrams/single-agent.excalidraw) to pan and zoom.
 
 ## How it works
 

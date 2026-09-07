@@ -20,9 +20,8 @@ points back to the note it belongs to.
   agent design patterns mapped along the who-decides-what-runs-next axis, each
   drawn as the shape of its own architecture, from
   [Choosing an Agentic Design Pattern](</Agentic Design Patterns/choosing-a-pattern.md>).
-  Each pattern's glyph is also exported on its own to
-  `_attachments/<pattern>.jpg` and embedded in that pattern's page, so this one
-  source backs all thirteen images — re-export the crops if you edit it.
+  It backs only its own page now; the per-pattern glyph crops it used to supply
+  were replaced by the twelve replications below.
 - [model-context-protocol.excalidraw](model-context-protocol.excalidraw) — the
   hub diagram from [MCP](/model-context-protocol.md): AI applications on the
   left, data sources and tools on the right, bidirectional flow through one
@@ -34,3 +33,26 @@ points back to the note it belongs to.
   tool interface beside two agents talking as peers, MCP and A2A drawn as
   perpendicular axes across an organizational boundary, and the four-step
   request lifecycle as a timeline.
+
+### The twelve pattern figures
+
+One file per pattern, each a **replication** of the corresponding figure in
+Google Cloud's ["Choose a design pattern for your agentic AI
+system"](https://cloud.google.com/architecture/choose-design-pattern-agentic-ai-system),
+redrawn in stock Excalidraw colors so they adapt to the site's dark mode. Like
+[model-context-protocol.excalidraw](model-context-protocol.excalidraw) these
+reproduce a source figure rather than making an original argument, so the
+labels and flows follow the source rather than this wiki's own framing.
+
+- [single-agent.excalidraw](single-agent.excalidraw) — [Single-Agent Pattern](</Agentic Design Patterns/single-agent.md>).
+- [sequential.excalidraw](sequential.excalidraw) — [Sequential Pattern](</Agentic Design Patterns/sequential.md>).
+- [parallel.excalidraw](parallel.excalidraw) — [Parallel Pattern](</Agentic Design Patterns/parallel.md>).
+- [loop.excalidraw](loop.excalidraw) — [Loop Pattern](</Agentic Design Patterns/loop.md>).
+- [review-and-critique.excalidraw](review-and-critique.excalidraw) — [Review and Critique Pattern](</Agentic Design Patterns/review-and-critique.md>).
+- [iterative-refinement.excalidraw](iterative-refinement.excalidraw) — [Iterative Refinement Pattern](</Agentic Design Patterns/iterative-refinement.md>).
+- [coordinator.excalidraw](coordinator.excalidraw) — [Coordinator Pattern](</Agentic Design Patterns/coordinator.md>).
+- [hierarchical-task-decomposition.excalidraw](hierarchical-task-decomposition.excalidraw) — [Hierarchical Task Decomposition Pattern](</Agentic Design Patterns/hierarchical-task-decomposition.md>).
+- [swarm.excalidraw](swarm.excalidraw) — [Swarm Pattern](</Agentic Design Patterns/swarm.md>).
+- [react.excalidraw](react.excalidraw) — [ReAct Pattern](</Agentic Design Patterns/react.md>).
+- [human-in-the-loop.excalidraw](human-in-the-loop.excalidraw) — [Human-in-the-Loop Pattern](</Agentic Design Patterns/human-in-the-loop.md>).
+- [custom-logic.excalidraw](custom-logic.excalidraw) — [Custom Logic Pattern](</Agentic Design Patterns/custom-logic.md>).

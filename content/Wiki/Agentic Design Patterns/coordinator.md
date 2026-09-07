@@ -17,10 +17,10 @@ analyzes and decomposes a user's request into sub-tasks, then dispatches each
 sub-task to a specialized agent for execution. Each specialized agent is an
 expert in a specific function, such as querying a database or calling an API.
 
-![A central coordinator model fanning out to three specialist agents.](/_attachments/coordinator.jpg)
+![A coordinator agent dynamically routing the request to whichever subagent fits, with each subagent's intermediate output returning to the coordinator.](/_attachments/coordinator.png)
 
 > [!diagram]
-> Cropped from the [full pattern map](/Diagrams/choosing-a-pattern.excalidraw) — open it to pan and zoom.
+> Open the interactive version [here](/Diagrams/coordinator.excalidraw) to pan and zoom.
 
 ## The distinction that matters
 

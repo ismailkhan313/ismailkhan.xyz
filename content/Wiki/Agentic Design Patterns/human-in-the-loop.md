@@ -16,10 +16,10 @@ directly into an agent's workflow.[^agentic-patterns] At a predefined
 checkpoint, the agent pauses execution and calls an external system to wait
 for a person to review its work.
 
-![A flow paused at a gate where a person approves before it continues.](/_attachments/human-in-the-loop.jpg)
+![An agent system routing a proposed response through an external messaging system to a human reviewer, releasing it on approval and otherwise regenerating a solution.](/_attachments/human-in-the-loop.png)
 
 > [!diagram]
-> Cropped from the [full pattern map](/Diagrams/choosing-a-pattern.excalidraw) — open it to pan and zoom.
+> Open the interactive version [here](/Diagrams/human-in-the-loop.excalidraw) to pan and zoom.
 
 ## How it works
 

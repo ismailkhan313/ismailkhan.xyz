@@ -59,6 +59,19 @@ architectures.
   input to get specified outputs; the techniques catalog, why prompts are
   brittle, and what actually happened to the term.
 
+## Agent skills
+
+Packaging procedural knowledge so an agent loads it only when the task calls
+for it.
+
+- [Agent Skills](/agent-skills.md) — folders of procedural knowledge an agent
+  loads on demand; the open `SKILL.md` format, the progressive disclosure that
+  makes it cheap, and how Claude Code discovers, scopes, and invokes them.
+- [Agent Skills Best Practices](/agent-skills-best-practices.md) — how to write
+  a skill an agent actually finds and follows: sourcing it from real expertise,
+  spending context sparingly, calibrating how prescriptive to be, and iterating
+  against evaluations rather than assumptions.
+
 ## Protocols
 
 Open standards for wiring agents to the things they need — tools, data, and

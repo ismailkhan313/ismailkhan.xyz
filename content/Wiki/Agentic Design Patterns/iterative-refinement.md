@@ -16,10 +16,10 @@ improve an output over multiple cycles.[^agentic-patterns] Like
 [review and critique](</Agentic Design Patterns/review-and-critique.md>), it is
 an implementation of the [loop pattern](</Agentic Design Patterns/loop.md>).
 
-![The same agent run three times, the green artifact beneath it growing each cycle, with a loop back to the start.](/_attachments/iterative-refinement.jpg)
+![A generator whose output goes to a quality evaluator: passing scores return to the generator, failing ones route through a prompt enhancer that feeds back an updated prompt.](/_attachments/iterative-refinement.png)
 
 > [!diagram]
-> Cropped from the [full pattern map](/Diagrams/choosing-a-pattern.excalidraw) — open it to pan and zoom.
+> Open the interactive version [here](/Diagrams/iterative-refinement.excalidraw) to pan and zoom.
 
 ## How it works
 

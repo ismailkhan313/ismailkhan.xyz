@@ -15,10 +15,10 @@ The *multi-agent swarm pattern* uses a collaborative, all-to-all
 communication approach, in which multiple specialized agents work together to
 iteratively refine a solution to a complex problem.[^agentic-patterns]
 
-![Four specialist agents connected all-to-all by undirected lines, with no central orchestrator.](/_attachments/swarm.jpg)
+![A dispatcher agent handing a query into a swarm of peer subagents that hand off to each other until the exit condition is met, then return the output.](/_attachments/swarm.png)
 
 > [!diagram]
-> Cropped from the [full pattern map](/Diagrams/choosing-a-pattern.excalidraw) — open it to pan and zoom.
+> Open the interactive version [here](/Diagrams/swarm.excalidraw) to pan and zoom.
 
 ## How it works
 

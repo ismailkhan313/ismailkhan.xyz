@@ -14,10 +14,10 @@ status: stable
 The *multi-agent loop pattern* repeatedly executes a sequence of specialized
 subagents until a specific termination condition is met.[^agentic-patterns]
 
-![Two agents running in sequence into a decision diamond, which loops back to the start until the exit condition holds.](/_attachments/loop.jpg)
+![A loop agent driving Task A, B, and C in sequence: an unsatisfied exit condition loops back to Task A, a satisfied one sends the output to the main agent and ends the loop.](/_attachments/loop.png)
 
 > [!diagram]
-> Cropped from the [full pattern map](/Diagrams/choosing-a-pattern.excalidraw) — open it to pan and zoom.
+> Open the interactive version [here](/Diagrams/loop.excalidraw) to pan and zoom.
 
 ## How it works
 

@@ -18,10 +18,10 @@ thought, action, and observation until an exit condition is met. It
 originates in the [ReAct paper](https://arxiv.org/abs/2210.03629) (Yao et
 al., 2022).
 
-![The ReAct cycle: thought, then act, then observe, and back to thought.](/_attachments/react.jpg)
+![The ReAct loop: the agent system queries an AI model that thinks, acts by calling tool APIs against external environments, and observes by saving to memory, which updates the model.](/_attachments/react.png)
 
 > [!diagram]
-> Cropped from the [full pattern map](/Diagrams/choosing-a-pattern.excalidraw) — open it to pan and zoom.
+> Open the interactive version [here](/Diagrams/react.excalidraw) to pan and zoom.
 
 ## The loop
 
