@@ -208,3 +208,34 @@
   color: var(--text-muted);
   margin: 0.15rem 0 0 0;
 }
+
+// Properties table: let multi-tag rows wrap into pills instead of being
+// squeezed into one flex line (which broke tag text mid-word).
+.note-properties .note-properties-tags {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.3rem;
+
+  // the ", " separators are redundant once the tags are visually chipped
+  .note-properties-separator {
+    display: none;
+  }
+
+  .tag-link {
+    flex: 0 0 auto;
+    max-width: 100%;
+    padding: 0.1rem 0.5rem;
+    border-radius: 999px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+}
+
+// Same treatment for other array-valued properties (e.g. aliases) so long
+// lists reflow instead of overflowing their cell.
+.note-properties .note-properties-list {
+  display: inline;
+  overflow-wrap: anywhere;
+}
