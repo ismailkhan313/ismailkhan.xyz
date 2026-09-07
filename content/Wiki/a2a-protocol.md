@@ -58,8 +58,9 @@ Tools"](https://discuss.google.dev/t/agents-are-not-tools/192812).
 
 ## Where it sits: A2A vs. MCP
 
-A2A is positioned as complementary to the **Model Context Protocol (MCP)**,
-not competitive with it. They cut the problem at different joints:[^what-is-a2a]
+A2A is positioned as complementary to the
+[**Model Context Protocol (MCP)**](/model-context-protocol.md), not competitive
+with it. They cut the problem at different joints:[^what-is-a2a]
 
 | | MCP | A2A |
 |---|---|---|

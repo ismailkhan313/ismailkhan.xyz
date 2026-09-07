@@ -14,7 +14,7 @@ status: stable
 A *single-agent system* uses an AI model, a defined set of tools, and a
 comprehensive system prompt to autonomously handle a user request or complete
 a specific task.[^agentic-patterns] It is the fundamental agentic pattern —
-everything else in this bundle is a response to a limit this one runs into.
+every other pattern here is a response to a limit this one runs into.
 
 ![A single agent calling out to three tools, marked START HERE.](/_attachments/single-agent.jpg)
 

@@ -46,11 +46,28 @@ integrate the model, and orchestrate one or many agents.
 - [Human-in-the-Loop Pattern](</Agentic Design Patterns/human-in-the-loop.md>) — the agent pauses at a checkpoint and waits for a person to approve, correct, or supply input.
 - [Custom Logic Pattern](</Agentic Design Patterns/custom-logic.md>) — orchestration written as code, mixing the other patterns for workflows that fit no template.
 
+## Practices
+
+How to actually work with these models — the disciplines, not the
+architectures.
+
+- [Context Engineering](/context-engineering.md) — curating and maintaining the
+  optimal set of tokens an LLM sees during inference; the discipline that
+  supersedes prompt engineering once you move from one-shot prompts to agents
+  running in a loop.
+- [Prompt Engineering](/prompt-engineering.md) — structuring natural-language
+  input to get specified outputs; the techniques catalog, why prompts are
+  brittle, and what actually happened to the term.
+
 ## Protocols
 
 Open standards for wiring agents to the things they need — tools, data, and
 each other.
 
+- [Model Context Protocol (MCP)](/model-context-protocol.md) — an open standard
+  for connecting AI applications to external systems; the USB-C port for AI,
+  and the client-server architecture, two layers, and primitives that implement
+  it.
 - [A2A (Agent2Agent) Protocol](/a2a-protocol.md) — an open standard for
   agent-to-agent communication, letting agents from different vendors and
   frameworks discover each other and collaborate as peers rather than being

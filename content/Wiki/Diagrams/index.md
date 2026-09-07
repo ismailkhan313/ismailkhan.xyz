@@ -23,6 +23,12 @@ points back to the note it belongs to.
   Each pattern's glyph is also exported on its own to
   `_attachments/<pattern>.jpg` and embedded in that pattern's page, so this one
   source backs all thirteen images — re-export the crops if you edit it.
+- [model-context-protocol.excalidraw](model-context-protocol.excalidraw) — the
+  hub diagram from [MCP](/model-context-protocol.md): AI applications on the
+  left, data sources and tools on the right, bidirectional flow through one
+  standardized protocol in the middle. Unlike the other sources here this one
+  is a **replication** of the official docs' own figure rather than an original
+  argument, redrawn in stock Excalidraw colors so it adapts to dark mode.
 - [a2a-protocol.excalidraw](a2a-protocol.excalidraw) — the three arguments of
   [the A2A protocol](/a2a-protocol.md) on one canvas: an agent narrowed by a
   tool interface beside two agents talking as peers, MCP and A2A drawn as

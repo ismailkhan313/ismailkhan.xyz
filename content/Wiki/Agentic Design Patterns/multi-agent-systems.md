@@ -38,6 +38,13 @@ This is the tax that grows fastest as agent count grows: the decomposition
 that makes each agent simpler also means no single agent sees the whole
 picture, and what each one does see becomes a design decision.
 
+Those three strategies have a direct counterpart in Anthropic's long-horizon
+techniques — sub-agents *isolate*, structured note-taking *persists*,
+compaction *compresses* — which is some evidence the triad is real rather than
+one source's framing. [Context Engineering](/context-engineering.md) treats the
+discipline in its own right, including why context is a scarce resource in the
+first place.
+
 ## What it costs you
 
 Multi-agent systems need more evaluation, security, reliability, and cost
