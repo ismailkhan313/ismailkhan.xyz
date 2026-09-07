@@ -140,13 +140,15 @@ plugins:
     enabled: true
   - source: "@quartz-community/explorer"
     enabled: true
+    options:
+      folderDefaultState: open
     layout:
       position: left
       priority: 50
   - source: "@quartz-community/graph"
     enabled: true
     layout:
-      position: right
+      position: footer
       priority: 10
   - source: "@quartz-community/search"
     enabled: true
