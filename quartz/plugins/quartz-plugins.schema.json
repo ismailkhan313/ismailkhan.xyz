@@ -165,7 +165,7 @@
           }
         },
         "analytics": {
-          "type": "object",
+          "type": ["object", "null"],
           "description": "Analytics configuration"
         },
         "ignorePatterns": {
@@ -238,7 +238,7 @@
             "properties": {
               "position": {
                 "type": "string",
-                "enum": ["left", "right", "beforeBody", "afterBody", "body"],
+                "enum": ["left", "right", "beforeBody", "afterBody", "body", "header", "footer"],
                 "description": "Layout position"
               },
               "priority": {
