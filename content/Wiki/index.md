@@ -72,6 +72,26 @@ for it.
   spending context sparingly, calibrating how prescriptive to be, and iterating
   against evaluations rather than assumptions.
 
+## AI-native SDLC
+
+Anthropic's playbook for rebuilding the software development lifecycle around
+agentic coding — twelve plays across six stages, each with its own governance
+story and metric.
+
+- [The AI-Native SDLC](</AI-Native SDLC/ai-native-sdlc.md>) — why the bottleneck moved out of the build phase, the six stages as a loop rather than a line, and the committed artifact that carries work between them.
+- [Capture as intent.md](</AI-Native SDLC/capture-intent.md>) — the originator brainstorms the idea with Claude and commits it as a version-controlled proto-spec in their own terms.
+- [Requirements and Design in One Session](</AI-Native SDLC/requirements-and-design.md>) — Claude turns an approved intent into a spec constrained by the organization's skills, flagging the policy conflicts an analyst would have escalated.
+- [Plan Mode as the Default Starting Point](</AI-Native SDLC/plan-mode.md>) — the plan becomes reviewable before any code exists; also auto mode and the legacy source-of-truth problem.
+- [The CLAUDE.md as Institutional Memory](</AI-Native SDLC/claude-md.md>) — the onboarding document a new joiner would need, kept under a page and corrected whenever Claude makes the same mistake twice.
+- [Skills as Institutional Knowledge](</AI-Native SDLC/skills-as-institutional-knowledge.md>) — one inconsistently-enforced policy encoded as a skill, understood as an advisory control that needs a deterministic hook behind it.
+- [Parallel Sessions and Subagents](</AI-Native SDLC/parallel-sessions-and-subagents.md>) — one engineer drives several sessions in separate worktrees, with recurring jobs packaged as subagents; the ceiling is review capacity.
+- [Give Claude a Feedback Loop](</AI-Native SDLC/feedback-loop.md>) — the session verifies its own work before an engineer sees it, and the check is protected from the agent fixing the code.
+- [Continuous Evals in CI](</AI-Native SDLC/continuous-evals.md>) — real tasks with checks, run whenever `CLAUDE.md`, skills, or hooks change, because configuration steers the agent and deserves regression testing.
+- [AI in the PR Review Loop](</AI-Native SDLC/ai-pr-review.md>) — every PR gets an identical set of review passes defined in `REVIEW.md`, and human attention moves up to intent and risk.
+- [Hooks as Approval Gates](</AI-Native SDLC/hooks-as-approval-gates.md>) — each human approval expressed as a hook that can allow, ask, or block, with the regulated-enterprise managed settings file annotated key by key.
+- [CI/CD Integration and Deployment](</AI-Native SDLC/ci-cd-integration.md>) — Claude runs non-interactively in the pipeline for the judgment steps, sandboxed, with deploy and rollback exposed through MCP.
+- [Closing the Loop on Metrics](</AI-Native SDLC/closing-the-loop.md>) — a deterministic detection script invokes Claude on a control-band breach, and the diagnosis is written back as an `intent.md` that restarts the lifecycle.
+
 ## Protocols
 
 Open standards for wiring agents to the things they need — tools, data, and
