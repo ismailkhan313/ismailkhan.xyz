@@ -41,6 +41,11 @@ When implementation collapses to agent speed, three things follow:[^sdlc-playboo
 3. **Governance costs rise**, because exceptions still route through committees
    that meet weekly or monthly.
 
+![Two rows of lifecycle stages. Before agents: Plan, Design, a long Build block, Test, Deploy, Maintain, all at human speed. After agents: the same stages with Build collapsed to a sliver and the freed width marked 'cycle time reclaimed'; Plan and Design labelled requirements, Test labelled review, Deploy labelled release.](/_attachments/sdlc-bottleneck-moved.png)
+
+> [!diagram]
+> Open the interactive version [here](/Diagrams/sdlc-bottleneck-moved.excalidraw) to pan and zoom.
+
 The security review is the sharpest case. A security team sized for human
 output faces a queue that either grows without bound or gets waved through. A
 regulated organization can accept neither, so the checks themselves have to run
@@ -53,6 +58,11 @@ becomes a loop with AI embedded at each point, and with handover between stages
 automated rather than manual. Production is not the end of the process; a
 breached control band in production writes the next `intent.md` and the loop
 runs again.
+
+![Left: the traditional lifecycle as a straight line, Plan through Maintain. Right: the same six stages arranged as a continuous loop around Claude, arrows running clockwise from Plan back to Plan.](/_attachments/sdlc-line-vs-loop.png)
+
+> [!diagram]
+> Open the interactive version [here](/Diagrams/sdlc-line-vs-loop.excalidraw) to pan and zoom.
 
 | Stage | Traditional | AI-native |
 | --- | --- | --- |
@@ -113,6 +123,11 @@ start. The dependencies then stack: subagents and evals want `CLAUDE.md`,
 requirements-and-design wants captured intent and skills, PR review wants evals
 and subagents, CI/CD wants PR review and hooks, and closing the loop wants CI/CD
 and captured intent.
+
+![Dependency graph of the twelve plays in five rows. Row 1, no prerequisites: Capture intent, CLAUDE.md, Skills, Feedback loop, Hooks, Plan mode. Row 2: Subagents and Evals. Row 3: Requirements and design, PR review. Row 4: CI/CD. Row 5: Closing the loop. Solid arrows mark a real prerequisite, dotted arrows mark a play that helps but is not required.](/_attachments/sdlc-play-dependency-graph.png)
+
+> [!diagram]
+> Open the interactive version [here](/Diagrams/sdlc-play-dependency-graph.excalidraw) to pan and zoom.
 
 ## Advisory controls and deterministic ones
 

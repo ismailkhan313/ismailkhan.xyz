@@ -34,6 +34,25 @@ points back to the note it belongs to.
   perpendicular axes across an organizational boundary, and the four-step
   request lifecycle as a timeline.
 
+### The three AI-native SDLC figures
+
+One file per figure, each a **replication** of the corresponding figure in
+Anthropic's ["The AI-Native SDLC
+Playbook"](https://academy.claude.com/courses/ai-native-sdlc-playbook), redrawn
+in stock Excalidraw colors so they adapt to the site's dark mode. Like the
+figures below they reproduce a source figure rather than making an original
+argument. All three sit on [The AI-Native SDLC](</AI-Native SDLC/ai-native-sdlc.md>).
+
+- [sdlc-bottleneck-moved.excalidraw](sdlc-bottleneck-moved.excalidraw) — the six
+  stages before and after agents, with Build collapsed to a sliver and the
+  freed width marked "cycle time reclaimed."
+- [sdlc-line-vs-loop.excalidraw](sdlc-line-vs-loop.excalidraw) — the traditional
+  lifecycle as a straight line beside the AI-native one as a continuous loop
+  around Claude.
+- [sdlc-play-dependency-graph.excalidraw](sdlc-play-dependency-graph.excalidraw)
+  — the twelve plays in five rows, solid arrows for a real prerequisite and
+  dotted for a play that helps but is not required.
+
 ### The twelve pattern figures
 
 One file per pattern, each a **replication** of the corresponding figure in
