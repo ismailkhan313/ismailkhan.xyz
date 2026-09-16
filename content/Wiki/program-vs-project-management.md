@@ -220,6 +220,13 @@ change failure rate, escaped defects — speak to whether anything actually got
 better. A delivery-metrics programme that tracks only the former is measuring
 itself as a project.
 
+The same asymmetry governs staffing. Adding people is a project-level lever, but
+the decision [Brooks's Law](/brooks-law.md) actually forces once a delivery is
+late — trim scope or move the date — is a benefits decision. On a programme it
+belongs to whoever owns the benefit case, not to the delivery manager holding
+the headcount budget, and the failure mode is a manager turning the only dial
+they control because the dial that matters is owned elsewhere.
+
 ## The terminology trap
 
 In US federal usage a "program" is a different concept entirely, and OMB's

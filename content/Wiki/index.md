@@ -119,6 +119,10 @@ them.
   benefits against requirements, a flexible organisation against a bounded
   management environment, plus the diagnostic signs of each and the
   federal-vs-commercial terminology trap.
+- [Brooks's Law](/brooks-law.md) — adding manpower to a late software project
+  makes it later: the five mechanisms behind it, why managers who know the law
+  staff up anyway, the two conditions under which adding people genuinely
+  works, and what to try first.
 
 ## Certifications
 

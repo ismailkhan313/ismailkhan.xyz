@@ -44,7 +44,11 @@ isolation as the point.
    files.
 3. **Two or three sessions is a sensible start.** The practical ceiling is how
    many streams one person can review properly; add sessions only while review
-   is keeping up.
+   is keeping up. This is [Brooks's Law](/brooks-law.md) in new clothes — review
+   is the sequential constraint, it does not partition, and pushing past it
+   produces the same defect tail that staffing up produces against a test phase.
+   Agents remove the ramp-up term but not the divisibility one, which is why the
+   ceiling moved rather than disappeared.
 4. Turn repeated jobs into subagents — markdown files in `.claude/agents/`, each
    with a name, a description of when to use it, and the tools it may touch.
    Check them into Git so the team shares them.
