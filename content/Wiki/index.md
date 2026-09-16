@@ -3,7 +3,9 @@ okf_version: "0.2"
 ---
 
 
-A personal, LLM-maintained knowledge base on LLMs/AI. See
+A personal, LLM-maintained knowledge base covering three subjects: LLMs and AI,
+technical program management, and technical product management. The repo name
+predates the last two. See
 [CLAUDE.md](https://github.com/ismailkhan313/tech-llm-wiki/blob/main/CLAUDE.md) for how this wiki is structured and
 maintained, and [references/](https://github.com/ismailkhan313/tech-llm-wiki/tree/main/references) for the raw sources
 it's built from.
@@ -105,6 +107,18 @@ each other.
   agent-to-agent communication, letting agents from different vendors and
   frameworks discover each other and collaborate as peers rather than being
   wrapped as each other's tools.
+
+## Program and product management
+
+The delivery and product disciplines, taken from their normative standards and
+the research behind them rather than from the derivative layer that restates
+them.
+
+- [Program Management vs. Project Management](/program-vs-project-management.md)
+  — what separates the two, drawn only from sources anyone can read for free:
+  benefits against requirements, a flexible organisation against a bounded
+  management environment, plus the diagnostic signs of each and the
+  federal-vs-commercial terminology trap.
 
 ## Certifications
 
