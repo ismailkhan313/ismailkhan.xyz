@@ -33,6 +33,7 @@ written in.
 Architectural patterns for agentic AI systems — how to organize components,
 integrate the model, and orchestrate one or many agents.
 
+- [Agents vs. Workflows](/agents-vs-workflows.md) — the architectural line between a system whose path is fixed in code and one where the model chooses its own: Anthropic's definitions, the five workflow patterns, the guidance to build neither, and how the distinction degrades as it circulates.
 - [Choosing an Agentic Design Pattern](</Agentic Design Patterns/choosing-a-pattern.md>) — the decision framework: whether you need an agent at all, the four requirement dimensions, and which pattern fits which workload shape.
 - [Single-Agent Pattern](</Agentic Design Patterns/single-agent.md>) — one model, one tool set, one system prompt; the baseline architecture and recommended starting point.
 - [ReAct Pattern](</Agentic Design Patterns/react.md>) — thought, action, observation in a loop; the reasoning technique that raises a single agent's ceiling.
@@ -114,11 +115,6 @@ The delivery and product disciplines, taken from their normative standards and
 the research behind them rather than from the derivative layer that restates
 them.
 
-- [Program Management vs. Project Management](/program-vs-project-management.md)
-  — what separates the two, drawn only from sources anyone can read for free:
-  benefits against requirements, a flexible organisation against a bounded
-  management environment, plus the diagnostic signs of each and the
-  federal-vs-commercial terminology trap.
 - [Brooks's Law](/brooks-law.md) — adding manpower to a late software project
   makes it later: the five mechanisms behind it, why managers who know the law
   staff up anyway, the two conditions under which adding people genuinely

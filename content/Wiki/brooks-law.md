@@ -289,9 +289,8 @@ what it costs right up to the point where it declines to answer.
 The staffing decision is a project-level lever, but the decision Brooks's Law
 actually forces — trim scope or move the date — is a benefits decision. On a
 programme it belongs to whoever owns the benefit case, not to the delivery
-manager holding the headcount budget; see
-[Program Management vs. Project Management](/program-vs-project-management.md),
-where the same outputs-versus-outcomes asymmetry does most of the work.
+manager holding the headcount budget. The same outputs-versus-outcomes
+asymmetry does most of the work there.
 
 The law also reappears, unnamed, in agentic development. The ceiling in
 [Parallel Sessions and Subagents](</AI-Native SDLC/parallel-sessions-and-subagents.md>)

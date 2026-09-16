@@ -33,7 +33,10 @@ completing goal-focused tasks with some degree of autonomy.
 
 If your workload is predictable or highly structured, or if it can be
 executed with a single call to a model, a non-agentic solution is usually
-more cost effective. Summarizing a document, translating text, and
+more cost effective. Anthropic's guidance lands in the same place from a
+different catalog — see [Agents vs. Workflows](/agents-vs-workflows.md),
+which sets out the underlying distinction this page's two multi-agent
+families are an application of. Summarizing a document, translating text, and
 classifying customer feedback are the source's own examples of tasks that
 don't need an agentic workflow at all.
 
