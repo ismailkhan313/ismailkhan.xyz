@@ -119,6 +119,20 @@ them.
   makes it later: the five mechanisms behind it, why managers who know the law
   staff up anyway, the two conditions under which adding people genuinely
   works, and what to try first.
+- [The RACI Matrix](/raci-matrix.md) — Responsible, Accountable, Consulted,
+  Informed: one instance of the responsibility assignment matrix; how to build
+  one, the column-and-row analysis that is the only reason to keep it, the ITIL
+  and COBIT versions, and the decision-authority gap it structurally cannot
+  fill.
+- [The DACI Framework](/daci-framework.md) — Driver, Approver, Contributor,
+  Informed: a decision-roles framework whose unit is one question, not one
+  project; the Atlassian play it actually comes from, the uncited statistic on
+  its own vendor page, and the decision register that is the part worth
+  maintaining.
+- [DACI vs. RACI](/daci-vs-raci.md) — not competing frameworks but different
+  units of analysis; the role mapping and the three places it breaks, the
+  decision-authority cell RACI lacks, how RAPID and DARE fill it, and why most
+  IT projects should run both.
 
 ## Certifications
 

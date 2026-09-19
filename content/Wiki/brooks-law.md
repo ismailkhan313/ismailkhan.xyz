@@ -292,6 +292,18 @@ programme it belongs to whoever owns the benefit case, not to the delivery
 manager holding the headcount budget. The same outputs-versus-outcomes
 asymmetry does most of the work there.
 
+That is also a decision-rights problem, and a well-posed one. "Trim scope or
+move the date?" is a question with options, a deadline and consequences that
+are expensive to reverse — the exact shape the [DACI framework](/daci-framework.md)
+exists for, with the benefit-case owner as Approver. It is worth noticing what
+goes wrong when the question is instead routed through a
+[RACI matrix](/raci-matrix.md), which is the usual artifact to hand: RACI has no
+cell for choosing between options, so the call defaults to whoever is
+Accountable on the nearest deliverable — which is precisely the delivery manager
+holding the headcount budget, the one person whose available lever is the one
+Brooks's Law says not to pull. The framework does not cause the error, but it
+does nothing to catch it, and [DACI vs. RACI](/daci-vs-raci.md) sets out why.
+
 The law also reappears, unnamed, in agentic development. The ceiling in
 [Parallel Sessions and Subagents](</AI-Native SDLC/parallel-sessions-and-subagents.md>)
 is "how many streams one person can review properly," and that is Brooks's third
