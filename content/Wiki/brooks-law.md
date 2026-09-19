@@ -79,7 +79,11 @@ is not late at all.
 **3. Limited divisibility.** "The bearing of a child takes nine months, no
 matter how many women are assigned."[^brooks] Integration, a single hard
 debugging thread, one contended schema — sequential constraints do not
-parallelise, and a late project is usually late *because* of one of them.
+parallelise, and a late project is usually late *because* of one of them. A
+[dependency map](/dependency-mapping.md) is an inventory of exactly these
+constraints, which makes it the cheapest available evidence for the argument
+this page exists to support: if the map is dense, the work does not divide, and
+headcount will not buy schedule.
 
 **4. Group re-formation.** Gren's contribution, and the one absent from every
 capacity model: adding members regresses a team down its group-development

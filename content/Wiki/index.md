@@ -133,6 +133,15 @@ them.
   units of analysis; the role mapping and the three places it breaks, the
   decision-authority cell RACI lacks, how RAPID and DARE fill it, and why most
   IT projects should run both.
+- [The Pareto Chart](/pareto-chart.md) — sorted bars plus a cumulative line,
+  pointed at an IT defect backlog: choosing the category axis, weighting by cost
+  rather than count, what the empirical software-defect literature says about
+  whether 80/20 holds, and the ways the chart misleads.
+- [Dependency Mapping](/dependency-mapping.md) — making the links between work
+  items, teams and systems explicit before they surface as blockers: the two
+  different things IT calls dependency mapping, the taxonomy that tells you
+  which dependencies are removable, the cycles a Gantt chart structurally
+  cannot draw, and the register that is the artifact worth maintaining.
 
 ## Certifications
 

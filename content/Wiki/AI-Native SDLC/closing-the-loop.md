@@ -38,7 +38,10 @@ diagnosis, never in the trigger.
 
 1. The service owner or platform engineer picks **one metric with a stable
    rolling baseline** — CI test failure rate, post-deploy 5xx rate, PR cycle
-   time.
+   time. A category from a recomputed defect
+   [Pareto chart](/pareto-chart.md) works too, and brings its own hazard: the
+   ranking is built to always show a top bar, so band the *absolute height* of
+   a named category, never its position.
 2. They write the detection script: typically mean and standard deviation over a
    rolling window with rules (Western Electric or similar) so the bands catch
    slow drift as well as spikes.
